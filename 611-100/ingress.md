@@ -3,3 +3,4 @@ Vom 20.02.2017
 Der Kantonsrat Schaffhausen
 gestützt auf Art. 96 f. der Kantonsverfassung
 beschliesst:
+1 Allgemeine Bestimmungen und Begriffe

@@ -15,3 +15,5 @@ b) Wahl- und Abstimmungskampagnen, für die gesamthaft weniger als CHF 3’000.�
 5 Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen und sonstigen Organisationen gegen die Verpflichtungen von Abs. 1–3 dieses Verfassungsartikels werden mit Busse sanktioniert.
 5bis Spenden an politische Parteien, die gegen die Offenlegungspflichten verstossen haben, sind steuerlich nicht abzugsfähig.
 6 Das Gesetz regelt die Einzelheiten. Es trägt namentlich dem Schutz von Berufsgeheimnissen Rechnung.
+4 Behörden
+4.1 Grundsätze
