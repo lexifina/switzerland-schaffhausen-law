@@ -1,0 +1,5 @@
+# Vollziehungsverordnung zu den Bundesgesetzen über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen sowie über Massnahmen zur Bekämpfung der Schwarzarbeit
+Vom 13.04.2004
+Der Regierungsrat des Kantons Schaffhausen,
+gestützt auf Art. 7 Abs. 1 lit. b und d, Art. 7 Abs. 5 und Art. 13 des Bundesgesetzes über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (Bundesgesetz über die in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer [EntsG]) vom 8. Oktober 1999 und Art. 9 Abs. 3, Art. 10 und Art. 14 Abs. 1 der Verordnung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer [EntsV] vom 21. Mai 2003 sowie Art. 4 Abs. 1 und Art. 13 Abs. 1 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit [BGSA]) vom 17. Juni 2005 und Art. 2 Abs. 4 der Verordnung über Massnahmen zur Bekämpfung der Schwarzarbeit (Verordnung gegen die Schwarzarbeit [VOSA]) vom 6. September 2006,
+beschliesst:
