@@ -1,0 +1,6 @@
+# Art. 10b Restfinanzierung der Pflege gemäss KVG
+1 Bei Anbietern mit Leistungsauftrag des Kantons sowie bei zugelassenen Leistungsanbietern ohne vertraglichen Auftrag eines öffentlichen Gemeinwesens legt der Regierungsrat die nötigen Beiträge zur Restfinanzierung der Pflege auf deren Antrag hin fest.
+2 Die Festlegung erfolgt nach betriebswirtschaftlichen Kriterien unter Berücksichtigung der von den Leistungsanbietern nachgewiesenen Kosten, der qualitativen Besonderheiten der erbrachten Leistungen, der Referenzkosten anderer Anbieter sowie der zulässigen Beiträge der Versicherer und der Versicherten.
+3 Bei Organisationen der ambulanten Pflege mit kommunalen Leistungsaufträgen erfolgt die Restfinanzierung im Rahmen der Beiträge gemäss Art. 10 Abs. 3.
+4 Für Heime mit kommunalen Leistungsaufträgen legt der Regierungsrat Richtwerte fest, die im Normalfall bei wirtschaftlicher Betriebsführung eine kostendeckende Restfinanzierung der Pflege sichern. Die Richtwerte werden jährlich überprüft und bei Bedarf den veränderten Verhältnissen angepasst.
+5 Bei Heimen und Organisationen mit höheren Kosten ist die Finanzierungslücke durch Zusatzbeiträge der auftraggebenden Gemeinden zu schliessen. Die Vertrags- bzw. Trägergemeinden regeln die Einzelheiten.
