@@ -1,0 +1,5 @@
+# Kantonale Chemikalienverordnung
+Vom 22.04.2008
+Der Regierungsrat des Kantons Schaffhausen,
+in Ausführung des Bundesgesetzes vom 15. Dezember 2000 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz; ChemG), der Verordnung vom 18. Mai 2005 über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikalienverordnung, ChemV), der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgang mit Biozidprodukten (Biozidprodukteverordnung, VBP), des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (USG), der Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zubereitungen und Gegenständen (Chemikalien-Risikoreduktions-Verordnung, ChemRRV), der Verordnung vom 18. Mai 2005 über das Inverkehrbringen von Pflanzenschutzmitteln (Pflanzenschutzmittelverordnung, PSMV), der Verordnung vom 10. Januar 2001 über das Inverkehrbringen von Düngern (Dünger-Verordnung, DüV), des Strassengesetzes vom 18. Februar 1980 8) sowie gestützt auf Art. 38 des Einführungsgesetzes zum Umweltschutzgesetz vom 22. Januar 2007 (EG USG),
+beschliesst:
