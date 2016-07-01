@@ -1,0 +1,2 @@
+# § 5g Zuständigkeit: Private
+1 Wer zum Schutze seines Grundstückes ein Verbot erwirkt hat oder auf seinem privaten Parkplatz Dritten das Parkieren gestatten will, kann nach den Weisungen der zuständigen Gemeindebehörde auf seine Kosten die entsprechenden Signale anbringen.
