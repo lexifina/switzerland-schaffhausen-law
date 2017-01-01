@@ -1,0 +1,3 @@
+# § T1 Übergangsbestimmung zur Änderung vom 2. September 2009
+1 Wer beim Inkrafttreten der Änderung vom 2. September 2009 Wohnsitz im Kanton Schaffhausen hat und einen Hund gemäss § 3 Abs. 1 lit. e–n hält, muss innerhalb von drei Monaten nach Inkrafttreten dieser Änderung bei der zuständigen kantonalen Behörde ein Gesuch um Erteilung einer Haltungsbewilligung gemäss Art. 9 des Gesetzes einreichen.
+2 Für Hunde gemäss § 3 Abs. 1 lit. e–n, die bei Inkrafttreten dieser Änderung gehalten werden, entscheidet die zuständige kantonale Behörde im Rahmen der Bewilligungserteilung über die Notwendigkeit einer Ausbildung nach Art. 8 des Gesetzes.
