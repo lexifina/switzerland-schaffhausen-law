@@ -1,0 +1,4 @@
+# Art. 9a Zuständigkeit und Verfahren bei wärmetechnischen Anlagen
+1 Die Zuständigkeit zur Festsetzung von Brandschutzanordnungen für die Erstellung oder den Ersatz von wärmetechnischen Anlagen richtet sich nach den brennstoffabhängigen Leistungsgrenzen gemäss Art. 11 des Gesetzes über die Einführung des Bundesgesetzes über den Umweltschutz (Einführungsgesetz zum USG) vom 22. Januar 2007.
+2 Brandschutzanordnungen für wärmetechnische Anlagen, welche über der brennstoffabhängigen Leistungsgrenze von Art. 11 EG USG liegen, werden durch die Kantonale Feuerpolizei festgesetzt und durch das Baudepartement bewilligt. Alle übrigen wärmetechnischen Anlagen werden durch die Gemeinde bewilligt. Der Regierungsrat kann Ausnahmen von der Bewilligungspflicht festlegen.
+3 Soweit für den Einbau und den Ersatz von wärmetechnischen Anlagen eine Bewilligung erforderlich ist, erfolgt diese im Rahmen der Zuständigkeiten entweder im Baubewilligungsverfahren oder durch Verfügung.
