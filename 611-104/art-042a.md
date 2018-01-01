@@ -1,0 +1,2 @@
+# Art. 42a Vollzug
+1 Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
