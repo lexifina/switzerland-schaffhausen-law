@@ -1,0 +1,3 @@
+# Art. 46a Datenerhebung
+1 Die Einrichtungen führen für jede von ihnen betreute Person eine Klientendokumentation. Diese enthält insbesondere Angaben über die Versichertennummer nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (Versichertennummer), den Rentenanspruch, die Einstufung der Hilflosigkeit, die Art der Behinderung sowie den individuellen Betreuungsbedarf.
+2 Das zuständige Departement erhebt im Rahmen der Bestimmungen des Bundesgesetzes über den Datenschutz und des kantonalen Datenschutzgesetzes bei den Einrichtungen Daten, einschliesslich schützenswerte Personendaten, sofern sie für die Ausübung seiner Tätigkeit und namentlich der Aufsicht erforderlich sind.
