@@ -1,0 +1,6 @@
+# Vollziehungsverordnung zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration vom 16. Dezember 2005 und dem Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999
+(Vollziehungsverordnung-AIG)
+Vom 16.12.2008
+Der Regierungsrat des Kantons Schaffhausen,
+gestützt auf Art. 98 Abs. 3 und Art. 124 Abs. 2 des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration vom 16. Dezember 2005 (Ausländer- und Integrationsgesetz, AIG), Art. 88 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit vom 24. Oktober 2007 (VZAE), Art. 26 der Verordnung über die schrittweise Einführung des freien Personenverkehrs zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten vom 22. Mai 2002 (Verordnung über die Einführung des freien Personenverkehrs, VEP), die Verordnung über die Integration von Ausländerinnen und Ausländern vom 24. Oktober 2007 (VIntA), die Verordnung über die Gebühren zum Bundesgesetz über die Ausländerinnen und Ausländer vom 24. Oktober 2007 (Gebührenverordnung AuG, GebV-AuG) sowie die Verordnung über das Zentrale Migrationsinformationssystem vom 12. April 2006 (ZEMIS-Verordnung),
+beschliesst:
