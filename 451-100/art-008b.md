@@ -1,0 +1,5 @@
+# Art. 8b Schutzobjekte: Wirkung
+1 Massnahmen, die den Zustand eines Schutzobjektes von nationaler oder regionaler Bedeutung dauernd verändern, bedürfen der Bewilligung des Baudepartementes.
+2 Massnahmen, die den Zustand eines Schutzobjektes von lokaler Bedeutung dauernd verändern, bedürfen der Bewilligung des Gemeinderates. Dieser kann die Stellungnahme einer kantonalen, kommunalen oder privaten Fachstelle einholen.
+3 Die Bewilligung ist zu erteilen, wenn die angestrebten Massnahmen den für das betreffende Schutzobjekt festgelegten Schutzzielen nicht widersprechen und keine anderen Vorschriften des eidgenössischen und kantonalen Rechts verletzen.
+4 Gegen Entscheide des Baudepartementes und des Gemeinderates können die Betroffenen nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen Rekurs an den Regierungsrat erheben. In Fällen von Art. 8b Abs. 2 wird die Bewilligung dem Baudepartement zugestellt, welches dagegen innert 30 Tagen beim Regierungsrat Rekurs erheben kann.

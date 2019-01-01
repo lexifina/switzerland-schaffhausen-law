@@ -1,0 +1,5 @@
+# Art. 7b Wirkung
+1 Massnahmen, die den Zustand einer Schutzzone dauernd verändern, bedürfen der Bewilligung des Gemeinderates. Dieser holt bei Schutzzonen nationaler oder regionaler Bedeutung eine Stellungnahme der kantonalen Fachstelle ein. Bei Schutzzonen lokaler Bedeutung kann die Stellungnahme einer kantonalen, kommunalen oder privaten Fachstelle eingeholt werden.
+2 Bei Massnahmen von untergeordneter Bedeutung kann auf die Stellungnahme einer Fachstelle verzichtet werden. Der Regierungsrat bestimmt diese Massnahmen.
+3 Die Bewilligung ist zu erteilen, wenn die angestrebten Massnahmen den für die betreffende Schutzzone festgelegten Schutzzielen nicht widersprechen und keine anderen Vorschriften des eidgenössischen und kantonalen Rechts verletzen.
+4 Gegen den Entscheid des Gemeinderates können die Betroffenen nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen Rekurs an den Regierungsrat erheben. Die Bewilligung wird dem Baudepartement zugestellt, welches dagegen innert 30 Tagen beim Regierungsrat Rekurs erheben kann.
