@@ -1,0 +1,5 @@
+# Art. 47e Ausdehnung
+1 Beträgt die zu leistende Entschädigung mehr als zwei Drittel des Wertes, der für die betreffende Grundstücksfläche im Falle der formellen Enteignung bezahlt werden müsste, kann der Grundeigentümer die Übernahme der betreffenden Fläche verlangen.
+2 Das Gemeinwesen kann seinerseits die Übernahme verlangen, wenn die Entschädigung für die materielle Enteignung mindestens vier Fünftel derjenigen beträgt, die es im Falle der formellen Enteignung zahlen müsste, und soweit der Übernahme nicht wesentliche private Interessen entgegenstehen.
+3 Das Begehren um formelle Enteignung kann so lange gestellt werden, als die Geltendmachung eines Entschädigungsanspruches wegen materieller Enteignung möglich ist. Es kann auch mit der Weiterziehung eines Entscheides über einen solchen Entschädigungsanspruch verbunden werden.
+4 Die Schätzungskommission hat sowohl die bei materieller wie die bei formeller Enteignung zu leistende Entschädigung festzusetzen. Innert 60 Tagen nach Rechtskraft dieser doppelten Schätzung hat die Partei, die das Begehren um formelle Enteignung stellte, zu erklären, ob sie an ihm festhält. Hierauf entscheidet die Schätzungskommission.

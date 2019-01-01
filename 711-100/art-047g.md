@@ -1,0 +1,4 @@
+# Art. 47g Rückerstattungspflicht
+1 Entschädigungen können vom Gemeinwesen innert zehn Jahren seit ihrer Bezahlung ganz oder teilweise zurückverlangt werden, wenn die Eigentumgsbeschränkung nachträglich aufgehoben oder erheblich gemildert wird oder ihre die Entschädigungspflicht begründete Wirkung entfällt. Bei Handänderungen geht die Rückerstattungspflicht auf den neuen Eigentümer über.
+2 Bei der Festsetzung des Zeitpunktes und der Höhe der Rückerstattung ist auf die Verhältnisse des Betroffenen Rücksicht zu nehmen. Wo Gründe der Billigkeit es rechtfertigen, kann das Gemeinwesen mit der Rückforderung bis spätestens zum Zeitpunkt der Realisierung des erwirkten Vorteils durch Veräusserung oder Überbauung zuwarten.
+3 Streitigkeiten über die Rückerstattung und die Herabsetzung entscheidet die Schätzungskommission.
