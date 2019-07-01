@@ -1,0 +1,3 @@
+# Art. 54a Vorbereitung der Auszählung bei Wahlen und Abstimmungen
+1 Die brieflichen Stimmen können bereits ab Freitag vor dem Abstimmungstag geöffnet und in die Wahlurne gelegt werden. Es müssen mindestens drei Mitglieder oder Ersatzleute des Wahlbüros anwesend sein, die unterschiedliche Wählergruppen vertreten. Die Zählung und Vorsortierung der Stimmen oder die Weitergabe von Informationen über Wahlergebnisse oder ‑trends ist nicht gestattet.
+2 Mit der Bereinigung der Wahlzettel für die Auszählung kann am Samstag vor dem Abstimmungstag begonnen werden. Es darf nicht sortiert werden. Es müssen mindestens drei Mitglieder oder Ersatzleute des Wahlbüros anwesend sein, die verschiedene Wählergruppen vertreten.

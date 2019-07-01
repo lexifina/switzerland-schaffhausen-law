@@ -1,0 +1,2 @@
+# Art. 29ter EDV-Programm
+1 Bei Proporzwahlen wird für die Resultaterfassung und ‑ermittlung ein EDV-Programm eingesetzt. Der Staatskanzlei obliegt die Organisation der Resultaterfassung und ‑ermittlung. Die Resultaterfassung kann zentral oder in den Wahlkreishauptorten erfolgen. Die Kosten übernimmt der Kanton. Die Gemeinden haben die vom Kanton festgelegten technischen Voraussetzungen einzuhalten.
