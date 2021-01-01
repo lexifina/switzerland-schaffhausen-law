@@ -1,0 +1,3 @@
+# § 10a
+1 Den Lehrkräften an öffentlichen und privaten Schulen ist für Forschungs- und Lehrzwecke der Fang und die Haltung einer kleinen Zahl der folgenden geschützten Tierarten ohne besondere Bewilligung gestattet: Laich und Kaulquappen des Grasfrosches, des Wasserfrosches (gesamter Grünfrosch-Komplex) und der Erdkröte; Bergmolch; Raupen und Puppen des Tagpfauenauges, des Admirals und des Schwalbenschwanzes; Larve der Ameisenjungfer (Ameisenlöwe).
+2 Durch die Entnahme dieser Arten darf der Bestand am Fangort nicht gefährdet werden. Besondere Bestimmungen in Naturschutzgebieten bleiben vorbehalten.
