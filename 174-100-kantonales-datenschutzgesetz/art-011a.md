@@ -1,0 +1,2 @@
+# Art. 11a Bekanntgabe: Bekanntgabe an europäische Staaten
+1 Für die Bekanntgabe von Personendaten an ausländische Stellen der Europäischen Union sowie Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und des Übereinkommens des Europarates zum Schutz des Menschen bei der automatischen Verarbeitung von personenbezogenen Daten (SEV Nr. 108) gelten neben dem übergeordneten Recht und dem Staatsvertragsrecht die Bestimmungen gemäss Art. 8 ff. sinngemäss.
