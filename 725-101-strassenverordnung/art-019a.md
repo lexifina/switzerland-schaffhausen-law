@@ -1,0 +1,3 @@
+# § 19a Art. 40 Abs. 1 und Abs. 3 StrG
+1 Tiefbau Schaffhausen stellt die Ausführungsprojekte für die Kantonsstrassen mit Ausnahme der Kantonsstrassen im Eigentum der Stadt Schaffhausen auf; die Projekte für Neubauten, grössere Ausbauten und Korrektionen sowie für Strassenlinien bedürfen der Genehmigung des Regierungsrates. Die betroffenen Gemeinden haben ein Mitspracherecht bei der Projektentwicklung und stellen dazu Tiefbau Schaffhausen einen entsprechenden Beschluss des Stadt- bzw. Gemeinderates zu.
+2 Können sich Tiefbau Schaffhausen und eine Gemeinde nicht einigen, entscheidet der Regierungsrat bei der Genehmigung des Projekts.
