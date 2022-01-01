@@ -1,0 +1,2 @@
+# § 7a Aufgaben des psychiatrischen Fachärztepools
+1 Die Ärztinnen und Ärzte des psychiatrischen Fachärztepools entscheiden über die Anordnung einer fürsorgerischen Unterbringung im Sinne von Art. 427 Abs. 2 ZGB, wenn eine Person, die an einer psychischen Störung leidet und freiwillig in eine Einrichtung eingetreten ist, nach Einschätzung der ärztlichen Leitung der Einrichtung für mehr als drei Tage zurückbehalten werden soll.
