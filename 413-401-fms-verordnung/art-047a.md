@@ -1,0 +1,4 @@
+# § 47a Fachmaturitätsarbeit
+1 Das Praktikum in den Berufsfeldern Gesundheit, Naturwissenschaften, Soziale Arbeit sowie Kommunikation und Information wird mit einer Fachmaturitätsarbeit im gewählten Berufsfeld in Form eines Praktikumberichtes mit Evaluation oder in Form einer spezifischen Arbeit aus dem Bereich der praktischen Leistungen abgeschlossen. Der Bericht ist schriftlich vorzulegen und mündlich zu präsentieren. Im Anschluss an die Präsentation findet ein Prüfungsgespräch statt.
+2 Die Fachmaturitätsarbeit Pädagogik wird zu einem Thema aus dem Bereich der Allgemeinbildung verfasst. Sie ist schriftlich vorzulegen und mündlich zu präsentieren. Im Anschluss an die Präsentation findet ein Prüfungsgespräch statt.
+3 Die Schulleitung erlässt Richtlinien zur Organisation und zu den Anforderungen an die Fachmaturitätsarbeit.

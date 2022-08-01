@@ -1,0 +1,5 @@
+# § 47b Fachmaturitätspraktikum und Sprachaufenthalt
+1 Die zusätzlichen Leistungen in den Berufsfeldern Gesundheit, Naturwissenschaften, Soziale Arbeit sowie Kommunikation und Information umfassen mindestens 28 Wochen anerkannte und validierte Berufspraxis in einer Institution des gewählten Berufsfeldes sowie mindestens 8 Wochen zur Vorbereitung, Begleitung und Auswertung des Praktikums sowie zum Verfassen der Fachmaturitätsarbeit.
+2 Im Berufsfeld Kommunikation und Information sind zusätzlich zu den Leistungen gemäss Abs. 1 fortgeschrittene Sprachkenntnisse in mindestens zwei Fremdsprachen (Niveau B2 in Französisch, Italienisch, Spanisch oder Englisch) sowie ein mindestens dreiwöchiger Sprachaufenthalt nachzuweisen.
+3 Im Berufsfeld Pädagogik absolvieren die Schülerinnen und Schüler bis zu 7 Wochen Praktika in einer pädagogischen Institution.
+4 Die Schulleitung erlässt in Zusammenarbeit mit Expertinnen und Experten aus der Fachwelt die Richtlinien für die Organisation der Berufspraxis sowie die Anforderungen an den Sprachaufenthalt.
