@@ -1,0 +1,5 @@
+# Art. 42equater Finanzhilfen Klimaanpassung
+1 Finanzhilfen können an direkte oder indirekte Massnahmen zur Anpassung an das sich verändernde Klima gewährt werden, welche:
+a) entstehende Risiken durch den Klimawandel senken oder
+b) den Gleichschritt in der Anpassung in den verschiedenen Gemeinden ermöglichen oder
+c) Anreize für ökologisch sinnvolle Vorhaben schaffen

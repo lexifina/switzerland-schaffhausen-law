@@ -1,0 +1,4 @@
+# Art. 3b Auskunftspflicht
+1 Die politischen Gemeinden sowie die Energieversorgungsunternehmen, Energieproduzenten und grossen Energieverbraucher sind verpflichtet, den für den Vollzug dieses Gesetzes zuständigen Stellen die erforderlichen Auskünfte zu erteilen.
+2 Die Auskünfte umfassen qualitative und quantitative Informationen über die aktuellen und zukünftigen Energieflüsse, die Energieproduktion und die Verbraucher. Die Informationen dienen als Grundlage für die Energiericht-, Quartier und Netzplanung sowie die Umsetzung der Optimierungsmassnahmen in Betriebsstätten.
+3 Die erhobenen Grundlagen für die Informationstätigkeit des Kantons sowie dem Ersatz von Elektroheizungen und Elektroboiler ermöglichen den Vollzug und lassen keine Rückschlüsse auf detaillierte Verbrauchswerte und ‑profile zu.

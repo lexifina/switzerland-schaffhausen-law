@@ -1,0 +1,5 @@
+# Art. 42e Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Förderprogramm Energie
+1 Der Kanton erstellt ein Förderprogramm Energie, welches periodisch dem Stand der Technik und neuen Entwicklungen angepasst wird.
+2 Beiträge werden für Projekte und Aktionen geleistet, die der rationellen Energienutzung, der Nutzung erneuerbarer Energien und der Nutzung von Umgebungs-, Erd- und Abwärme dienen. In der Regel richten sich die Beiträge nach der eingesparten oder substituierten nicht erneuerbaren Energiemenge.
+3 Betreibern von gemeinschaftlichen, noch nicht voll ausgelasteten Energieerzeugungsanlagen kann für längstens zehn Jahre ein zinsloses Darlehen gewährt werden.
+4 Der Gesamtbetrag der jährlich zu vergebenden Beiträge und Darlehen hängt von der Ausgabenbewilligung durch den Kantonsrat auf dem Budgetweg ab. Auf Beiträge oder Darlehen besteht kein Rechtsanspruch.

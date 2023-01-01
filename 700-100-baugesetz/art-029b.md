@@ -1,0 +1,6 @@
+# Art. 29b Bauverpflichtung und Kaufrecht: Überbauungsverpflichtung und gesetzliches Kaufrecht der Gemeinden
+1 Bei Neueinzonungen sind die der Bauzone zugewiesenen Grundstücke innerhalb von sieben Jahren nach realisierter Erschliessung zu überbauen.
+2 Bei bestehenden Bauzonen kann der Gemeinderat, wenn ein überwiegendes öffentliches Interesse es rechtfertigt, den Grundeigentümerinnen und Grundeigentümern eine Frist von fünf bis zehn Jahren für die Überbauung eines baulich nicht genutzten oder wesentlich unternutzten Grundstückes setzen. Ein öffentliches Interesse an einer Überbauungspflicht besteht namentlich dann, wenn im betreffenden Gebiet das Angebot an verfügbarem Bauland ungenügend ist.
+3 Die Überbauungsverpflichtung ist im Grundbuch einzutragen.
+4 Bei denkmalpflegerisch geschützten Ensembles ist eine Überbauungsverpflichtung ausgeschlossen.
+5 Werden die Grundstücke innerhalb der Fristen gemäss Abs. 1 und Abs. 2 nicht überbaut, so steht der Gemeinde innert zwei Jahren ein auch zugunsten Dritter ausübbares Kaufrecht zum Verkehrswert zu. Will die Gemeinde das Kaufrecht ausüben, so erlässt sie eine entsprechende Verfügung mit dem zum Zeitpunkt der Verfügung amtlich geschätzten Verkehrswert. So erworbene Grundstücke sind innert nützlicher Frist der Überbauung zuzuführen.

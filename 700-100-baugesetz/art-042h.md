@@ -1,0 +1,2 @@
+# Art. 42h Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Grenzwerte für Elektrizitätsbedarf
+1 Neubauten und Umnutzungen, welche Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, haben für diese Flächen die vom Regierungsrat für verbindlich erklärten Grenzwerte für den spezifischen Elektrizitätsbedarf für Beleuchtung, Lüftung und Kälte einzuhalten oder einen Teil der Elektrizität, zusätzlich zu Art. 42a Abs. 1bis, zu erzeugen.

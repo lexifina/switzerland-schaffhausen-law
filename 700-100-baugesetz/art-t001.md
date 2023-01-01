@@ -1,0 +1,4 @@
+# Art. T1 Übergangsbestimmung zur Änderung vom 6. September 2010
+1 Die Baubegriffe und Messweisen der Bauordnungen der Gemeinden bleiben so lange in Kraft, bis die betreffende Gemeinde die Bauordnung und allenfalls den Zonenplan angepasst hat. Dies hat innert drei Jahren ab Inkrafttreten dieses Gesetzes zu erfolgen. Der Regierungsrat kann diese Frist in begründeten Fällen verlängern. Nach Ablauf der Frist ist Art. 27 unmittelbar anwendbar.
+2 Die bestehenden Quartier- und Baulinienpläne, die diesem Gesetz widersprechen, sind spätestens innert fünf Jahren ab Inkrafttreten dieses Gesetzes anzupassen. Der Regierungsrat kann diese Frist angemessen verlängern. Nach Ablauf der Frist ist Art. 27 unmittelbar anwendbar.
+3 Die bestehenden Bestimmungen und Definitionen betreffend die Ausnützungsziffer können beibehalten werden.
