@@ -1,0 +1,3 @@
+# Art. 15b Datensammlungen
+1 Die Mitglieder einer Schulbehörde, die in ihrem Dienst stehenden Personen sowie Personen, welche mit Aufgaben des Erziehungsdepartements betraut werden, sind berechtigt, die zur Erfüllung ihrer Tätigkeit notwendigen Daten zu erheben und zu bearbeiten. Diese können sich dazu den Mitteln der elektronischen Datenverarbeitung bedienen.
+2 Die Bearbeitung, insbesondere die Bekanntgabe von Personendaten, sowie das Einsichtsrecht richten sich nach den Bestimmungen der kantonalen Datenschutzgesetzgebung, soweit nicht das Bundesrecht oder ein Spezialgesetz etwas anderes vorsehen.

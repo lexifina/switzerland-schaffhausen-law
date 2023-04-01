@@ -1,0 +1,2 @@
+# Art. 16a Unaufschiebbare Massnahmen zum Schutz des Schulbetriebs
+1 Soweit besondere Bestimmungen über das Tätigwerden einer Schulbehörde bzw. eines Schulleiters oder einer Schulleitung und die zu ergreifenden Massnahmen fehlen, ist diese befugt, unaufschiebbare schulische Massnahmen zu treffen, die notwendig sind, um im Einzelfall eine unzumutbare Störung des Schulbetriebs, namentlich bei erheblichen Gefährdungssituationen, zu vermeiden.
