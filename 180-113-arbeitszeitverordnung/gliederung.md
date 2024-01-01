@@ -1,0 +1,9 @@
+## 1 Allgemeine Bestimmungen
+## 2 Feste Arbeitszeit
+## 3 Jahresarbeitszeit
+### 3.1 …
+### 3.2 …
+### 3.3 …
+## 4 Zeiterfassung und Abwesenheiten
+## 5 Überstunden
+## 6 Schlussbestimmungen
