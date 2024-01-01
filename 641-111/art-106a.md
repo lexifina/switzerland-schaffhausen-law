@@ -1,0 +1,4 @@
+# § 106a Art. 187 StG
+1 Die Zustimmung zu einem gerichtlichen Nachlassvertrag, zu einem aussergerichtlichen Nachlassvertrag und zu einer einvernehmlichen privaten Schuldenbereinigung sowie der Rückkauf von Verlustscheinen erfolgen durch die Steuerbezugsstelle.
+2 Vor ihrer Zustimmung zum Nachlassvertrag oder zur privaten Schuldenbereinigung sowie beim Rückkauf unter dem Nominalwert holt die Steuerbezugsstelle der Gemeinde die Zustimmung der kantonalen Steuerverwaltung ein.
+3 Beträgt der durch den Nachlassvertrag oder die private Schuldenbereinigung nicht gedeckte Teil der Kantonssteuer nicht mehr als Fr. 500.00 je eingegebene Forderung und beim Rückkauf von Verlustscheinen nicht mehr als Fr. 500.00 je Verlustschein, entscheidet die Steuerbezugsstelle der Gemeinde ohne Zustimmung der kantonalen Steuerverwaltung.

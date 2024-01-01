@@ -1,0 +1,3 @@
+# § 49a Art. 94a Abs. 1 und Art. 106d Abs. 1 StG
+1 Übersteigt die Quellensteuer auf Naturalleistungen oder Trinkgeldern die der steuerpflichtigen Person ausbezahlten oder gutgeschriebenen Entschädigungen, so hat der Schuldner bzw. die Schuldnerin der steuerbaren Leistung den Mehrbetrag bei der steuerpflichtigen Person einzufordern.
+2 Haben der Schuldner bzw. die Schuldnerin der steuerbaren Leistung den Steuerabzug vorgenommen und den Steuerbetrag der Kantonalen Steuerverwaltung überwiesen, ergibt sich jedoch in der Folge, dass die Besteuerung ganz oder teilweise aufzuheben ist, so zahlt die Kantonale Steuerverwaltung den zuviel bezahlten Steuerbetrag dem Steuerpflichtigen zurück oder schreibt ihm den Steuerbetrag gut.
