@@ -1,0 +1,19 @@
+# § 3a Sorgfaltspflichten
+1 Eigentümer- und Nutzerschaft von Bauten und Anlagen sorgen in Eigenverantwortung dafür, dass die Sicherheit von Personen und Sachen gewährleistet ist.
+2 Unter den Sorgfaltspflichten sind insbesondere zu verstehen:
+a) Behälter mit brennbaren Gasen sowie andere brennbare Materialien müssen von Feuerstellen, Feuerungsanlagen, Kochherden, elektrischen Einrichtungen und dergleichen so weit entfernt sein, dass keine Brand- oder Explosionsgefahr entstehen kann
+b) Mit feuer- und explosionsgefährlichen Stoffen und Waren darf in der Nähe von offenem Feuer, Feuerungsanlagen, Wärmestrahlern, funkenerzeugenden Einrichtungen und dergleichen nicht umgegangen werden
+c) In Kellern, Estrichen, Scheunen, Ställen und an anderen Orten, wo leichtbrennbare Materialien und Gegenstände angehäuft sind, sowie in explosionsgefährdeten Bereichen darf weder geraucht noch mit offenen Flammen umgegangen werden
+d) Heissarbeiten, wie Schweissen, Löten oder funkenerzeugende Schleif- und Schneidarbeiten, dürfen nur unter Wahrung der erforderlichen Sicherheitsvorkehrungen ausgeführt werden. Sind Heissarbeiten im laufenden Betrieb unumgänglich, müssen diese durch die für den Betrieb verantwortliche Person genehmigt werden. Die notwendigen Sicherheitsvorkehrungen sind auf einem Erlaubnisschein für Heissarbeiten schriftlich festzuhalten
+e) Öle, Fette, Bitumen und dergleichen dürfen nicht unbeaufsichtigt erhitzt werden
+f) Feuer darf mit brennbaren Flüssigkeiten nur angefacht werden, wenn jede Brand- und Explosionsgefahr ausgeschlossen ist. Feuer und Glut dürfen nicht mit feuergefährlichen Flüssigkeiten übergossen werden
+g) Es ist nicht gestattet, Wachse oder ähnliche leicht entzündliche Stoffe direkt auf offenem Feuer oder Kochstellen zu erwärmen. Hierzu ist ein Wasserbad zu benützen
+h) Warme Asche und Rauchzeugabfälle dürfen nur in nichtbrennbaren und geschlossenen Behältern auf nichtbrennbarer Unterlage aufbewahrt werden
+i) Mit leicht entzündlichen oder zur Selbstentzündung neigenden Flüssigkeiten getränkte Putzlappen und Putzfäden sind in nichtbrennbaren und geschlossenen Behältern auf nichtbrennbarer Unterlage zu versorgen
+j) Pyrotechnische Gegenstände dürfen nur so abgebrannt werden, dass für Personen und Sachen keine Gefährdung entsteht. Die Verwendung von pyrotechnischen Gegenständen im Innern von Gebäuden bedarf, mit Ausnahme von Gegenständen der Kategorie 1 gemäss der Verordnung über explosionsgefährliche Stoffe vom 27. November 2000, einer Bewilligung der zuständigen Behörde
+k) Feuerzeuge, Streichhölzer, Feuerwerkskörper und dergleichen müssen so aufbewahrt werden, dass sie für Kinder und Urteilsunfähige nicht ohne weiteres erreichbar sind
+l) Beim Feuern im Freien sind alle Vorkehrungen zu treffen, damit an Gebäuden und Fahrhabe kein Schaden entsteht. Feuerstellen sind zu beaufsichtigen, solange von ihnen eine Gefahr ausgeht
+m) Elektrische Energieverbraucher aller Art, wie Wärmeapparate, Motoren, Leuchten, Küchengeräte usw., müssen so aufgestellt, eingebaut, betrieben und unterhalten werden, dass für brennbare Gebäudeteile oder andere Gegenstände keine Entzündungsgefahr besteht. Die Herstellerangaben sind einzuhalten
+n) Kerzen und Kerzengestecke sind auf geeigneten nicht brennbaren Unterlagen so aufzustellen, dass sie nicht umfallen können. Sie sind in solcher Entfernung von brennbaren Materialien aufzustellen, dass die Flammen nichts entzünden können
+o) Transportbehälter von brennbaren Flüssiggasen dürfen, unabhängig von ihrem Füllstand, im Innern von Bauten und Anlagen nicht in Untergeschossen gelagert werden. Transportbehälter sind, auch im Freien, so aufzustellen, dass ausströmendes Gas nicht in tieferliegende Räume und Schächte gelangen kann
+p) Brennbare Gase dürfen nicht zur Füllung von Spiel- und Reklameballons usw. verwendet werden
