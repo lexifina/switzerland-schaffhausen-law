@@ -1,0 +1,2 @@
+# Art. 45bis Übergangsbestimmung zu Art. 12a
+1 Für finanzpolitische Reserven und Vorfinanzierungen, die vor Inkrafttreten des neuen Rechts (Fassung gemäss Gesetz vom Datum) beschlossen wurden, gelangt das bisherige Recht zur Anwendung. Die genehmigten Vorgaben wie Zweck, Zeitraum, Äufnung, Entnahme und Auflösung dieser Reserven dürfen nicht mehr geändert werden und es dürfen keine weiteren Einlagen mehr getätigt werden.
