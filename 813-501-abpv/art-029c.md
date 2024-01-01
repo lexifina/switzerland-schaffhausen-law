@@ -1,0 +1,3 @@
+# § 29c Patientenbeiträge an die Pflegekosten
+1 Sind mehrere Leistungserbringer in die ambulante Pflege einer Person involviert, stehen die zulässigen Patientenbeiträge an die Pflegekosten in der Regel jenem Leistungserbringer zu, der die Koordination im Sinne von § 25a sicherstellt und die Pflegeleistungen ausserhalb der Normalarbeitszeiten erbringt. Abweichende Regelungen sind zwischen den involvierten Partnern ausdrücklich zu vereinbaren.
+2 Beim Übertritt einer Person von einer stationären Pflege-Institution in eine andere kann der Patientenbeitrag von der abgebenden Institution in Rechnung gestellt werden.

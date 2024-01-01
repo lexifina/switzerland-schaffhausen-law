@@ -1,0 +1,3 @@
+# § 29b Pflege zu Hause durch Anbieter ohne Leistungsauftrag
+1 Die Gemeindebeiträge zur Restfinanzierung ambulanter Pflegeleistungen gemäss Art. 7 Abs. 2 KLV durch zugelassene Anbieter ohne öffentlichen Leistungsauftrag werden auf deren begründeten Antrag hin durch separaten Beschluss des Regierungsrates festgelegt.
+2 Die Abrechnungen der Leistungserbringer sind den von den Wohngemeinden der Klientinnen bzw. Klienten bezeichneten Stellen einzureichen. Neben den Forderungen an die Gemeinden sind die gegenüber den Versicherern und den Klientinnen bzw. Klienten gemäss KVG verrechneten Beiträge differenziert auszuweisen.
