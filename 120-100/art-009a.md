@@ -1,0 +1,3 @@
+# Art. 9a Gemeindezusammenschluss
+1 Schliessen sich Gemeinden zusammen, so können sie im Vertrag über den Zusammenschluss vorsehen, für die laufende und eine weitere Amtsperiode von den in diesem Gesetz oder im Gemeinderecht festgelegten Obergrenzen für die Zahl von Behördemitglieder abzuweichen.
+2 Für die gleiche Zeit können sie im Vertrag den vor dem Zusammenschluss selbständigen Gemeinden feste Sitzansprüche im Gemeinderat, der Schulbehörde sowie der Bürgerkommission einräumen. In diesem Fall ist als Mitglied in die Behörde für den festen Sitz nur wählbar, wer in den entsprechenden Ortsteilen Wohnsitz hat.
