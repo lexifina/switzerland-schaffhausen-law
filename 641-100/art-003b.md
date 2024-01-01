@@ -1,0 +1,2 @@
+# Art. 3b Personen in eingetragener Partnerschaft
+1 Die Stellung eingetragener Partnerinnen oder Partner entspricht in diesem Gesetz sowie in der Vollzugsverordnung derjenigen von Ehegatten. Dies gilt auch bezüglich der Unterhaltsbeiträge während des Bestehens der eingetragenen Partnerschaft sowie der Unterhaltsbeiträge und der vermögensrechtlichen Auseinandersetzung bei Getrenntleben und Auflösung einer eingetragenen Partnerschaft.

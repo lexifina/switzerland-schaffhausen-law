@@ -1,0 +1,2 @@
+# Art. 129a Meldungen der Arbeitslosenkassen
+1 Die Arbeitslosenkassen gemäss Art. 77 und 78 des Bundesgesetzes vom 25. Juni 1982 über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz) übermitteln den Steuerbehörden die Abrechnungen über die von ihnen an versicherte Personen erbrachten Leistungen; die Übermittlung kann auf elektronischem Weg erfolgen.
