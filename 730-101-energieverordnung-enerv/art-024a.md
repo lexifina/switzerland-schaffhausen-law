@@ -1,0 +1,3 @@
+# § 24a Wärmedämmung von lüftungstechnischen Anlagen
+1 Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen sind gemäss Vollzugshilfe Nr. EN-105 der Energiefachstellenkonferenz gegen Wärmeübertragung zu schützen.
+2 …

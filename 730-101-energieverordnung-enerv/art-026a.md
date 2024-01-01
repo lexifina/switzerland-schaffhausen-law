@@ -1,0 +1,5 @@
+# § 26a Elektrizitätsbedarf
+1 Bei Neubauten sowie erheblichen Umbauten und Umnutzungen, welche Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, ist für diese Flächen der Elektrizitätsbedarf folgendermassen einzuhalten:
+1. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2017; und
+2. Kühlen, Be- und Entfeuchten: Bei Neubauten ist die benötigte Energie in der Berechnung gemäss § 11 zu berücksichtigen. Bei Umbauten und Umnutzungen ist entweder der elektrische Leistungsbedarf von 12 W/m² für Medienförderung, Aufbereitung, Kühlung, Be- und Entfeuchtung einzuhalten oder die Anlagen sind gemäss dem Stand der Technik Vollzugshilfe Nr. EN-110 der Energiefachstellenkonferenz auszuführen
+2 Alternativ zu Abs. 1 ist eine zu § 26f (Art. 42a Abs. 1bis des Baugesetzes) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W pro m² Energiebezugsfläche zu installieren. Die Obergrenze von 30 kW entfällt.
