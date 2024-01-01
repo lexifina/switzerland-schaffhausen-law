@@ -1,0 +1,2 @@
+# Art. 39a
+1 Die Inkassohilfe gemäss Art. 131 Abs. 1 ZGB obliegt dem Gemeinderat. Er kann diese Aufgabe einer anderen Stelle zuweisen oder einer privaten Inkassostelle übertragen.
