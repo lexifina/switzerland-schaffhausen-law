@@ -1,0 +1,3 @@
+# § 13bis Mindestanspruch nach KVG
+1 Bei Haushalten mit Kindern wird der ihnen zustehende Betrag primär zur Deckung der Mindestansprüche der Kinder und der jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1bis KVG eingesetzt. Die verbleibenden Mittel werden anteilig entsprechend der Höhe der anrechenbaren Prämie auf die mitbetroffenen Angehörigen des Haushalts verteilt.
+2 Wird der Mindestanspruch eines Kindes bzw. eines oder einer jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1bis KVG nach Abzug des Selbstbehalts noch nicht eingehalten, wird die Prämienverbilligung dieses Haushalts entsprechend erhöht.
