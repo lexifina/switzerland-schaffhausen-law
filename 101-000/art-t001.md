@@ -1,0 +1,3 @@
+# Art. T1 Übergangsbestimmungen zu Art. 37a
+1 Art. 37a tritt so wie in der Abstimmung vom 9. Februar 2020 angenommen und ergänzt um die Absätze 1bis, 1ter, 2bis, 2ter und 5bis unmittelbar in Kraft.
+2 Mit Annahme von Art. 37a Abs. 1bis, 1ter, 2bis, 2ter und 5bis sind bis zum Inkrafttreten der kantonalen Ausführungsgesetzgebung subsidiär die Offenlegungsvorschriften des Bundes sinngemäss anwendbar, insbesondere Art. 76b bis 76j des Bundesgesetzes über die politischen Rechte und Art. 11 des Bundesgesetzes über die Bundesversammlung. Der Regierungsrat erlässt nötigenfalls umgehend ergänzende Ausführungsbestimmungen.
