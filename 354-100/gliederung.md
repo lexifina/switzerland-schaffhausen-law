@@ -5,6 +5,7 @@
 ## 5 Bestand und Organisation der Schaffhauser Polizei
 ## 6 Die Polizeikommission
 ## 7 Grundsätze polizeilichen Handelns und Zwangsanwendung
+## 7a Bedrohungsmanagement
 ## 8 Gefahrenabwehr durch Private
 ## 9 Kosten und Beiträge
 ## 10 Verfahren, Aufsicht, Rechtsschutz und Verantwortlichkeit
