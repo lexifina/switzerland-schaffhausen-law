@@ -1,4 +1,1 @@
-# § 38a Pflege zu Hause durch Anbieter ohne Leistungsauftrag
-1 Für die Restfinanzierung der Spitalexternen Onkologiepflege (SEOP) der Krebsliga Schaffhausen und der psychiatrischen Spitex ALPHA-Pflege gelten Pflegerestkosten in der Höhe von Fr. 54.00 je KLV-Stunde (Fr. 4.50 je 5-Minuten-Einheit).
-2 Für die Restfinanzierung ambulanter Pflegeleistungen, die durch Anbieter ohne Leistungsauftrag der Gemeinden erbracht werden (§ 29b dieser Verordnung), gilt der Satz von Fr. 19.20 je KLV-Stunde (Fr. 1.60 je 5-Minuten-Einheit).
-3 Der Patientenselbstbehalt kann der Wohnsitzgemeinde in Rechnung gestellt werden (Fr. 15.35 pro Tag gemäss Art. 25a Abs. 5 KVG) bei Leistungsanbietern ohne Leistungsauftrag der Gemeinden, welche die Tarife in Art. 7a Abs. 1 KLV anwenden (d.h. gilt nicht bei Tarif IV/UV/MV) und aufgrund von Art. 10a Abs. 2 AbPV keine Patientenbeteiligung erhalten (Kinder <18 Jahre). Der Abrechnung ist eine Kopie der Rechnung an die Krankenversicherer beizulegen.
+# § 38a …
