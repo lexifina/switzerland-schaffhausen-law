@@ -1,0 +1,3 @@
+# Art. 127a Meldung an Sozialhilfebehörden und Auskunftserteilung an Stipendienbehörden
+1 Die kantonale Steuerverwaltung kann den zuständigen Sozialhilfebehörden Fälle melden, bei denen Verdacht auf einen ungerechtfertigten Bezug von Sozialhilfeleistungen besteht.
+2 Sie kann den Stipendienbehörden von Kantonen, die der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009 beigetreten sind, auf deren Gesuch Auskunft über das steuerpflichtige Einkommen und das steuerpflichtige Vermögen (einschliesslich deren Zusammensetzung) jedes Elternteils erteilen, der sich im Verfahren zur Festsetzung des Stipendienanspruchs seines Kindes weigert, diese Angaben offenzulegen.
