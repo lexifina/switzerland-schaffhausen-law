@@ -4,6 +4,7 @@
 ## 4 Dienstrecht
 ## 5 Ausbildung
 ## 6 Polizeiliche Massnahmen
+## 6-1 Bedrohungsmanagement
 ## 7 Gefahrenabwehr durch Private
 ## 8 Kostenersatz
 ## 9 Schluss- und Übergangsbestimmungen
