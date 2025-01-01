@@ -1,2 +1,5 @@
-# § 82a Fraktionsentschädigung
-1 Die Fraktionen erhalten eine jährliche Fraktionsentschädigung im Umfang von vier Sitzungsgeldern je Fraktionsmitglied.
+# § 82a Spesen
+1 Die Ratsmitglieder erhalten eine jährliche pauschale Reisentschädigung in Höhe eines Jahresabos 2. Klasse des für die Reise vom Wohnort nach Schaffhausen benötigten Zonenabos des Tarifverbunds Ostwind.
+2 Der Präsident oder die Präsidentin erhält am Ende des Präsidialjahres für Repräsentationsverpflichtungen und die Präsidialfeier eine pauschale Spesenentschädigung, deren Höhe vom Ratsbüro festgelegt wird.
+3 Jedem Ratsmitglied steht jährlich ein Betrag für Aus- und Weiterbildung im Zusammenhang mit der Ratstätigkeit in Höhe von 500 Franken zur Verfügung, der nach Vorlage der entsprechenden Nachweise beim Sekretariat bezogen werden kann. Mitgliedern von ständigen Kommissionen werden darüber hinaus Weiterbildungskosten nach Massgabe der für das kantonale Personal geltenden Regelungen vergütet. Über die Höhe der Kostenbeteiligung entscheidet die zuständige Kommission.
+4 Für die Abgeltung weiterer Auslagen gilt die Verordnung über die Spesenvergütungen beim Kanton Schaffhausen.
