@@ -1,6 +1,4 @@
-## 1 Festlegung der Ansätze
-## 2 Entschädigung der Tierärzte und Tierärztinnen
-## 2a Entschädigung der nicht tierärztlichen Kontrolleure und Kontrolleurinnen
-## 4 Entschädigung der Schatzungsexperten und Schatzungsexpertinnen
-## 5 Entschädigung der Viehinspektoren und Viehinspektorinnen
-## 6 Schlussbestimmungen
+## 1 Geltungsbereich
+## 2 Grundsätze
+## 3 Entschädigung der Tierärztinnen und Tierärzte
+## 4 Entschädigung von weiteren Beauftragten
