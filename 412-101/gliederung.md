@@ -1,6 +1,6 @@
 ## 1 Geltungsbereich
 ## 2 Zuständige Behörden
-## 3 Berufsberatung
+## 3 Berufsberatung und Case Management Berufsbildung
 ## 4 Berufliche Grundausbildung
 ### 4.1 Allgemeines
 ### 4.2 Vorbereitung auf die berufliche Grundbildung

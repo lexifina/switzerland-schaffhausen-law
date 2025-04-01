@@ -1,0 +1,3 @@
+# § 6a Case Management Berufsbildung
+1 Jugendliche und junge Erwachsene haben Anspruch auf eine angemessene, individuelle Betreuung durch das Case Management Berufsbildung, sofern sie die gesetzlichen Vorgaben erfüllen.
+2 Das Case Management Berufsbildung stellt sicher, dass die individuelle Betreuung der Jugendlichen durch die beteiligten Akteurinnen und Akteure über institutionelle und professionelle Grenzen hinweg für die Dauer der Berufswahl, der beruflichen Grundbildung respektive Ausbildung und des Übertritts in das Erwerbsleben optimal koordiniert wird. Dazu arbeiten alle an den Übergängen zwischen der obligatorischen Schule, der Berufsbildung und dem Arbeitsmarkt beteiligten Institutionen eng zusammen.
