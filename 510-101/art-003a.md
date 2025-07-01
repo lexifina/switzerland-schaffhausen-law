@@ -1,0 +1,9 @@
+# § 3a Sportschiessanlagen
+1 Der Betrieb von Sportschiessanlagen gemäss Art. 23 der Schiessanlagen-Verordnung ist bewilligungspflichtig. Die Bewilligung erteilt das Amt für Bevölkerungsschutz und Armee. Die für die Baubewilligung zuständige Behörde teilt dem Amt für Bevölkerungsschutz und Armee alle Baubewilligungen mit, die eine Sportschiessanlage betreffen.
+2 Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte nimmt die Sportschiessanlagen hinsichtlich Zweckmässigkeit, Sicherheit und technischen Anforderungen ab. Bei baulichen oder sicherheitstechnischen Veränderungen innerhalb der Anlage oder des angrenzenden Geländes sowie alle zehn Jahre ist die Sportschiessanlage erneut zu überprüfen.
+3 Als kantonale Schiessanlagenexpertin oder kantonalen Schiessanlagenexperte ernennt das Amt für Bevölkerungsschutz und Armee:
+a) eidgenössische Schiessoffiziere;
+b) ein Mitglied einer kantonalen Schiesskommission, welches über das erforderliche Fachwissen verfügt.
+4 Das Amt für Bevölkerungsschutz und Armee kann aus Sicherheitsgründen oder beim Fehlen der technischen Anforderungen die Sperrung oder die Aufhebung einer Sportschiessanlage anordnen. Sie kann für den Betrieb Auflagen und Bedingungen vorsehen.
+5 Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte sowie das Amt für Bevölkerungsschutz und Armee können aus Sicherheitsgründen oder beim Fehlen der technischen Anforderungen als vorsorgliche Massnahme die Sperrung einer Sportschiessanlage bis zum definitiven Entscheid verfügen.
+6 Die Vergütung der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten richtet sich nach der Verordnung des VBS über die eidgenössischen Schiessoffiziere und die kantonalen Schiesskommissionen (Schiessoffiziersverordnung) und bildet Teil der Bewilligungsgebühr.
