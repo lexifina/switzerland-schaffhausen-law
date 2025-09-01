@@ -1,11 +1,8 @@
-## 1 Allgemeine Bestimmung
-## 2 Eignungsabklärung für den Lehrerberuf während des Basisstudiums
-## 3 Module und Leistungsnachweise
-## 4 Prüfungen
-### 4.1 Allgemeine Bestimmungen
-### 4.2 …
-### 4.3 Bachelorarbeit
-## 4.4 …
-## 5 Abschluss des Studiums
-## 6 Rekurswesen
-## 7 Schluss- und Übergangsbestimmungen
+## 1. Allgemeine Bestimmung
+## 2. Eignungsabklärung für den Lehrerberuf
+## 3. Leistungsbeurteilung
+### 3.1 Allgemeine Bestimmungen
+### 3.2 Leistungsnachweise
+### 3.3 Bachelorarbeit
+## 4. Abschluss der Ausbildung
+## 5. Rechtsschutz
