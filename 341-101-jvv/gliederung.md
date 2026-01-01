@@ -4,6 +4,7 @@
 ### 1.3 Vollzugszeitpunkt
 ### 1.4 Vollzugsort
 ### 1.5 Rechtsschutz
+### 1.6 Richtlinien der Ostschweizerischen Strafvollzugskommission
 ### 2 Normalvollzug
 ### 2.1 Vollzugsplanung
 ### 2.2 Ausgangs- und Urlaubsgewährung
