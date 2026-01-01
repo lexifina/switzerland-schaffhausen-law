@@ -1,0 +1,5 @@
+# Art. 9a Schutzanlagen
+1 Das Amt für Bevölkerungsschutz und Armee legt den Bedarf an Schutzanlagen fest und nimmt die erforderlichen Kontrolltätigkeiten wahr.
+2 In Gebieten, in denen nicht genügend Schutzanlagen vorhanden sind, erstellt der Kanton im Einvernehmen mit den Gemeinden neue Anlagen. Soweit diese auf Gemeindegebiet zu erstellen sind, ist von den Gemeinden ein geeignetes Grundstück unentgeltlich zur Verfügung zu stellen, wobei vorzusehen ist, dass der Kanton Eigentümer dieser neu zu erstellenden Baute wird. Durch Vereinbarung zwischen der betroffenen Gemeinde und dem Kanton können die Eigentumsverhältnisse gemäss Zivilrecht abweichend geregelt werden.
+3 Die Eigentümerin bzw. der Eigentümer ist verantwortlich für die Sicherstellung der Betriebsbereitschaft und den Unterhalt der Schutzanlagen. Durch Vereinbarung mit dem Kanton können die Zuständigkeiten abweichend geregelt werden.
+4 Werden Schutzanlagen aufgehoben, sind die dafür ausgerichteten Kantonsbeiträge analog der bundesrechtlichen Rückerstattungspflicht für Bundesbeiträge von den Gemeinden zurückzuerstatten. Abschreibungen werden angemessen berücksichtigt.

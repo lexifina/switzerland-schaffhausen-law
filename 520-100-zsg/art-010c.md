@@ -1,0 +1,4 @@
+# Art. 10c Kantonsbeiträge
+1 Der Kanton kann sich auf Antrag finanziell an den Kosten für bauliche und technische Schutzmassnahmen von inventarisierten Kulturgütern beteiligen, sofern die Eigentümerin oder der Eigentümer des inventarisierten Kulturguts nachweislich auf eine finanzielle Unterstützung angewiesen ist.
+2 Die Höhe des Kantonsbeitrags liegt zwischen 15 und 35 Prozent der anrechenbaren Kosten. Die Standortgemeinde, in der sich das inventarisierte Kulturgut befindet, ist verpflichtet, zusätzlich einen Beitrag von in der Regel zwei Dritteln des Kantonsbeitrags zu leisten. Die Kantonsbeiträge richten sich nach der Bedeutung des Kulturguts, nach dessen Erhaltungszustand und nach der Qualität der Schutzmassnahmen.
+3 Auf Kantons- und Gemeindebeiträge besteht kein Rechtsanspruch. Sie werden im Rahmen der bewilligten Kredite gewährt. Kantonsbeiträge können mit Auflagen und Bedingungen verbunden werden.
