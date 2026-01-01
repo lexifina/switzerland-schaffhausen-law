@@ -1,4 +1,1 @@
-# Art. 39a Weitere Anforderungen an Bauten und Anlagen: Ladeinfrastruktur für E-Mobilität
-1 Neubauten und tiefgreifende Umbauten sind mit einer Ladeinfrastruktur für Elektrofahrzeuge auszurüsten. Der Ausbaustandard richtet sich nach der Gebäudenutzung.
-2 Bestehende öffentlich zugängliche Parkhäuser und Parkplätze mit mehr als 60 Parkeinheiten sind bis 2030 mit Ladeinfrastruktur für Elektrofahrzeuge nachzurüsten.
-3 Der Regierungsrat regelt die Einzelheiten und die Ausnahmen.
+# Art. 39a …
