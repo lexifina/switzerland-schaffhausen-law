@@ -11,3 +11,4 @@ b) für Personen nach Abs. 1 lit. b: der Kanton, in dem die steuerpflichtige Per
 c) für Arbeitnehmer und Arbeitnehmerinnen nach Abs. 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte
 5 Der nach Abs. 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer oder der Arbeitnehmerin zurückerstattet, zu wenig bezogene Steuern nachgefordert.
 6 Die Kantone leisten einander bei der Erhebung der Quellensteuer unentgeltliche Amts- und Rechtshilfe.
+1.5 Grundstückgewinnsteuer

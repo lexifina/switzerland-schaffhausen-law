@@ -4,3 +4,5 @@
 3 Die Steuerbehörden können den steuerpflichtigen Personen mit deren Einverständnis Dokumente in elektronischer Form zustellen.
 4 Die kantonale Steuerverwaltung speichert elektronische Eingaben auf einem vom Kanton betriebenen Server.
 5 Der Regierungsrat erlässt die erforderlichen Bestimmungen, um die Authentizität und Integrität der übermittelten Daten sicherzustellen.
+1.6.3 Veranlagung im ordentlichen Verfahren
+1.6.3.1 Vorbereitung der Veranlagung

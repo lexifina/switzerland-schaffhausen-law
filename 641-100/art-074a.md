@@ -4,3 +4,5 @@
 1. Zusätzlicher Abzug für Forschungs- und Entwicklungsaufwand (Art. 66a)
 2. Abschreibungen auf aufgedeckten stillen Reserven (Art. 238 Abs. 4)
 3. Ermässigung des Reingewinns aus Patenten und vergleichbaren Rechten (Art. 65a)
+1.3.2.2 Steuerberechnung
+1.3.2.2.1 Kapitalgesellschaften und Genossenschaften
