@@ -1,6 +1,6 @@
-# Verordnung über den Energiehaushalt in Gebäuden und Anlagen
-(Energiehaushaltverordnung, EHV)
+# Energieverordnung
+(Energieverordnung, EnerV)
 Vom 15.02.2005
 Der Regierungsrat des Kantons Schaffhausen,
-gestützt auf Art. 42 ff. des Gesetzes über die Raumplanung und das öffentliche Baurecht im Kanton Schaffhausen vom 1. Dezember 1997 (Baugesetz, BauG),
+gestützt auf das Energiegesetz vom 16. Dezember 2024 (EnerG),
 beschliesst:

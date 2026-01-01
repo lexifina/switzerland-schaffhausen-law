@@ -2,6 +2,7 @@
 ## 2 Förderprogramm
 ## 3 Anforderungen an den Wärmeschutz von Gebäuden
 ## 4 Anforderungen an haustechnische Anlagen
+### 4a Anforderungen an die Energieerzeugung
 ## 5 Vollzug
 ## 6 Schlussbestimmungen
 ## A1 Anhang 1: Gewichteter Energiebedarf pro Jahr für Heizung, Warmwasser, Lüftung und Klimatisierung in Neubauten

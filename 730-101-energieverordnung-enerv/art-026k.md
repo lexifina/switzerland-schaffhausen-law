@@ -1,0 +1,3 @@
+# § 26k Mitwirkung Windenergie
+1 Mit der Vorprüfung reichen Projektentwickler von Grosswindenergieanlagen ein Mitwirkungskonzept ein, das den möglichst frühzeitigen Einbezug und die Begleitung durch die kommunalen Behörden und die interessierte Bevölkerung dokumentiert. Das Mitwirkungskonzept wird vor Projektbeginn zusammen mit den Standortgemeinden, den Nachbargemeinden und dem Kanton erarbeitet.
+2 Das Mitwirkungskonzept stellt sicher, dass alle Vor- und Nachteile des geplanten Windparkvorhabens öffentlich zugänglich sind und die im Rahmen des Projektes gefällten Entscheide von allen Beteiligten eingesehen werden können.
