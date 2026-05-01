@@ -1,0 +1,3 @@
+# Art. 54a Elektronische Signierung
+1 Wird eine Akte elektronisch geführt, erfolgt die Authentifizierung mit einem elektronischen Siegel oder einer qualifizierten elektronischen Signatur nach dem Bundesgesetz vom 18. März 2016 über die elektronische Signatur (ZertES).
+2 Zudem kann das Gericht in Abweichung von Art. 54 dem Papierausdruck eine Bestätigung beifügen, dass dieser den Inhalt des elektronischen Originals korrekt wiedergibt. Die Bestätigung ist von der Gerichtsschreiberin bzw. vom Gerichtsschreiber oder von einer administrativen Mitarbeiterin bzw. einem Mitarbeiter der Gerichtskanzlei zu unterzeichnen.
