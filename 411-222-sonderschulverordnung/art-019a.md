@@ -1,3 +1,4 @@
 # § 19a Verfahren und Zuständigkeit
 1 Auf Antrag einer Einrichtung der Sonderschulung veranlasst die Abteilung Aufsicht Sonderschulung und Therapien die Unterstellung der Einrichtung oder einzelner Abteilungen unter die Interkantonale Vereinbarung für soziale Einrichtungen (IVSE) vom 13. Dezember 2002, wenn die Voraussetzungen der IVSE erfüllt sind.
 2 Die Abteilung Aufsicht Sonderschulung und Therapien prüft die Erfüllung der Voraussetzungen regelmässig. Sind diese nicht mehr erfüllt, kann sie die Unterstellung einer Einrichtung einer Sonderschulung oder einzelner Abteilungen unter die IVSE widerrufen.
+4 Übergangs- und Schlussbestimmungen
