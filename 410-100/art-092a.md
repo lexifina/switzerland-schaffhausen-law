@@ -6,3 +6,4 @@
 a) Beitrag Gemeinde und Erziehungsberechtigte: drei Viertel
 b) Beitrag Kanton: ein Viertel
 5 Die Gemeinden sind frei in der Tarifgestaltung. Die finanziellen Verhältnisse der Erziehungsberechtigten können dabei berücksichtigt werden.
+7 Beschwerde- und Rekurswesen
