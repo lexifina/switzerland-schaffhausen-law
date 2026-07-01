@@ -15,3 +15,4 @@ b Situationsplan mit eingetragener Wärmepumpe und den Standorten der Erdwärmes
 c Gesuch um Erteilung der gewässerschutzrechtlichen Bewilligung;
 d technisches Datenblatt der gewählten Wärmepumpe; und
 e Energienachweis Haustechnik (EN-Formulare).
+5 Zuständigkeiten

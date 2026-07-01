@@ -4,3 +4,4 @@
 3 Die zuständige Behörde kann Dritte, die über die erforderliche Fachkompetenz verfügen, beiziehen.
 4 Kantonale Alarmstelle im Sinne von Art. 32 Abs. 2 RLG1) zur Meldung einer undichten Anlage ist die Einsatz- und Verkehrsleitzentrale der Schaffhauser Polizei.
 5 Die Verfahren für die Bau- bzw. die Betriebsbewilligung richten sich nach dem ordentlichen kantonalen Recht im Sinne von Art. 57 ff. BauG.
+6 Übertragung von Bewilligungskompetenzen
