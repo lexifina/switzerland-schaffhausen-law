@@ -6,3 +6,4 @@
 5 Der Urlaub kann am Stück oder tageweise bezogen werden.
 6 Der Arbeitgeber ist über die Modalitäten des Urlaubsbezuges sowie über Änderungen unverzüglich zu informieren.
 7 Taggeldleistungen der EO fallen dem Arbeitgeber zu.
+5 Entschädigungen im Erziehungswesen

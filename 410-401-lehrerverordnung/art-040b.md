@@ -4,3 +4,4 @@
 3 Die Weiterbildung ist möglichst in der unterrichtsfreien Zeit zu absolvieren. Findet sie während der Unterrichtszeit statt und liegt sie im überwiegenden Interesse der Schule, werden die Stellvertretungskosten übernommen.
 4 Übersteigt der Unterstützungsbeitrag insgesamt Fr. 4'000.00, besteht für die Lehrperson eine Rückzahlungspflicht gemäss § 50 der Personalverordnung. Es ist eine schriftliche Vereinbarung abzuschliessen.
 5 Die Einzelheiten werden durch separate Verordnung geregelt.
+7 Verfahrens- und Formvorschriften
