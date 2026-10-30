@@ -1,0 +1,4703 @@
+{
+ "country": "CH-SH",
+ "acts": [
+  {
+   "slug": "101-000",
+   "short": "SHR 101.000",
+   "title": "Verfassung des Kantons Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/101.000",
+   "versions": [
+    {
+     "from": "2020-02-09",
+     "units": 126,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/101.000/versions/1616",
+     "sha256": "7cc0b952c14bd0b3600c9ee15f81ca5342ecda4025a14ef97834eb846ffc35f2"
+    },
+    {
+     "from": "2024-11-24",
+     "units": 127,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/101.000",
+     "sha256": "2bb4d95d0600e96facd8fd87960269e164d157d2e7944282b7d6fa2c7cc29b9f"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 126,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/101.000/versions/2135",
+     "sha256": "efcbae7fdc5b570d8b57f83c34802f9fe6c22b5ea30571a1690f570c5e56c4f6"
+    }
+   ]
+  },
+  {
+   "slug": "120-100",
+   "short": "SHR 120.100",
+   "title": "Gemeindegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/120.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 142,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/120.100/versions/1711",
+     "sha256": "27e6b4bd05ec6ea5a16ed39d56eea46ffd9894179ea564f3d09519c48af58937"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 142,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/120.100/versions/2028",
+     "sha256": "a4a892a1ee40d672a58465c89d9f33ef940591232011e0d8e579146eb40f2927"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 142,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/120.100",
+     "sha256": "16afab9452a1b863461ba6f17eb98e65bda2ae8b52327c71cb3975b253fda5c3"
+    }
+   ]
+  },
+  {
+   "slug": "130-100",
+   "short": "SHR 130.100",
+   "title": "Gesetz über die Ausrichtung von Beiträgen an die Landeskirchen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/130.100",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/130.100",
+     "sha256": "24f974be3fcc23cb6185a7fff14e10febfd431be5f8be559ac9efee2224dff64"
+    }
+   ]
+  },
+  {
+   "slug": "141-100",
+   "short": "SHR 141.100",
+   "title": "Bürgerrechtsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/141.100",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/141.100",
+     "sha256": "d2294b2571a5889e60ceae5c6c3343f8f8606d5742f47c7868f9988bae1d21c1"
+    }
+   ]
+  },
+  {
+   "slug": "160-100-wahlgesetz",
+   "short": "Wahlgesetz",
+   "title": "Gesetz über die vom Volke vorzunehmenden Abstimmungen und Wahlen sowie über die Ausübung der Volksrechte",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.100",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 102,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/160.100",
+     "sha256": "e6843e4321229f30f1b6b5fc52d02b896a0aca4cc62d3831abcbe99abcc2180b"
+    }
+   ]
+  },
+  {
+   "slug": "160-200",
+   "short": "SHR 160.200",
+   "title": "Gesetz über die Durchführung von Wahlen ohne Wahlgang (stille Wahlen)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.200",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/160.200",
+     "sha256": "1359144f4474ee7389dbb2392c14e885bc86cc9cf650cebc9694ee17ec734a6a"
+    }
+   ]
+  },
+  {
+   "slug": "170-100",
+   "short": "SHR 170.100",
+   "title": "Gesetz über die Gewaltentrennung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.100",
+   "versions": [
+    {
+     "from": "1969-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.100",
+     "sha256": "cc0957d03b55bc5cbba8a25873583f64a7cdac48c6fb4598071ad9126e926b1d"
+    }
+   ]
+  },
+  {
+   "slug": "170-200",
+   "short": "SHR 170.200",
+   "title": "Gesetz über die Ombudsstelle (Ombudsgesetz)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.200",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 4,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.200/versions/2043",
+     "sha256": "a234998b0534e965c8ec67db75dc7566a7a0f50c5db750522ee47a41b2bf6fe7"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.200",
+     "sha256": "0c217abdaf6fc071d54e8e2a5e6875ed10c9bffcf93636ff13e8169ec189ed4e"
+    }
+   ]
+  },
+  {
+   "slug": "170-300-haftungsgesetz",
+   "short": "Haftungsgesetz",
+   "title": "Gesetz über die Haftung des Staates und der Gemeinden sowie ihrer Behördemitglieder und Arbeitnehmer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.300",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.300",
+     "sha256": "c2614f3dbe60c9f1a4a9846a4ac5fde0cfc5e3aa0998d0d67e88621ff2cf22b0"
+    }
+   ]
+  },
+  {
+   "slug": "171-100",
+   "short": "SHR 171.100",
+   "title": "Gesetz über den Kantonsrat",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/171.100",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/171.100/versions/1726",
+     "sha256": "925c48329d0139aa154a7ac68e1b4406dd63e6488007c7748520fdd196f2df22"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/171.100",
+     "sha256": "52124888463773c7069f0ef62e6574de6d349ebb1709b03ad2103bcbda57f22b"
+    }
+   ]
+  },
+  {
+   "slug": "172-100-organisationsgesetz",
+   "short": "Organisationsgesetz",
+   "title": "Gesetz über die Organisation der Regierungs- und Verwaltungstätigkeit",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.100",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 54,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.100",
+     "sha256": "41c264225bee06e064ebb84501c3ed24a80ee35ae69864a59c740b9b88ccad1a"
+    }
+   ]
+  },
+  {
+   "slug": "172-200-verwaltungsrechtspflegegesetz",
+   "short": "Verwaltungsrechtspflegegesetz",
+   "title": "Gesetz über den Rechtsschutz in Verwaltungssachen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.200",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 68,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.200/versions/1430",
+     "sha256": "1aa7ed3bdb8ce1eea3d1f04456f4bc275f8f3e43c7b34a4ee3e3aa75afe61928"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 70,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.200",
+     "sha256": "4ff574a5805a2360d3d5e6343bee45b3e384fb8c0e43b7de63b9f9f86245804d"
+    }
+   ]
+  },
+  {
+   "slug": "172-500",
+   "short": "SHR 172.500",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Binnenmarkt (BGBM)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.500",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.500",
+     "sha256": "5a5f988ff9d667533655113232c1fe7092e8dbe5e5f0c79bc3096ea0728ad842"
+    }
+   ]
+  },
+  {
+   "slug": "172-700-itsh-gesetz-itshg",
+   "short": "ITSH-Gesetz, ITSHG",
+   "title": "Gesetz über die Informatik Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.700",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.700",
+     "sha256": "0024ef74c05f6ab95678f98e0e5140c38eec7f152afa1b12ce9acb67f56c22eb"
+    }
+   ]
+  },
+  {
+   "slug": "173-100",
+   "short": "SHR 173.100",
+   "title": "Gesetz über den Fristenablauf",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.100",
+   "versions": [
+    {
+     "from": "1965-11-14",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.100",
+     "sha256": "f4ac928899d18cda00accb6cb9cb7120aa2f09487970c72b63f3bcbacd2e0186"
+    }
+   ]
+  },
+  {
+   "slug": "173-200-jg",
+   "short": "JG",
+   "title": "Justizgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.200",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 119,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.200/versions/1734",
+     "sha256": "01323f874d5f009ac477b1e4a0c1f756292e6baac93ab71993b3afd60abbfe42"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 119,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.200/versions/1833",
+     "sha256": "2480f5b5164430fde8d8467699487f895046c3f77047dd2dd1c2068c66c44221"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 122,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.200",
+     "sha256": "8e3cedb13b650ae58e1f9cca0c068ab21eb1c6a1c84478491cda91bc679ede29"
+    }
+   ]
+  },
+  {
+   "slug": "173-800",
+   "short": "SHR 173.800",
+   "title": "Gesetz über das Anwaltswesen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.800",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.800",
+     "sha256": "298455e903b9edfbe83bb30463127117a1f4a39322811b1a55923f9ee39ccce8"
+    }
+   ]
+  },
+  {
+   "slug": "174-100-kantonales-datenschutzgesetz",
+   "short": "Kantonales Datenschutzgesetz",
+   "title": "Gesetz über den Schutz von Personendaten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/174.100",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/174.100",
+     "sha256": "bb635c25db70b3bd80aa75008d1188c1eaa47eade39d36d5987d6bd95557fc0a"
+    }
+   ]
+  },
+  {
+   "slug": "180-100-personalgesetz",
+   "short": "Personalgesetz",
+   "title": "Gesetz über das Arbeitsverhältnis des Staatspersonals",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.100",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.100/versions/1821",
+     "sha256": "1add7b6f1c61cbf807dd5b7726c7fe58877dcf62468d0548d3ab823335eac90a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 51,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.100",
+     "sha256": "db1787a652f567cd029fb34a8be3ec2037c6c70ea55d3d09793de69c243fb0a6"
+    }
+   ]
+  },
+  {
+   "slug": "185-100",
+   "short": "SHR 185.100",
+   "title": "Pensionskassengesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/185.100",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/185.100",
+     "sha256": "3c93e24b843a49607232bfb63b701768e4565a56a50a5033977a33673d7ad6ab"
+    }
+   ]
+  },
+  {
+   "slug": "210-100",
+   "short": "SHR 210.100",
+   "title": "Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/210.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 154,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/210.100/versions/1882",
+     "sha256": "d89c8653ff27664c87bf58455859c376ebea79b276edf353183f576dcf00f3b0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 153,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/210.100",
+     "sha256": "2435e538e25ca0505f6f0d722df370ea47822d7252dd49501871859eae5644aa"
+    }
+   ]
+  },
+  {
+   "slug": "211-412-eg-bewg",
+   "short": "EG BewG",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.412",
+   "versions": [
+    {
+     "from": "1988-11-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.412",
+     "sha256": "a04fcb4a5d14020b46b5fd284eaf484a97c3ee1dcbe15af6b77071c68791fb35"
+    }
+   ]
+  },
+  {
+   "slug": "211-500-kgeoig",
+   "short": "KGeoIG",
+   "title": "Kantonales Geoinformationsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.500",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.500",
+     "sha256": "0b31be6d12a9adc8f4fbcfc14c31d650fc089d59d5d0c69d321fa40b0b3f4750"
+    }
+   ]
+  },
+  {
+   "slug": "311-100",
+   "short": "SHR 311.100",
+   "title": "Gesetz über die Einführung des Schweizerischen Strafgesetzbuches (StGB)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/311.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/311.100",
+     "sha256": "15cef2f37cb0f4cc8b88f0275f6e8dbe0a96ccaa882bfd06da43537d64e92b23"
+    }
+   ]
+  },
+  {
+   "slug": "354-100",
+   "short": "SHR 354.100",
+   "title": "Polizeigesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 55,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.100/versions/1907",
+     "sha256": "6845b517df1d338c7cc50cab364b94e760e6dc06b4be5d619f6573fd0816bff7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 64,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.100",
+     "sha256": "870b4594f996c85dbae4c1c120dc8a0982611243f71910f93cca985fd7c0c423"
+    }
+   ]
+  },
+  {
+   "slug": "360-100-gso",
+   "short": "GSO",
+   "title": "Gesetz über den Solidaritätsbeitrag an Opfer von fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 und an Betroffene von Medikamentenversuchen in der psychiatrischen Klinik Breitenau zwischen 1950 und 1980",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/360.100",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/360.100",
+     "sha256": "965b0ff7f8b7a21f5338e2565367382ac7323c5e317d8f335ed21fad3c2f93eb"
+    }
+   ]
+  },
+  {
+   "slug": "410-100",
+   "short": "SHR 410.100",
+   "title": "Schulgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.100",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 120,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.100/versions/1873",
+     "sha256": "62a803167685a9b454b492c946e1b7d6a997e5091e2e0482d6840d4688911911"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 122,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.100",
+     "sha256": "d196864d5f492c968dcfaccfa699f0b7dfeb9c05efe4d1331a4b1b13172c7ed1"
+    }
+   ]
+  },
+  {
+   "slug": "410-500",
+   "short": "SHR 410.500",
+   "title": "Gesetz über die Subventionierung von Schulbauten sowie von Kindergärten, Schülerhorten und Kinderkrippen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.500",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.500",
+     "sha256": "772bd572a42cac4f4a16595a02db9743e518640e3e766c08607424fc40fce233"
+    }
+   ]
+  },
+  {
+   "slug": "412-100",
+   "short": "SHR 412.100",
+   "title": "Einführungsgesetz zum Berufsbildungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/412.100",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.100/versions/803",
+     "sha256": "a49bf95bfe7276036dad5dc4bab39d0a9b90bcf461700f2d407c19ab9a12c2a3"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 61,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.100/versions/1982",
+     "sha256": "2025853e072beba3a24c3921958aac62dc510f0457c7ad8abaf002ee39c29d2f"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 61,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.100",
+     "sha256": "67b61f88f1b4cd77202705c951d7387c05ac569d084b852fffc8e808b53da0a6"
+    }
+   ]
+  },
+  {
+   "slug": "414-100",
+   "short": "SHR 414.100",
+   "title": "Gesetz über die Ausrichtung von Beiträgen an kantonale Hochschulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.100",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.100",
+     "sha256": "4981a6066fc0b1ecf312737f4dfab91f9495542519ac8463f61bd948ff6df579"
+    }
+   ]
+  },
+  {
+   "slug": "414-200-hgsh",
+   "short": "HGSH",
+   "title": "Hochschulgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.200",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 41,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.200",
+     "sha256": "1ebcc4d30143b8ce88f25987cf371b2e10af1b9396ec1db96c9bcc3ad0286283"
+    }
+   ]
+  },
+  {
+   "slug": "441-100",
+   "short": "SHR 441.100",
+   "title": "Kulturgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/441.100",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/441.100",
+     "sha256": "484ce9d48369a8a63eddd4a84e5a884a820acdea5920478b72ce4d189651d012"
+    }
+   ]
+  },
+  {
+   "slug": "444-100-musikschulgesetz",
+   "short": "Musikschulgesetz",
+   "title": "Gesetz über die Ausrichtung von Beiträgen an Musikschulen im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/444.100",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/444.100",
+     "sha256": "8edb7b5f01470f0fc5624da84a663c4e6669155acb36b8f316d72062d8edbe6c"
+    }
+   ]
+  },
+  {
+   "slug": "451-100",
+   "short": "SHR 451.100",
+   "title": "Gesetz über den Natur- und Heimatschutz im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/451.100",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/451.100",
+     "sha256": "9fb8f5f18937e0fbaa4d23e54ee8288504d99e906fbe6b4d7fde3ac1c7678e70"
+    }
+   ]
+  },
+  {
+   "slug": "455-200",
+   "short": "SHR 455.200",
+   "title": "Gesetz über das Halten von Hunden",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/455.200",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/455.200",
+     "sha256": "e89c3d363ae038b52ad01d3ef73a721617d627bbd6d311a7eebaa17b3e97a116"
+    }
+   ]
+  },
+  {
+   "slug": "500-100-bevsg",
+   "short": "BevSG",
+   "title": "Bevölkerungsschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.100",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/500.100/versions/864",
+     "sha256": "ee809253e553aba72eb57abf1e1fb422de6e4899d26e26baec3a763b5bc63de5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/500.100",
+     "sha256": "c989ebd9ca5ea8a284f105d22501594db0c6e013ea0dcd1089a21cfaa3e6caeb"
+    }
+   ]
+  },
+  {
+   "slug": "520-100-zsg",
+   "short": "ZSG",
+   "title": "Zivilschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/520.100",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/520.100/versions/1635",
+     "sha256": "ffd1da639f3058db06921c684e9c60abfec0b32639fa7226fd169343d6eaecb3"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/520.100",
+     "sha256": "094cf36d751e43c93cdff46af8a94965de18a84e75519d733ba3212a8024cf7f"
+    }
+   ]
+  },
+  {
+   "slug": "550-100-brandschutzgesetz-bsg",
+   "short": "Brandschutzgesetz, BSG",
+   "title": "Gesetz über den Brandschutz und die Feuerwehr",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/550.100",
+   "versions": [
+    {
+     "from": "2017-03-01",
+     "units": 53,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/550.100",
+     "sha256": "3a571160c5874c5bd7ab9cb819657ee2745460e0d6ad4f4efe246a9c70218e67"
+    }
+   ]
+  },
+  {
+   "slug": "611-100",
+   "short": "SHR 611.100",
+   "title": "Finanzhaushaltsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.100/versions/1822",
+     "sha256": "564fee8ab5452b7e60fe8cf4f547bfccaf021af5ab72c5e122b91f3e839dc914"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.100/versions/1999",
+     "sha256": "1efc78f30df11e1f8c8a404a9ce83b49e5c115d6f2dc91b313b0453e250aff72"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.100",
+     "sha256": "76e847f5dcd628479f45c0254d7873c5d7cfaeca90d552c421ce0970396727dd"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 53,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.100/versions/2136",
+     "sha256": "0dfb42e152e6471b8b8b77cfaed6107183ceadaeabf5648e774894337ace639d"
+    }
+   ]
+  },
+  {
+   "slug": "611-104",
+   "short": "SHR 611.104",
+   "title": "Gesetz über den Finanzhaushalt des Kantons und der Gemeinden (Noch in Kraft stehende Bestimmungen)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.104",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.104",
+     "sha256": "c9ea989cd2937a1dfb62d32c586eae7c7094252d02610a572a736e2aac675ba9"
+    }
+   ]
+  },
+  {
+   "slug": "621-100",
+   "short": "SHR 621.100",
+   "title": "Gesetz über den Finanzausgleich",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/621.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/621.100",
+     "sha256": "049f8532e8738a22454eef892f889671ec0d62b5d58a15684a855041128dc0b3"
+    }
+   ]
+  },
+  {
+   "slug": "621-200",
+   "short": "SHR 621.200",
+   "title": "Gesetz über die Verwendung eines Anteils aus dem Verkauf der Goldreserven der Schweizerischen Nationalbank zugunsten der Gemeinden",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/621.200",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/621.200",
+     "sha256": "549102851e082874ac9461d39bc5b4ce976d3bdd800b692f2a30f56d9f911d0c"
+    }
+   ]
+  },
+  {
+   "slug": "621-300-nfa-gesetz",
+   "short": "NFA-Gesetz",
+   "title": "Gesetz über die Einführung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/621.300",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/621.300",
+     "sha256": "3d347a9deda8750533aee3421f7b4d470ae2f6ee3db44d6828745791ffed9e1e"
+    }
+   ]
+  },
+  {
+   "slug": "641-100",
+   "short": "SHR 641.100",
+   "title": "Gesetz über die direkten Steuern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 274,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.100/versions/1967",
+     "sha256": "faf4b2282e6377eb319a49b4ec3ad0ac277c22284aef865e3cfe7d32503b45ea"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 277,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.100/versions/2022",
+     "sha256": "5858077d0113ccaa4460bc8f3438db2a11e48251771f1166fcf5e95bd2c0dbd9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 277,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.100",
+     "sha256": "d0c4a7e6eac90fe328dcf0aeb0b45aa5b29880b69b33aedef476781145017e56"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 277,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.100/versions/2079",
+     "sha256": "a64b2d6595fd76d96e8b0671454e32b3c6fbaafbb1329693a4189402670cbcb9"
+    }
+   ]
+  },
+  {
+   "slug": "643-100",
+   "short": "SHR 643.100",
+   "title": "Gesetz über die Erbschafts- und Schenkungssteuer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/643.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 34,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/643.100",
+     "sha256": "ce717cf6bd88552a12af5187d8d57fa29fd2808cada8eef4534f29e4c254fe4e"
+    }
+   ]
+  },
+  {
+   "slug": "645-100",
+   "short": "SHR 645.100",
+   "title": "Gesetz über die Strassenverkehrssteuern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/645.100",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/645.100",
+     "sha256": "03f72b10359c2921a05c9f07b3a80bab3d247f79d25ebef8d757db93ebe26f99"
+    }
+   ]
+  },
+  {
+   "slug": "646-100",
+   "short": "SHR 646.100",
+   "title": "Gesetz über die Besteuerung von Wasserfahrzeugen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/646.100",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/646.100",
+     "sha256": "fc20a96c266e51a942b3e8f5e6390e0381c8b7f236e3c6ad7307b8b405371914"
+    }
+   ]
+  },
+  {
+   "slug": "680-100",
+   "short": "SHR 680.100",
+   "title": "Gesetz über das Salzregal",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/680.100",
+   "versions": [
+    {
+     "from": "1974-12-08",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/680.100",
+     "sha256": "24b160fd8f2c0210e46012e54d1f6a9f97feca692177102a0d9f448f8e79b46b"
+    }
+   ]
+  },
+  {
+   "slug": "700-100-baugesetz",
+   "short": "Baugesetz",
+   "title": "Gesetz über die Raumplanung und das öffentliche Baurecht",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.100",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 131,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.100/versions/1742",
+     "sha256": "d3186c3121ffda633767e89142b5759a100f26dc75bf85daf92e37bf73ac9461"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 131,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.100/versions/1996",
+     "sha256": "3d77e0f969768a7313a0828e1bd3a28eae66d8cd285f720461b1195e5694704e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 113,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.100",
+     "sha256": "297c89380f2f7eedfd442345d8e25a3f10b99da2812f873bd2360de57903d300"
+    }
+   ]
+  },
+  {
+   "slug": "700-200-mag",
+   "short": "MAG",
+   "title": "Mehrwertausgleichsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.200",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.200",
+     "sha256": "f4e7cd59d910713e2530d1c3128186cf9c6e43f21daf975e6a5bab19b238a053"
+    }
+   ]
+  },
+  {
+   "slug": "711-100",
+   "short": "SHR 711.100",
+   "title": "Enteignungsgesetz für den Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/711.100",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 61,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/711.100",
+     "sha256": "ebeec98fb31637605eafdca2de873557f8fc51a4c45e7138312bc3486491994b"
+    }
+   ]
+  },
+  {
+   "slug": "721-100",
+   "short": "SHR 721.100",
+   "title": "Wasserwirtschaftsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/721.100",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 51,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/721.100/versions/1780",
+     "sha256": "71719d33a2d88eefade753090564da2a619a1c77fe8ecb38021c0c4bbb9987a4"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/721.100",
+     "sha256": "10bb70f9fd518ac226d416feb0d78716b262522fd36f7bc7e4b9d9c06b52ecee"
+    }
+   ]
+  },
+  {
+   "slug": "725-100",
+   "short": "SHR 725.100",
+   "title": "Strassengesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/725.100",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 83,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/725.100",
+     "sha256": "3c95a2d1cc1f4f68571f7cc4961dd4db93ea0b78a7569ade28a946fbce8213f1"
+    }
+   ]
+  },
+  {
+   "slug": "730-100",
+   "short": "SHR 730.100",
+   "title": "Energiegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.100",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 51,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/730.100",
+     "sha256": "4bb8f0dc06fdc555a2fd195150628305c4d122a2b6a354493989d4cbfa8265b5"
+    }
+   ]
+  },
+  {
+   "slug": "740-100",
+   "short": "SHR 740.100",
+   "title": "Gesetz über die Verbesserung der Verkehrsinfrastruktur",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/740.100",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/740.100",
+     "sha256": "e69565917a5782fc794fc9acb021b1f5653ce6274aa0e903fce146481e3b17e9"
+    }
+   ]
+  },
+  {
+   "slug": "741-100",
+   "short": "SHR 741.100",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Strassenverkehr",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/741.100",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/741.100",
+     "sha256": "ff3c22b5da3ec8763f5c6f74b54e85a6675fde4f5ad701ea17e47adeaf3f3cee"
+    }
+   ]
+  },
+  {
+   "slug": "743-100",
+   "short": "SHR 743.100",
+   "title": "Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/743.100",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/743.100/versions/1366",
+     "sha256": "7aaa118dd19c2506dd8951c47b86f086e758f5522737b37e90168f3dfb36d00a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/743.100",
+     "sha256": "f2923446596c09581c384b076d39a1224b8847615e841f911e596d0ecdec4e93"
+    }
+   ]
+  },
+  {
+   "slug": "810-100-gesg",
+   "short": "GesG",
+   "title": "Gesundheitsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/810.100",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 60,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/810.100/versions/1602",
+     "sha256": "44283cc1f05b4b49ecd5e9f220c90a0155b0f9755033f36226e9e9ddd561170a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 60,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/810.100",
+     "sha256": "438841246f9e92676c84078ebd4433864e8380f6ba7b795ebd5e276b71e48f74"
+    }
+   ]
+  },
+  {
+   "slug": "811-100-eg-fap",
+   "short": "EG FAP",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/811.100",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/811.100",
+     "sha256": "9008215b43c604cd742f10cfecf8abb819fc0210576e4d6c9c0862eec7f3aaed"
+    }
+   ]
+  },
+  {
+   "slug": "813-100",
+   "short": "SHR 813.100",
+   "title": "Spitalgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.100",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.100/versions/1784",
+     "sha256": "f4ad8f1decebe2db174a77c3722e2b806f8ef52f80cac12c79768f55ca3f0009"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.100",
+     "sha256": "078a4b1bd56cde7e53f460a1e8c57bd77249d8579a076374abfe5555e786b9de"
+    }
+   ]
+  },
+  {
+   "slug": "813-500-abpg",
+   "short": "AbPG",
+   "title": "Altersbetreuungs- und Pflegegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.500",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.500",
+     "sha256": "ee19f7755462832ab1911620be4b133299c2d18fb2c6c93fc7768c8eff0a4572"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.500/versions/2137",
+     "sha256": "a045e35f0a1687e38f2cf0babea506ac67e4969ff854beee9f96cf6e69247caf"
+    }
+   ]
+  },
+  {
+   "slug": "814-100-einfuhrungsgesetz-zum-usg",
+   "short": "Einführungsgesetz zum USG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes über den Umweltschutz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.100",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 42,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.100/versions/1792",
+     "sha256": "416d2967661033a7654dd2130f81c6d7abb56b40f0527cf6eb88f7ae743087fe"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 42,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.100",
+     "sha256": "32c0f50c8b117d6c3dfb6a140c4168b11edad2afa60938e5aa1717b431b45b16"
+    }
+   ]
+  },
+  {
+   "slug": "814-200",
+   "short": "SHR 814.200",
+   "title": "Einführungsgesetz zum Gewässerschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.200",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 33,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.200",
+     "sha256": "7f82aadf40a0b8b13e00bf53a8c58a66372fddeaea3deec573c0f6c538d7edf6"
+    }
+   ]
+  },
+  {
+   "slug": "814-500",
+   "short": "SHR 814.500",
+   "title": "Gesetz gegen Atommüll-Lagerstätten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.500",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.500",
+     "sha256": "1c0fd1cf5605bf0fa9828663145a4902a28744f75166e6ca3d83e25efab4c173"
+    }
+   ]
+  },
+  {
+   "slug": "817-100-einfuhrungsgesetz-zum-lebensmittelgesetz-eg-lmg",
+   "short": "Einführungsgesetz zum Lebensmittelgesetz, EG LMG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.100",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/817.100",
+     "sha256": "4cea7fac3cedd4bc6e73758a02b9d517c179ef5eb5252e43e18691316719155c"
+    }
+   ]
+  },
+  {
+   "slug": "831-100",
+   "short": "SHR 831.100",
+   "title": "Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.100/versions/1018",
+     "sha256": "cabaf92b0f45e3fb6f44795536b67da6c977375ef68a23461f2a5b5763daa5d7"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.100",
+     "sha256": "cab9288826fd97c5396131d4e881d8b6ed5590e13b1c1a9b264e84b2b20ede05"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.100/versions/2093",
+     "sha256": "3f61c17d010d8b7b8b71c947a738d4b3c60c980875b94e9a405142bc1e70b11b"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.100/versions/2098",
+     "sha256": "ae61e2e47c46cbfa9d15da062686431d02640e9ab93425d0346c0bac1e2d55c7"
+    }
+   ]
+  },
+  {
+   "slug": "831-300",
+   "short": "SHR 831.300",
+   "title": "Gesetz über Ergänzungsleistungen zur AHV und IV",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.300",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.300",
+     "sha256": "05d842a58e37c7be715e1238ea93d6513d6f0627607412fbc53d4f65f8a318f1"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.300/versions/2095",
+     "sha256": "5dcce0ec0e4bc7605f9e421d9b5d6d06f03d9413b92df1f46142b5066ccbbea7"
+    }
+   ]
+  },
+  {
+   "slug": "832-100",
+   "short": "SHR 832.100",
+   "title": "Krankenversicherungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.100",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.100",
+     "sha256": "9e813e0faa00469455e36815d9b09948dc9377e3a003e8c9bd93b656d1b705a4"
+    }
+   ]
+  },
+  {
+   "slug": "832-110",
+   "short": "SHR 832.110",
+   "title": "Dekret über den Vollzug des Krankenversicherungsgesetzes",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.110",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.110/versions/1312",
+     "sha256": "1082450a01e391d0a0d3f9fa17e38e4294d74d55a9313ef51488fbc7019aba02"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.110",
+     "sha256": "172bf851803f1669e0362b0f8d2e3a0114b4a6e5505ebb4295ee974aaca2e6d9"
+    }
+   ]
+  },
+  {
+   "slug": "836-100-fsg",
+   "short": "FSG",
+   "title": "Gesetz über Familien- und Sozialzulagen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/836.100",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 41,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/836.100/versions/1703",
+     "sha256": "12209e001b95345577ab569aa5a6500111249731ac9ac8821f9e0b6f32f11b7a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 42,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/836.100",
+     "sha256": "e81ef52957e371a5f4d3c3cff63d33450fd58f00a4401bdcd5562eb84e9ae759"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 41,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/836.100/versions/2096",
+     "sha256": "693693c743fe77ee4b2c4ef38e7f7222aa251a356d455ef7efbaeb6090cfe34d"
+    }
+   ]
+  },
+  {
+   "slug": "837-100-ahg",
+   "short": "AHG",
+   "title": "Arbeitslosenhilfegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.100",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 30,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.100/versions/1704",
+     "sha256": "3305813a84fe22a51d16b8d62df5556bb41dfd16a070725c431606e80a4a6b28"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.100",
+     "sha256": "9543e8cd675481fbc512662eb26d150ada8b44829317b4602f64b60eecbde572"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.100/versions/2097",
+     "sha256": "4adf7b7a3956e286219a95eadff7a37aa1d06b03cb021c3d45f21f512b0666cd"
+    }
+   ]
+  },
+  {
+   "slug": "850-100-sheg",
+   "short": "SHEG",
+   "title": "Gesetz über die öffentliche Sozialhilfe und soziale Einrichtungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/850.100",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 66,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/850.100",
+     "sha256": "04b0f1cfe4fd84737f8f9ceaf288e181783cb41bb2d5af5e1dec8af0a92b16f6"
+    }
+   ]
+  },
+  {
+   "slug": "860-100",
+   "short": "SHR 860.100",
+   "title": "Gesetz zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/860.100",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/860.100",
+     "sha256": "9a8a9eaf8c3ca4af1090d134fa9b2089663be4714e83944eb7ae72423e782e8c"
+    }
+   ]
+  },
+  {
+   "slug": "900-100",
+   "short": "SHR 900.100",
+   "title": "Wirtschaftsförderungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.100",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.100",
+     "sha256": "f14bbc00cf7878fd8bc2b0486086fc51cbb15c00b986c09f2f7b4fecbc5df2ba"
+    }
+   ]
+  },
+  {
+   "slug": "900-200-ruhetagsgesetz",
+   "short": "Ruhetagsgesetz",
+   "title": "Gesetz betreffend die öffentlichen Ruhetage und den Ladenschluss",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.200",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.200",
+     "sha256": "3b32454d6b1af897ec27960d8263d7942a24e94c48e83f53797f594c81079fec"
+    }
+   ]
+  },
+  {
+   "slug": "900-300",
+   "short": "SHR 900.300",
+   "title": "Gesetz zur Förderung der Regional- und Standortentwicklung im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.300",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.300",
+     "sha256": "c76c550d04c90ee0cdf6e94b0773b01c77454b8b6a063ea846c48494266b8848"
+    }
+   ]
+  },
+  {
+   "slug": "900-400-kantonales-parkgesetz",
+   "short": "Kantonales Parkgesetz",
+   "title": "Gesetz über Pärke von nationaler Bedeutung im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.400",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.400",
+     "sha256": "184a8adcbfabb2c453574cff4a70d54ab82685e7a2156c9cba83ef32e64ff59f"
+    }
+   ]
+  },
+  {
+   "slug": "900-500",
+   "short": "SHR 900.500",
+   "title": "Gesetz über Sofortmassnahmen zur Bewältigung der Coronavirus-Krise",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.500",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 18,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.500",
+     "sha256": "0b62cb2f07bc6e83c6921f50ff7b09970c5076f6152f02de078460633d5c963f"
+    }
+   ]
+  },
+  {
+   "slug": "910-100-kantonales-landwirtschaftsgesetz-lwg",
+   "short": "Kantonales Landwirtschaftsgesetz, LwG",
+   "title": "Gesetz über die Förderung der Landwirtschaft",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/910.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 61,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/910.100/versions/1707",
+     "sha256": "3a8af47921ce0259d3728d9d0e90699d756da0577ff261517b30403e5828b840"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/910.100",
+     "sha256": "8885fe06dca7e9138c4a5afe679e088a29ed10853447f80051abf4003c272c47"
+    }
+   ]
+  },
+  {
+   "slug": "921-100",
+   "short": "SHR 921.100",
+   "title": "Kantonales Waldgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/921.100",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/921.100",
+     "sha256": "b1046c1b487e118a098b433a53b788a8b8245fb4140006526756523ef960c89d"
+    }
+   ]
+  },
+  {
+   "slug": "922-100-kantonales-jagdgesetz",
+   "short": "Kantonales Jagdgesetz",
+   "title": "Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/922.100",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 39,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/922.100",
+     "sha256": "85f00ee49291cd8bf31529a372af2c68729c30b7bb819e1eb4f499bb8491130a"
+    }
+   ]
+  },
+  {
+   "slug": "932-100",
+   "short": "SHR 932.100",
+   "title": "Gesetz über Warenhandel und Schaustellungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/932.100",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/932.100",
+     "sha256": "0743a48d503d79dfd463bd22d2285572d8b83b74dd035ab211c4b4432e302ac6"
+    }
+   ]
+  },
+  {
+   "slug": "935-100-gastgewerbegesetz",
+   "short": "Gastgewerbegesetz",
+   "title": "Gesetz über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.100",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.100",
+     "sha256": "afedd2550e3e7cd704bd656ac18af15cbcfa73cfc1a08c16a77ed60b46e9b881"
+    }
+   ]
+  },
+  {
+   "slug": "935-200",
+   "short": "SHR 935.200",
+   "title": "Tourismusförderungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.200",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.200",
+     "sha256": "ff01da77912e5fcf373f4e688c48b86ef743cdb44d1a16353e425623f2772bbc"
+    }
+   ]
+  },
+  {
+   "slug": "935-500-eg-bgs",
+   "short": "EG BGS",
+   "title": "Einführungsgesetz zum Bundesgesetz über Geldspiele",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.500",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.500",
+     "sha256": "d830d93b58ffeaeabc3bfedeb13e336867b72fd4f8bffef5eed4309fb70bcad0"
+    }
+   ]
+  },
+  {
+   "slug": "951-100",
+   "short": "SHR 951.100",
+   "title": "Gesetz über die Schaffhauser Kantonalbank",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/951.100",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/951.100",
+     "sha256": "537173301285170476ce0ba3d541327ce3a31a9e7b4a4a9294188a51b2b8ad03"
+    }
+   ]
+  },
+  {
+   "slug": "951-200",
+   "short": "SHR 951.200",
+   "title": "Gesetz über eine Jubiläumsausschüttung 2008 der Schaffhauser Kantonalbank",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/951.200",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/951.200",
+     "sha256": "3660ee2abb21930a4b2f08564c93af7fc1b9742d089cdc73dbad00e8f690b194"
+    }
+   ]
+  },
+  {
+   "slug": "960-100-gebaudeversicherungsgesetz-gebvg",
+   "short": "Gebäudeversicherungsgesetz, GebVG",
+   "title": "Gesetz über die Gebäudeversicherung im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/960.100",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 44,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/960.100",
+     "sha256": "af11c6eae5bef1766186a6316a674374b628d49ec37882835b5d8af7d13668bb"
+    }
+   ]
+  },
+  {
+   "slug": "120-101",
+   "short": "SHR 120.101",
+   "title": "Gemeindearchivverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/120.101",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/120.101",
+     "sha256": "6d4302a850aef3db7fc8b0af35bf68721091354408ff0a5ee70274b98bbfac4e"
+    }
+   ]
+  },
+  {
+   "slug": "141-111",
+   "short": "SHR 141.111",
+   "title": "Verordnung zum Bürgerrechtsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/141.111",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/141.111",
+     "sha256": "1b1fdd4ad61ab22cd704759571461b27ffbbb914c763dbdb03818832ed9121c4"
+    }
+   ]
+  },
+  {
+   "slug": "142-201-vollziehungsverordnung-aig",
+   "short": "Vollziehungsverordnung-AIG",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration vom 16. Dezember 2005 und dem Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/142.201",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/142.201/versions/649",
+     "sha256": "10f3219d33e96ca6be11a9c6a87d361adf88cfce5b15a2e415d281d6b326cd8e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/142.201",
+     "sha256": "585a42e0642ff9462100eaa31879c1496ad3eaa16eb4b308898e1c75fa24d02e"
+    }
+   ]
+  },
+  {
+   "slug": "143-112-ausweisverordnung",
+   "short": "Ausweisverordnung",
+   "title": "Vollziehungsverordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/143.112",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/143.112",
+     "sha256": "04c2cd0060e0a655b8c5ed7a9f339edf301d4ac4b7a932974b908018c4bbb6af"
+    },
+    {
+     "from": "2026-11-02",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/143.112/versions/2091",
+     "sha256": "1c33491252913d44c053729165da2ca3c0eca61fd073f80d1efd1e289fa2e088"
+    }
+   ]
+  },
+  {
+   "slug": "160-101",
+   "short": "SHR 160.101",
+   "title": "Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.101",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/160.101",
+     "sha256": "199b746ff52c582c7506fa4b567f80013856342342237e0fd8a6396f5bba388e"
+    }
+   ]
+  },
+  {
+   "slug": "160-102-tpvo",
+   "short": "TPVO",
+   "title": "Transparenzverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.102",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/160.102",
+     "sha256": "373bf541924f7576b54298afdce536d5bd4f090a14c4d7d569e4e7d26873980d"
+    }
+   ]
+  },
+  {
+   "slug": "160-112",
+   "short": "SHR 160.112",
+   "title": "Verordnung über die Zustellung der eidgenössischen und kantonalen Abstimmungsvorlagen und Erläuterungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/160.112",
+   "versions": [
+    {
+     "from": "1995-08-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/160.112",
+     "sha256": "d884591634167334959b88e78bae889a6e14a7f10eb427cbe0762531e1f76979"
+    }
+   ]
+  },
+  {
+   "slug": "161-111-proporzwahlverordnung",
+   "short": "Proporzwahlverordnung",
+   "title": "Verordnung über die Wahl des Kantonsrates und die Wahl der Einwohnerräte nach dem proportionalen Wahlverfahren",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/161.111",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/161.111/versions/1107",
+     "sha256": "164ad0f3012eb0511e3a2277c90e542618fef45aa5c3b4e9b685124bf7ee4bce"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/161.111",
+     "sha256": "19c4814a8d3260aeecb209f32c9d828e2af28c886580f087f70d3e9814236e58"
+    }
+   ]
+  },
+  {
+   "slug": "165-111",
+   "short": "SHR 165.111",
+   "title": "Verordnung über die Durchführung der Nationalratswahlen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/165.111",
+   "versions": [
+    {
+     "from": "1994-12-09",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/165.111",
+     "sha256": "838f538a969ebf08c3379054551b3ad4a1de1cb5a8bd9bf3dc386c25bf5deb79"
+    }
+   ]
+  },
+  {
+   "slug": "170-501",
+   "short": "SHR 170.501",
+   "title": "Verordnung betreffend die Einsichtnahme in die Sammlungen des Bundesrechts",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.501",
+   "versions": [
+    {
+     "from": "1988-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.501",
+     "sha256": "80eabdd9d8bf92e5c3ed8720f744a64c9521c8949330c3e59d6c5d345917a33e"
+    }
+   ]
+  },
+  {
+   "slug": "170-502",
+   "short": "SHR 170.502",
+   "title": "Verordnung über die Herausgabe des Amtsblattes des Kantons Schaffhausen und weiterer offizieller Drucksachen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/170.502",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/170.502",
+     "sha256": "95da3659a09be13f5eab69ae063e1dfea43284a076541d0a114d59ea10c89aa9"
+    }
+   ]
+  },
+  {
+   "slug": "171-112",
+   "short": "SHR 171.112",
+   "title": "Reglement betreffend elektronische Abstimmungsanlage im Kantonsratssaal",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/171.112",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/171.112",
+     "sha256": "50b5a3b27c3a7d579d57ef8e43172b0b2728fab9f5dd07278c69dfeb547ad55c"
+    }
+   ]
+  },
+  {
+   "slug": "172-101-organisationsverordnung",
+   "short": "Organisationsverordnung",
+   "title": "Verordnung über die Organisation der kantonalen Verwaltung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.101",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.101/versions/1809",
+     "sha256": "c4c70096ca0c64eb94078c9b66ea9a618d384960ae2435dd71a3d455e9af3896"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.101",
+     "sha256": "1a274d1126a38027e1324464b8b0b749ac04e8e0d9bae9cd9b65dc29d50fe924"
+    }
+   ]
+  },
+  {
+   "slug": "172-103",
+   "short": "SHR 172.103",
+   "title": "Verordnung über Sofortmassnahmen zur Bewältigung der Coronavirus-Krise",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.103",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.103",
+     "sha256": "b0552b7d6d6f3ec21ba0ad006908d5f7696c68df5f8d756078629900dc8e0ed7"
+    }
+   ]
+  },
+  {
+   "slug": "172-201-verwaltungsgebuhrenverordnung",
+   "short": "Verwaltungsgebührenverordnung",
+   "title": "Verordnung über die Gebühren im kantonalen Verwaltungsverfahren",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.201",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.201",
+     "sha256": "2fa3bb6b5297cec27b1aaa3179ce385ddbe5f7a9799767fcd338f47fba85af86"
+    }
+   ]
+  },
+  {
+   "slug": "172-202-verv",
+   "short": "VERV",
+   "title": "Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.202",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.202/versions/1421",
+     "sha256": "064e2ec24a1ae4c1d4672f89b0db34621f00c6fa1aba8ca2bb2381b8385a8cf2"
+    },
+    {
+     "from": "2026-03-15",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.202",
+     "sha256": "dbf717690700370b3825ce27edff4f4b3b2dfd44ef979d79c0ade4dcc609e20b"
+    }
+   ]
+  },
+  {
+   "slug": "172-301-archivverordnung",
+   "short": "Archivverordnung",
+   "title": "Verordnung über das Staatsarchiv und die Archivierung der Verwaltungsakten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.301",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.301",
+     "sha256": "a96b42fc948ed1da337fa701c27972dd3d136d508d502148f64b2e1e0b820f34"
+    }
+   ]
+  },
+  {
+   "slug": "172-302",
+   "short": "SHR 172.302",
+   "title": "Verordnung über die Gebühren für Beglaubigungen durch die Staatskanzlei",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.302",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/172.302",
+     "sha256": "9dc340850ea6afcfc0b5ef433b4b8bb59e0cf00ac8cef1416b63d1c17cca20d1"
+    }
+   ]
+  },
+  {
+   "slug": "173-122-entschadigungsverordnung",
+   "short": "Entschädigungsverordnung",
+   "title": "Verordnung des Obergerichts über Entschädigungen im Gerichtsverfahren",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.122",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.122",
+     "sha256": "a2ccf900feac0cba1716001361dd2178f3f375894206cf2144ecfd63281d8d35"
+    }
+   ]
+  },
+  {
+   "slug": "173-151-akzessistenverordnung",
+   "short": "Akzessistenverordnung",
+   "title": "Verordnung des Obergerichts über die Akzessistinnen und Akzessisten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.151",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.151/versions/890",
+     "sha256": "48d7b88bc1253fef476cfd6a5e688bc8b76533221cee32c8c5bfbab2d9b047f8"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.151/versions/1941",
+     "sha256": "18d0b378064c495137d0a0d941e91cc56d05cb94b1a670143e485638472e4d4e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.151",
+     "sha256": "df15d881e2c38f21e9d2609ca7cc2d76b52f0f152fd93ed18101f0d54f6817b5"
+    }
+   ]
+  },
+  {
+   "slug": "173-201-ejustizaktenverordnung-ejav",
+   "short": "eJustizaktenverordnung, eJAV",
+   "title": "Verordnung über die elektronische Aktenführung der Justizbehörden",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.201",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.201",
+     "sha256": "2586b61b01921cd700656ef60c95a4a1eca5f7872f5cc63aa185da11aa2d914d"
+    }
+   ]
+  },
+  {
+   "slug": "173-811-honorarverordnung-honv",
+   "short": "Honorarverordnung, HonV",
+   "title": "Verordnung des Obergerichts über das Honorar für unentgeltliche Vertretung und amtliche Verteidigung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.811",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.811/versions/683",
+     "sha256": "b2d95e5251a862134e3818defe9fcc5431dff5e8d338aec7e2833473fead9c29"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.811",
+     "sha256": "6120fa560fbb7b9b61ddae0b10d22fb1fa1bc5049f70f283f6537f1eab9dad5b"
+    }
+   ]
+  },
+  {
+   "slug": "173-812-anwaltsverordnung-rav",
+   "short": "Anwaltsverordnung, RAV",
+   "title": "Verordnung des Obergerichts über das Anwaltswesen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.812",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/173.812",
+     "sha256": "818168f043560b3b2e5293f0d530190125f46387b2d4ddb9e4a4281be67a29c0"
+    }
+   ]
+  },
+  {
+   "slug": "174-101-kantonale-datenschutzverordnung",
+   "short": "Kantonale Datenschutzverordnung",
+   "title": "Verordnung über den Schutz von Personendaten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/174.101",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/174.101",
+     "sha256": "caff001235f9e7b78f98ae5bf6b0ffcedc4696773728fcfefc4002418a981634"
+    }
+   ]
+  },
+  {
+   "slug": "174-102-informatiksicherheitsverordnung-isv",
+   "short": "Informatiksicherheitsverordnung, ISV",
+   "title": "Verordnung betreffend Informatiksicherheit",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/174.102",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/174.102",
+     "sha256": "8fa8e620e0095153861276cd0824351ba63b7e7e2ba4533dc7b5124563ce4c1a"
+    }
+   ]
+  },
+  {
+   "slug": "180-101-lohnverordnung",
+   "short": "Lohnverordnung",
+   "title": "Verordnung über die Entlöhnung des Staatspersonals",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.101",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.101/versions/1459",
+     "sha256": "c607d772e1f71a3fe28168cce54485b576c465b3e0d284577da94ebb11664091"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.101/versions/1853",
+     "sha256": "a6541a69ab1d416e2a775fd8c89758bc4f87c4a1adcbb5b09ad84bc45dc9474a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.101/versions/2049",
+     "sha256": "e27bd5a3a20cbd427d759ee8f7456d11bf043ad1213a254e0bf57919c7cc0c0a"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.101",
+     "sha256": "3b83782bf2424e3578cf59c46d1fec67a067354b51a1f1d60eb21d19035cfad6"
+    }
+   ]
+  },
+  {
+   "slug": "180-111-personalverordnung",
+   "short": "Personalverordnung",
+   "title": "Verordnung über die Arbeitsverhältnisse des Staatspersonals",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 64,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.111/versions/1712",
+     "sha256": "d68fd6552e23299b07514797cdcee8e36e6668ddb0717363a19f1e0fd67bd148"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 65,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.111",
+     "sha256": "63fcdf5b9148266c1089b62e7e5da57003620b047f292d91fcc69062b5bbd79e"
+    }
+   ]
+  },
+  {
+   "slug": "180-112-spesenverordnung",
+   "short": "Spesenverordnung",
+   "title": "Verordnung über die Spesenvergütungen beim Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.112",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.112",
+     "sha256": "6fe64a21be2391df9b489656f84f2a411696fd9a2753fb96c24c9e19eb4570c8"
+    }
+   ]
+  },
+  {
+   "slug": "180-113-arbeitszeitverordnung",
+   "short": "Arbeitszeitverordnung",
+   "title": "Verordnung über die Arbeitszeit des Staatspersonals",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.113",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.113/versions/1912",
+     "sha256": "1f0bbb3783d0249e4e7589fcc1b94d88b30561a3c7c9a74d395f82efb33a7d5c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.113",
+     "sha256": "bc76faf1140083e2f3f52dfae059541644762d9a6eab56cd2da0305d2a87de46"
+    }
+   ]
+  },
+  {
+   "slug": "180-115",
+   "short": "SHR 180.115",
+   "title": "Verordnung über die Zuteilung von Parkplätzen in der kantonalen Verwaltung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.115",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.115",
+     "sha256": "da7da4ce25516193d91f3bf0f3daf2fcf9a753cfee6f5e2187b74ee7eb4e9039"
+    }
+   ]
+  },
+  {
+   "slug": "180-131-ubergangsrentenverordnung-urv",
+   "short": "Übergangsrentenverordnung, ÜRV",
+   "title": "Verordnung über die Ausrichtung einer Übergangsrente bei vorzeitigem Rücktritt aus dem Staatsdienst",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.131",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.131/versions/1730",
+     "sha256": "34a6430ddf65039e84e05479d8e2aabc06006d6b927704743f994f014f7cfaca"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.131/versions/1975",
+     "sha256": "2315c38ca633812ed45a819033d57aa219df7bc3aa1e67d23b6cf7b0f34da446"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.131/versions/2039",
+     "sha256": "08900d2421524ceca369ae1f15ca177258ac66f1ca87da3250a06b37b45aa86b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/180.131",
+     "sha256": "8e6eb000bd10eb7a3e117c1a86339a4cf217a5d76d20c65e362cde74080bc8b5"
+    }
+   ]
+  },
+  {
+   "slug": "211-111",
+   "short": "SHR 211.111",
+   "title": "Kantonale Zivilstandsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.111",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.111",
+     "sha256": "3eeb35ae79f38aed910b7f461bc2d7a9ca6bebb77e2e4adf802dfbc447f53432"
+    }
+   ]
+  },
+  {
+   "slug": "211-121",
+   "short": "SHR 211.121",
+   "title": "Verordnung betreffend die Aufsicht über die Stiftungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.121",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.121/versions/697",
+     "sha256": "00af38ac800ad06aeaaee07c84524805822e0c0e0aee4be7f8fc911df40d2de5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.121",
+     "sha256": "e3d752345d4f779fbe57cad097d15aba82221cedcb89f8d50045c70595a0e8c7"
+    }
+   ]
+  },
+  {
+   "slug": "211-221",
+   "short": "SHR 211.221",
+   "title": "Kantonale Adoptionsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.221",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.221",
+     "sha256": "8626d93ed05295770f4ded80d9f67b6d98a631b4b999aa6d769f515cd0ba053b"
+    }
+   ]
+  },
+  {
+   "slug": "211-222-alimentenbevorschussungsverordnung",
+   "short": "Alimentenbevorschussungsverordnung",
+   "title": "Verordnung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.222",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.222",
+     "sha256": "fb2b352e63684ded06161125824be62d63f586acb7f5aef827ce6f524feb5c39"
+    }
+   ]
+  },
+  {
+   "slug": "211-223",
+   "short": "SHR 211.223",
+   "title": "Verordnung über die Zusammenarbeit in der Jugendpolitik und Jugendhilfe",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.223",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.223",
+     "sha256": "bcaa897a9fe502c158a4f5c3b214c22598289e8979455c0467a14c61833217ec"
+    }
+   ]
+  },
+  {
+   "slug": "211-224",
+   "short": "SHR 211.224",
+   "title": "Kantonale Pflegekinderverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.224",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.224/versions/1861",
+     "sha256": "634aa07fcf084fd508266fcd1a2a9a753ab624b27ec176d99d9d8531b948e44e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 45,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.224",
+     "sha256": "0075aa04d99a6135315b4c8f08c8276240acce2a6b3466713b50e065082424ac"
+    }
+   ]
+  },
+  {
+   "slug": "211-231",
+   "short": "SHR 211.231",
+   "title": "Erbschaftsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.231",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 39,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.231",
+     "sha256": "c06dfda2e347818f1d2168acb7f716259e4510f1ffa5121deaa139273d089771"
+    }
+   ]
+  },
+  {
+   "slug": "211-232",
+   "short": "SHR 211.232",
+   "title": "Erbschaftsgebührenverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.232",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.232",
+     "sha256": "18256f36c937580fa59bedd41c0425921063bd19fe94075bdc6c662bdfd6456a"
+    }
+   ]
+  },
+  {
+   "slug": "211-233-beistandsentschadigungsverordnung",
+   "short": "Beistandsentschädigungsverordnung",
+   "title": "Verordnung über die Entschädigung und den Spesenersatz der Beistände",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.233",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.233",
+     "sha256": "1910b88664e585411c54c6fec652f8dff74343c6a82d6a7126eeb42e7f22997f"
+    }
+   ]
+  },
+  {
+   "slug": "211-431",
+   "short": "SHR 211.431",
+   "title": "Grundbuchverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.431",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.431",
+     "sha256": "63da62083477ca5c1e9ddb77a1dd08755cae25f75464ffad413db7e148a28c74"
+    }
+   ]
+  },
+  {
+   "slug": "211-433",
+   "short": "SHR 211.433",
+   "title": "Grundbuchgebührenverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.433",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.433",
+     "sha256": "8a9f138b81976c5f52f2e0152666ba9efafaab500794e657c5408d6ba7ab4d8a"
+    }
+   ]
+  },
+  {
+   "slug": "211-441",
+   "short": "SHR 211.441",
+   "title": "Verordnung über die amtliche Vermessung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.441",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.441/versions/1859",
+     "sha256": "1dee270c3679064489fbd0e06e446129c5cb119753b3dcee232099f35c84b1d9"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.441",
+     "sha256": "8ce859dc4616005f0b7d052fc4bad36a2e6faae4373a048881b516728ead4631"
+    }
+   ]
+  },
+  {
+   "slug": "211-501-kgeoiv",
+   "short": "KGeoIV",
+   "title": "Kantonale Geoinformationsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.501",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/211.501",
+     "sha256": "09a0a67e078b1695f6a04265aa7e94bfefef82a3bcefb6b0dc6e89cae7f0590b"
+    }
+   ]
+  },
+  {
+   "slug": "221-101-notariatsgebuhrenverordnung",
+   "short": "Notariatsgebührenverordnung",
+   "title": "Verordnung über die Gebühren für öffentliche Beurkundungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/221.101",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/221.101",
+     "sha256": "f7fd5d50eb7de31bf87e3808db6ee81e43c501936c374f396b5b6d9171e70146"
+    }
+   ]
+  },
+  {
+   "slug": "221-201",
+   "short": "SHR 221.201",
+   "title": "Verordnung über die Einführung des Konsumkreditgesetzes",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/221.201",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/221.201",
+     "sha256": "723f9e4d7711c40ea7933aadfec2eeb4842bdab0d0576e88ae41a597f8824697"
+    }
+   ]
+  },
+  {
+   "slug": "221-215",
+   "short": "SHR 221.215",
+   "title": "Verordnung zum Bundesgesetz über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/221.215",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/221.215",
+     "sha256": "da8218e7c1432e64d466c2217303d1e4d2198a470661a2e31644e30c9967cc27"
+    }
+   ]
+  },
+  {
+   "slug": "281-101",
+   "short": "SHR 281.101",
+   "title": "Verordnung über die Betreibungskreise",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/281.101",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/281.101/versions/1439",
+     "sha256": "e6d92ac502cbe8b57aa7179d6b1ffdd75ea30d182673ad0fb936b58b6ae53c11"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/281.101",
+     "sha256": "3538d28f42d93ad13dbd462c7000db94316998b2d3217c8134d5a799d37b9ea4"
+    }
+   ]
+  },
+  {
+   "slug": "311-101",
+   "short": "SHR 311.101",
+   "title": "Verordnung über den unmittelbaren Busseneinzug",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/311.101",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/311.101",
+     "sha256": "adbe7844320ce25a4fa261d903ad2c13fd627b314602210655282e695d2d8acf"
+    }
+   ]
+  },
+  {
+   "slug": "311-102-kobv",
+   "short": "KOBV",
+   "title": "Kantonale Verordnung über das Ordnungsbussenverfahren",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/311.102",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/311.102",
+     "sha256": "834846ca7b2cd24dc795141c25e399c0ba59f744a5c37d86bbf2b49867fb6e2a"
+    }
+   ]
+  },
+  {
+   "slug": "320-111",
+   "short": "SHR 320.111",
+   "title": "Verordnung des Obergerichts über die Archivierung der Justizakten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/320.111",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/320.111",
+     "sha256": "21b878be1aae493e398393b31f6c5e37e599f63c6eb38890b5fc475c2303495a"
+    }
+   ]
+  },
+  {
+   "slug": "320-412-dna-verordnung",
+   "short": "DNA-Verordnung",
+   "title": "Verordnung über den Vollzug der Bundesgesetzgebung über die DNA-Analyse",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/320.412",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/320.412",
+     "sha256": "3a2dacbb903b848a38ae45a7c86020ac73a814b05e519e470f3bd0bc7e0a205f"
+    }
+   ]
+  },
+  {
+   "slug": "320-511",
+   "short": "SHR 320.511",
+   "title": "Verordnung des Obergerichts über die Zulassung und Stellung von Gerichtsberichterstattern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/320.511",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/320.511",
+     "sha256": "eaeac1fac8c0b38e2151a33e119d641b2b54876f59574f056ffdabb635e9da3d"
+    }
+   ]
+  },
+  {
+   "slug": "331-101",
+   "short": "SHR 331.101",
+   "title": "Verordnung über das Strafregister",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/331.101",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/331.101",
+     "sha256": "5c5890e6d60f7d751d4ced061a557e24f1c9a482e16e4847ad3d7660d9033b75"
+    }
+   ]
+  },
+  {
+   "slug": "341-101-jvv",
+   "short": "JVV",
+   "title": "Justizvollzugsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/341.101",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 127,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/341.101/versions/1748",
+     "sha256": "1c450e6184c8b6c14874cb36d5560f3b1d0d7366169b22ce731de298af3abe49"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 130,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/341.101",
+     "sha256": "f65d28a9b84c91c1af0ac5017fa4818a32e54432609b94a8b050c6dc89f45403"
+    }
+   ]
+  },
+  {
+   "slug": "354-111-polv",
+   "short": "PolV",
+   "title": "Polizeiverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.111/versions/1738",
+     "sha256": "035b2e404f2be8461d96380ed51b28f19fe25b3388bee3a9bfbd440b79192c95"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.111",
+     "sha256": "2145724b58314437c1ca360051919b457ad579da84f3520a417e64ed58d35956"
+    }
+   ]
+  },
+  {
+   "slug": "354-112-poldatv",
+   "short": "PolDatV",
+   "title": "Verordnung über die polizeiliche Datenbearbeitung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/354.112",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.112/versions/1750",
+     "sha256": "d6072c7ca9623a19d070f27b56c6553620baa8df0effa8211defa12f604143a2"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/354.112",
+     "sha256": "d65a153846a1d8873c41ba22d03a941ee6b7763078655576922c0dbf92462a8d"
+    }
+   ]
+  },
+  {
+   "slug": "360-101-kohv",
+   "short": "KOHV",
+   "title": "Kantonale Verordnung über die Opferhilfe",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/360.101",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/360.101",
+     "sha256": "af4ff16c494227988e6b35383f7c00145b59f4c530ad89fa44fe64c359eecdb4"
+    }
+   ]
+  },
+  {
+   "slug": "410-102-tagesstrukturverordnung",
+   "short": "Tagesstrukturverordnung",
+   "title": "Verordnung betreffend die Ausrichtung von Kantonsbeiträgen an schulergänzende Tagesstrukturen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.102",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.102",
+     "sha256": "4a93343c5360155a3fedc2236fceb6ce757396d9c0a6372721c8fa917385f254"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.102/versions/2123",
+     "sha256": "4cbf8ea51b92993e42c54507b5ee67a4ff486318a8720076fb2a3a539f4147cb"
+    }
+   ]
+  },
+  {
+   "slug": "410-112",
+   "short": "SHR 410.112",
+   "title": "Verordnung des Erziehungsrates betreffend private Schulen und privater Unterricht",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.112",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.112",
+     "sha256": "1481a2e9af0b2bda7967ca022146b4e0bf2c1a73e93fd623e1fb117a100724f7"
+    }
+   ]
+  },
+  {
+   "slug": "410-115",
+   "short": "SHR 410.115",
+   "title": "Verordnung des Erziehungsrates betreffend den Vollzug des Förderungskonzepts zum Programm des Bundes «Junge Talente Musik»",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.115",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.115",
+     "sha256": "cabcf3410e1c19500796230c8094855b2b2653ef965097d7013389c88c854372"
+    }
+   ]
+  },
+  {
+   "slug": "410-302-konferenzreglement",
+   "short": "Konferenzreglement",
+   "title": "Verordnung des Erziehungsrates über die Lehrerkonferenzen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.302",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.302/versions/1256",
+     "sha256": "4cdf410ebc25a6eebdda2179c1dbb87aa638953ba52696c882845227f2d7b2d8"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.302/versions/1843",
+     "sha256": "ebef72a989165088fa4ed2b1816fae7e8f49dfe01501268681d4813aeeacc0b8"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.302",
+     "sha256": "e8c46f2bd7ca3c000679b899de1263758af2690f93cb398918ba9a36f757b5c3"
+    }
+   ]
+  },
+  {
+   "slug": "410-303",
+   "short": "SHR 410.303",
+   "title": "Verordnung des Erziehungsrates über das Schulinspektorat",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.303",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.303",
+     "sha256": "5e9bb686915eb08dc1ee7f226d75f75d52b41b199c7a730f01bcc119a89492c6"
+    }
+   ]
+  },
+  {
+   "slug": "410-304",
+   "short": "SHR 410.304",
+   "title": "Verordnung über die Aufgaben der Abteilung Schulische Abklärung und Beratung (Schulpsychologischer Dienst)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.304",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.304",
+     "sha256": "1df510820a63b189a64ce18948c6cfa397f682fd29f82fa06e1d3affc6fe899f"
+    }
+   ]
+  },
+  {
+   "slug": "410-305",
+   "short": "SHR 410.305",
+   "title": "Verordnung über den schulischen Sozialdienst des Kantons Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.305",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.305",
+     "sha256": "f329c83512ca407d40d34fc2782648a7eb9ea9717e90acdacc2a4beb45154255"
+    }
+   ]
+  },
+  {
+   "slug": "410-306",
+   "short": "SHR 410.306",
+   "title": "Verordnung des Erziehungsrates betreffend die Schulleitungen der Primar- und Sekundarstufe I des Kantons Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.306",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.306",
+     "sha256": "73c5e1aa267e8b32d5754709faa8b31411e47ea2e104dcc9bd9549de8a615920"
+    }
+   ]
+  },
+  {
+   "slug": "410-401-lehrerverordnung",
+   "short": "Lehrerverordnung",
+   "title": "Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den öffentlichen Schulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.401",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 56,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.401/versions/1854",
+     "sha256": "4efa3cbb2460d616453dc6a30446865e6bf609aa24f106bd53563c5061b4d807"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 56,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.401/versions/1923",
+     "sha256": "09170c423f17439d91105d865c7bcc6cfbd038f6efeb093d50588f616b422df5"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 56,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.401/versions/1973",
+     "sha256": "a1ccad51dc0cf8c846585f61c692fd331b7b54987f6388f9fbfb267cada6cac9"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 55,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.401",
+     "sha256": "5f9b896800f2856af67849600ac5dd599e0a5090c100264c494573a1500b0a0d"
+    },
+    {
+     "from": "2027-08-01",
+     "units": 55,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.401/versions/2125",
+     "sha256": "c3241aca696ebf985f96d0c6c958dcacb00c0f011e8fe96489ca84246e6889f0"
+    }
+   ]
+  },
+  {
+   "slug": "410-403-berufseinfuhrungsverordnung",
+   "short": "Berufseinführungsverordnung",
+   "title": "Verordnung des Erziehungsrates über die Berufseinführung der Lehrpersonen der Volksschule und die Einführung der Wiedereinsteigerinnen und Wiedereinsteiger",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.403",
+   "versions": [
+    {
+     "from": "2004-02-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.403",
+     "sha256": "bab699ffadcd811aee7aac04d4ac12dbd925ba617f9338e8ec11681063ec1e4f"
+    },
+    {
+     "from": "2027-08-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.403/versions/2077",
+     "sha256": "d346e54e0d16260b4e829ae9c6ab91d7b42e9340cd9de74e5b276e2f9a97593b"
+    }
+   ]
+  },
+  {
+   "slug": "410-404",
+   "short": "SHR 410.404",
+   "title": "Verordnung des Erziehungsrates über die Zusatzausbildung von Primarlehrpersonen zu Lehrpersonen der Sekundarstufe I",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.404",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.404",
+     "sha256": "b0cd89e4840d0bafe22e1c06ece0fb95aed2e25510894b3d367583634004f964"
+    }
+   ]
+  },
+  {
+   "slug": "410-407",
+   "short": "SHR 410.407",
+   "title": "Verordnung über die Intensivweiterbildung der Lehrpersonen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.407",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.407",
+     "sha256": "e86aa787ab50fb17490be160c2ca77c6344a235740b0e2c9d8b2a5a6486efdb4"
+    }
+   ]
+  },
+  {
+   "slug": "410-408",
+   "short": "SHR 410.408",
+   "title": "Verordnung betreffend die Beurteilung der Lehrpersonen an der Kantonsschule sowie an den Berufsfachschulen und den Höheren Fachschulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.408",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.408/versions/1263",
+     "sha256": "657eb78c20599b5be50603211df309a0dfd457fda6b9da626aa2a04553204a93"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.408",
+     "sha256": "e3d3ce03c86abed1cd286cf938c4c40ac455cf3f98c9f9932d68e45596c89238"
+    }
+   ]
+  },
+  {
+   "slug": "410-409",
+   "short": "SHR 410.409",
+   "title": "Verordnung betreffend die Beurteilung der Lehrpersonen an Kindergärten, Primar- und Orientierungsschulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.409",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.409",
+     "sha256": "50748a9ff4538d529ff6f1335bb9e52ab75ff9579664d1cafcb429b946c5fa04"
+    }
+   ]
+  },
+  {
+   "slug": "410-410",
+   "short": "SHR 410.410",
+   "title": "Verordnung betreffend die Beurteilung der Logopädinnen und Logopäden im Ambulatorium",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.410",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.410",
+     "sha256": "ab68b22faea3fe01091f05de8b6bca6d36fc3c786f54a9ec5bfa8fc4feeedf53"
+    }
+   ]
+  },
+  {
+   "slug": "410-411-berufsschullehrerverordnung",
+   "short": "Berufsschullehrerverordnung",
+   "title": "Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den kantonalen Berufsfachschulen und Höheren Fachschulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.411",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 64,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.411",
+     "sha256": "09632f52a6d11d642898c5bd20a9bc172fafab8738033e53c5191ebd2b24fdbd"
+    }
+   ]
+  },
+  {
+   "slug": "410-413",
+   "short": "SHR 410.413",
+   "title": "Verordnung über die Weiterbildung der Lehrpersonen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.413",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.413/versions/1757",
+     "sha256": "a93a656b6156cf6129b3775ffcb232d8765157977abc9cd7549b793db36b3d28"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.413",
+     "sha256": "43b0d3feb82463835a7486df848dc3109e3bf4263c347484fb9517e1b36929b9"
+    }
+   ]
+  },
+  {
+   "slug": "410-414",
+   "short": "SHR 410.414",
+   "title": "Verordnung über die Weiterbildung der Lehrpersonen an der Kantonsschule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.414",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.414/versions/1266",
+     "sha256": "8e27ac53d41c39bffc9479fc1a761d80ed7abd4e0812a5146afcdc78b77e1d54"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.414",
+     "sha256": "4697a9999e5f0afc368ebf8b5ac29bad09c580d81d96db78f785854930350489"
+    }
+   ]
+  },
+  {
+   "slug": "410-511",
+   "short": "SHR 410.511",
+   "title": "Verordnung über die Subventionierung von Schulbauten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.511",
+   "versions": [
+    {
+     "from": "1968-01-17",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.511/versions/782",
+     "sha256": "e339698c0f04d64f6b2930bd00d525c8c627e1003e3436616d6d2dfa5b0c3e86"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.511",
+     "sha256": "bab5fe2a9eac98ee521350446c998d9f7c82605c4394e838d85336d211090cd7"
+    }
+   ]
+  },
+  {
+   "slug": "410-621",
+   "short": "SHR 410.621",
+   "title": "Verordnung über den Betrieb und das Behandlungsangebot der Schulzahnklinik",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.621",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/410.621",
+     "sha256": "a57b58f5b9c14a3625ed2e25047930e77d4f4038b45ac6b62f1a20ee6148b645"
+    }
+   ]
+  },
+  {
+   "slug": "411-001-kindergartenverordnung",
+   "short": "Kindergartenverordnung",
+   "title": "Verordnung des Erziehungsrates betreffend die Kindergärten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.001",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.001",
+     "sha256": "88aed58743a3c8b95bfc05bb57aaada74ac7674ff2b2a1e63aba5874e77f9110"
+    }
+   ]
+  },
+  {
+   "slug": "411-101",
+   "short": "SHR 411.101",
+   "title": "Verordnung des Erziehungsrates betreffend die Schulordnung der Primar- und Orientierungsschulen des Kantons Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.101",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.101/versions/949",
+     "sha256": "a658daebf132aaab929ee23c48bc9adcf21f7925227b52b5e520860440997df3"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.101",
+     "sha256": "f342ca87029c22bd185cce48bdd73d7b354e3ac764c69a8be8cdc390a1b827a4"
+    }
+   ]
+  },
+  {
+   "slug": "411-102",
+   "short": "SHR 411.102",
+   "title": "Verordnung des Erziehungsrates über Zeugnisse und Beförderung der Schülerinnen und Schüler an der Primar- und Sekundarstufe I",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.102",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 46,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.102",
+     "sha256": "2caf1f7e0b7a80bbf1571ad74fb5cd01412216f9b8b71f99d8ef3a9a758741b7"
+    }
+   ]
+  },
+  {
+   "slug": "411-111",
+   "short": "SHR 411.111",
+   "title": "Verordnung über die Bildung von Schulkreisen für die Orientierungsschulen und die Sonderklassen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.111",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.111",
+     "sha256": "6dee3b88fe401574e9b5e5b7e16a963553e99b634e9a4001ac47904aa91837bc"
+    }
+   ]
+  },
+  {
+   "slug": "411-121",
+   "short": "SHR 411.121",
+   "title": "Verordnung des Erziehungsrates über die Sonderklassen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.121",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.121",
+     "sha256": "c9a611cb6e33f5f0d17c02b204068c16f6c36f025ba8e10be83c062415cf6e51"
+    }
+   ]
+  },
+  {
+   "slug": "411-222-sonderschulverordnung",
+   "short": "Sonderschulverordnung",
+   "title": "Verordnung des Erziehungsrates über die Sonderschulung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.222",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.222/versions/801",
+     "sha256": "0d15b84828a5b0799251454fb08ad2ece15ad439d788396d452b65753b7b2214"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.222",
+     "sha256": "2aefb14cb419567ae5ee27d939dcfa7c8aa623d312cb68960e76f3fd45b57470"
+    }
+   ]
+  },
+  {
+   "slug": "411-225",
+   "short": "SHR 411.225",
+   "title": "Verordnung über die Beiträge des Kantons an die Sonderschulung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/411.225",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/411.225",
+     "sha256": "953b524286538b6798ae0fb5f3b7b83abf20f5e2300074064e8dc00106ce78f7"
+    }
+   ]
+  },
+  {
+   "slug": "412-101",
+   "short": "SHR 412.101",
+   "title": "Verordnung zum Einführungsgesetz zum Berufsbildungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/412.101",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 84,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.101/versions/1819",
+     "sha256": "6f99f82ce7df937a889fc97380914fdad6386e4c4bc4c48de52574d675493fe1"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 86,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.101",
+     "sha256": "db66d21fdd01553469652a22a9bfb8612cd25b6fba851ece0afa477bb3623e69"
+    }
+   ]
+  },
+  {
+   "slug": "412-102",
+   "short": "SHR 412.102",
+   "title": "Verordnung über die Schul- bzw. Studiengelder und die Gebühren im Berufsbildungswesen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/412.102",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.102",
+     "sha256": "c255618cd781ea27d5e065be560c8560a7d1c330cba39f181e11908e05c045c9"
+    }
+   ]
+  },
+  {
+   "slug": "412-103-schulgeldbeitragsverordnung",
+   "short": "Schulgeldbeitragsverordnung",
+   "title": "Verordnung über die Beiträge an das Schul- bzw. Studiengeld für den Besuch ausserkantonaler Schulen und Kurse im Bereich der Berufsbildung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/412.103",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.103",
+     "sha256": "05a46611dd68801ebe7720ff7748713b438fda39244748e6701d690f672674a4"
+    }
+   ]
+  },
+  {
+   "slug": "412-105",
+   "short": "SHR 412.105",
+   "title": "Verordnung über die Entschädigung der Mitglieder des Berufsbildungsrates und der kantonalen Kommissionen im Bereich der Berufsbildung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/412.105",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/412.105",
+     "sha256": "dfb21f96ba38f32806d2d617006c1a88f77abb1bef55b09bad8b419c33551b1d"
+    }
+   ]
+  },
+  {
+   "slug": "413-101",
+   "short": "SHR 413.101",
+   "title": "Verordnung des Erziehungsrates betreffend die Schulordnung der Kantonsschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.101",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 39,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.101/versions/1863",
+     "sha256": "0de764d8f89dc0f9b71ab83a72964fb7dc263070aa65ea1f14f7e29682b39ace"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 39,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.101",
+     "sha256": "ccff9ba1e32fe9b83d390bc7d83bcb04f611b8ee96771c03f35406178d29ea08"
+    }
+   ]
+  },
+  {
+   "slug": "413-102",
+   "short": "SHR 413.102",
+   "title": "Verordnung des Erziehungsrates betreffend die Aufsichtskommission der Kantonsschule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.102",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.102",
+     "sha256": "5e3c66aa9e89feb92dd0b6bc545aa6879c6c972c73496359bf33cf384eaec444"
+    }
+   ]
+  },
+  {
+   "slug": "413-103",
+   "short": "SHR 413.103",
+   "title": "Verordnung betreffend die Schulleitung der Kantonsschule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.103",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.103",
+     "sha256": "ef6a9f8d37ae8adf91a9f7464cff0f7e7b894ecf4ef88bd8e6089e4beb8cfb1a"
+    }
+   ]
+  },
+  {
+   "slug": "413-105-konferenzreglement-der-kantonsschule",
+   "short": "Konferenzreglement der Kantonsschule",
+   "title": "Verordnung des Erziehungsrates betreffend die Lehrerkonferenzen der Kantonsschule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.105",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.105/versions/1684",
+     "sha256": "4ece5b2ddeae91a192c83443b5309f2c9954289291f672d06399958559703f58"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.105",
+     "sha256": "1d646ca4e4e2e2604bcade9974a72aa900c760a31d4248b6eb4a4671e0026bf8"
+    }
+   ]
+  },
+  {
+   "slug": "413-106",
+   "short": "SHR 413.106",
+   "title": "Verordnung betreffend die Schulgelder an gymnasialen Mittelschulen und Fachmittelschulen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.106",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.106",
+     "sha256": "001a71e996a7c4133b3a84e2595c58b58a218499d4e50d93721f96b1b854e8f6"
+    }
+   ]
+  },
+  {
+   "slug": "413-107",
+   "short": "SHR 413.107",
+   "title": "Verordnung der Aufsichtskommission über die Schülerorganisation der Kantonsschule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.107",
+   "versions": [
+    {
+     "from": "1993-08-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.107",
+     "sha256": "e9f500d4b43b4301026224be7e090524b8384b081593b7f7938e194ec3f4b381"
+    }
+   ]
+  },
+  {
+   "slug": "413-201-promotions-und-maturitatsverordnung",
+   "short": "Promotions- und Maturitätsverordnung",
+   "title": "Verordnung des Erziehungsrates über Aufnahme, Promotionen und Zeugnisse der Schülerinnen und Schüler der Maturitätsschule sowie über die Maturitätsprüfungen an der Kantonsschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.201",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.201/versions/1836",
+     "sha256": "7d0883cf49b45a220b4cd3c3696b194f0a2820e33e2b564895aa530b0eba135a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 56,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.201",
+     "sha256": "0a3537805839227c9691e7064c440fd4de98c685469b3af652c5c1e048f1cd6c"
+    }
+   ]
+  },
+  {
+   "slug": "413-401-fms-verordnung",
+   "short": "FMS-Verordnung",
+   "title": "Verordnung des Erziehungsrates über Aufnahme, Zeugnisse und Promotion der Schülerinnen und Schüler der Fachmittelschule sowie über den Abschluss mit Fachmittelschulausweis oder mit Fachmaturität",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/413.401",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 66,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.401/versions/1767",
+     "sha256": "b7ed225e4f536d849951efa2d096670c70526bc3ba6902cc25566b78dedf84f0"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 65,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/413.401",
+     "sha256": "23564f8e486ab23b9e95a70d367e1717fb5f4a9d38e28e128cc235471ae8d455"
+    }
+   ]
+  },
+  {
+   "slug": "414-201",
+   "short": "SHR 414.201",
+   "title": "Verordnung über die Pädagogische Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.201",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.201",
+     "sha256": "e252357fd6ec8a161c7b208fe8c8251dcdf67225d1f578319f35ef2094958e45"
+    }
+   ]
+  },
+  {
+   "slug": "414-202-personalverordnung-phsh",
+   "short": "Personalverordnung PHSH",
+   "title": "Verordnung über die Arbeitsverhältnisse von Dozierenden, wissenschaftlichen Mitarbeitenden und Assistierenden der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.202",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.202",
+     "sha256": "23ef6b660202d5e2a4165b43af68b4af3a16c1e7dbda0d8e6504d28c064d62b3"
+    }
+   ]
+  },
+  {
+   "slug": "414-203-hochschul-und-disziplinarordnung",
+   "short": "Hochschul- und Disziplinarordnung",
+   "title": "Verordnung des Hochschulrates betreffend die Hochschul- und Disziplinarordnung für Studierende der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.203",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.203",
+     "sha256": "6e15dc766db36c205cd302bbe0d11ca460cf2a81e31c11272fc47fff97c2bbb3"
+    }
+   ]
+  },
+  {
+   "slug": "414-204-studiengangverordnung",
+   "short": "Studiengangverordnung",
+   "title": "Verordnung des Hochschulrates betreffend die Studiengänge im Leistungsbereich Ausbildung der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.204",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.204/versions/1338",
+     "sha256": "95936f9044a5e0c1c39c9c71b39581e1dd53bf64f3b99f00c6daeb7475571d01"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.204",
+     "sha256": "37723c1872daa24030bcf8affdb00cb03d22b571cb75b8536f9bf0175827ced5"
+    }
+   ]
+  },
+  {
+   "slug": "414-205-zulassungsverordnung",
+   "short": "Zulassungsverordnung",
+   "title": "Verordnung des Hochschulrates über die Zulassung und die Anmeldung zum Studium im Leistungsbereich Ausbildung an der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.205",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.205/versions/832",
+     "sha256": "b53ccb7f9186d571ed1d2f8622fc709c54d45fe3814a0afa3c73d3558d18ef30"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.205",
+     "sha256": "90fecc0a2048d2dbc980c026ea649ecadc7c018091abdd1c9a8475f124424569"
+    }
+   ]
+  },
+  {
+   "slug": "414-206-prufungsverordnung",
+   "short": "Prüfungsverordnung",
+   "title": "Verordnung des Hochschulrates betreffend Eignungsabklärung und Leistungsbeurteilung im Leistungsbereich Ausbildung an der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.206",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.206/versions/1339",
+     "sha256": "fae2efa93653a0fb977f2943a57b582eaca1ff938d14fc77368dac9acd2a4c51"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.206/versions/2005",
+     "sha256": "5a1d91f00881e5c6bfb2e20801aedb8fd319125d479b5cc21036b250907d990e"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.206",
+     "sha256": "8b7bd359db5c15bbc7260883a83cc30bd298627c62ebeeee2410b0c32aca502b"
+    }
+   ]
+  },
+  {
+   "slug": "414-207",
+   "short": "SHR 414.207",
+   "title": "Verordnung des Hochschulrates betreffend die Hochschulleitung der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.207",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.207/versions/1289",
+     "sha256": "eef8e6bdabc32411834c1b2992531d62d24dd40428577cfe44c05b6a75dcbf38"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.207",
+     "sha256": "b2ba1c2b79025c34867d18ab03c82f7aae573446eb95ea432e77cd254ef3e821"
+    }
+   ]
+  },
+  {
+   "slug": "414-208-verordnung-cas-schulleitung",
+   "short": "Verordnung CAS Schulleitung",
+   "title": "Verordnung betreffend die Zusatzausbildung Certificate of Advanced Studies in Schulleitung der Pädagogischen Hochschule Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.208",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/414.208",
+     "sha256": "dae6403a3a0936596e1e6d4280067f1af8b330b3c0b9230683c8fc6978a9e944"
+    }
+   ]
+  },
+  {
+   "slug": "415-101-sportfondsverordnung",
+   "short": "Sportfondsverordnung",
+   "title": "Verordnung über die Verwendung der Mittel aus dem Swisslos-Sportfonds",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/415.101",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/415.101",
+     "sha256": "5a53f9cb9d855aa5bcab94a53b25b5cbb53acc00c97a45c2c98ce88aadb964c0"
+    }
+   ]
+  },
+  {
+   "slug": "415-201",
+   "short": "SHR 415.201",
+   "title": "Verordnung über Turnen und Sport in der Schule",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/415.201",
+   "versions": [
+    {
+     "from": "1974-04-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/415.201",
+     "sha256": "be08a57847aa48a4cd635a459dcc01f97b2107fb27a3bacc0f970d942af839df"
+    }
+   ]
+  },
+  {
+   "slug": "416-011-stipendienverordnung",
+   "short": "Stipendienverordnung",
+   "title": "Verordnung betreffend die Ausrichtung von Stipendien und Studiendarlehen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/416.011",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/416.011",
+     "sha256": "ea17c863fff0cbedd2fa8ef12531fdc159d437742a4d7dfeafd5d69c1a03fab9"
+    }
+   ]
+  },
+  {
+   "slug": "431-101",
+   "short": "SHR 431.101",
+   "title": "Verordnung über das Einwohnerregister",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/431.101",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/431.101",
+     "sha256": "f832c3fb906fb32648b8ab159024c1780abddff3e305cc6432f19491c132d606"
+    }
+   ]
+  },
+  {
+   "slug": "441-101",
+   "short": "SHR 441.101",
+   "title": "Verordnung zum Kulturgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/441.101",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/441.101",
+     "sha256": "a02ed80b96a2a8e2b760524187697033a7928373ed364e1cc589b45d523ea2dc"
+    }
+   ]
+  },
+  {
+   "slug": "451-101-naturschutzverordnung",
+   "short": "Naturschutzverordnung",
+   "title": "Verordnung über den Naturschutz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/451.101",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 40,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/451.101",
+     "sha256": "46e65039880123c8909b8aca1174fcf7ea026dbbfc766551cabf2b2f421e0c29"
+    }
+   ]
+  },
+  {
+   "slug": "451-102",
+   "short": "SHR 451.102",
+   "title": "Vollziehungsverordnung zum Natur- und Heimatschutzgesetz (NHG)",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/451.102",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/451.102/versions/1891",
+     "sha256": "ac4066aa5ac7f42278bacb30f09fb58988486ce3cf2d1b121d639e1f3eb96174"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/451.102",
+     "sha256": "b505434a85b8ebb0859a01ab3f5a6a59b95ed5b5561abe150d59057949a1450c"
+    }
+   ]
+  },
+  {
+   "slug": "451-105",
+   "short": "SHR 451.105",
+   "title": "Verordnung über den Schutz von Pilzen in den Gemeinden Buchberg und Rüdlingen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/451.105",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/451.105",
+     "sha256": "6344849e683bd687eab9a43034f1a195e15c8780faf066e75a4dae8e9fe6e313"
+    }
+   ]
+  },
+  {
+   "slug": "452-001",
+   "short": "SHR 452.001",
+   "title": "Verordnung betreffend den Schutz der Kulturdenkmäler",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/452.001",
+   "versions": [
+    {
+     "from": "1939-09-22",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/452.001",
+     "sha256": "d94edeb00ab730592ce7717acad017d97741b763413cc33459dee92b721ad8e7"
+    }
+   ]
+  },
+  {
+   "slug": "455-101",
+   "short": "SHR 455.101",
+   "title": "Vollzugsverordnung zum Tierschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/455.101",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/455.101",
+     "sha256": "2daa26c0df5d113642123a063ef9bc027fbba22d0c488aaf74017991b0d8c744"
+    }
+   ]
+  },
+  {
+   "slug": "455-201-hundeverordnung",
+   "short": "Hundeverordnung",
+   "title": "Verordnung zum Gesetz über das Halten von Hunden",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/455.201",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/455.201",
+     "sha256": "a62177cc4cf8ca66a773a19f04b9c6656431ad1f14bcf839a1983a5498ee961a"
+    }
+   ]
+  },
+  {
+   "slug": "500-101-kbevsv",
+   "short": "KBevSV",
+   "title": "Kantonale Bevölkerungsschutzverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.101",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/500.101/versions/1346",
+     "sha256": "f1210a8a19ca57c0fcc43b11b9f0f5b143ac36e0ffb6a31248fcb4c5290c6406"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/500.101",
+     "sha256": "039192d20615d1bbdda0ff1fe48b267ceab974fef35edbf43234a6596482dc38"
+    }
+   ]
+  },
+  {
+   "slug": "500-102-kav",
+   "short": "KAV",
+   "title": "Kantonale Alarmierungsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.102",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/500.102",
+     "sha256": "03fb4ef9e50c6f9c02ce24b125b54f2d1f8c9be5904a341635a621a516891153"
+    }
+   ]
+  },
+  {
+   "slug": "510-101",
+   "short": "SHR 510.101",
+   "title": "Kantonale Militärverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/510.101",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/510.101/versions/868",
+     "sha256": "fedb14ac2520c5a09a3f6666ade9783c66df6b894c0db325fe6e1404d0497f69"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/510.101",
+     "sha256": "6d208106d6e6a88031fcb7bbc5aa472fcb3d18b6ddaeec4851197143fac66384"
+    }
+   ]
+  },
+  {
+   "slug": "514-521-wafv",
+   "short": "WafV",
+   "title": "Kantonale Waffenverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/514.521",
+   "versions": [
+    {
+     "from": "2008-12-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/514.521",
+     "sha256": "b34330a36c25d6135b5c742b4da0bec07876428bb5983c22417e0eb3eb4756d0"
+    }
+   ]
+  },
+  {
+   "slug": "520-101-kzsv",
+   "short": "KZSV",
+   "title": "Kantonale Zivilschutzverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/520.101",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/520.101/versions/871",
+     "sha256": "cac3460362083c53251b49e4757fe346c3f5ca2514f48cb5d9890ca06fab8286"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/520.101",
+     "sha256": "4b307a00e83bfd5e99a7efd265b8ab6c46803cfa25a766a2e9d64511751134c4"
+    }
+   ]
+  },
+  {
+   "slug": "550-101-bsv",
+   "short": "BSV",
+   "title": "Brandschutzverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/550.101",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 72,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/550.101/versions/1775",
+     "sha256": "4b6af5d5c8b1b04a1329852d387ce18574638b74f51a1fb948e2086cb23eab2e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 72,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/550.101",
+     "sha256": "18c73b560724a361c10f1eca6a0eaf74ace325707bfa83cab6d2d4d7dbdd6f17"
+    }
+   ]
+  },
+  {
+   "slug": "611-103",
+   "short": "SHR 611.103",
+   "title": "Finanzhaushaltsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.103",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.103/versions/884",
+     "sha256": "21dbe5e8db7a93d19f98fb3b32fb93f892d6b8fa47cc30d6d77716a544d69d7c"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.103/versions/1956",
+     "sha256": "2850bfbfbc93142b18b0a03b9608bf5a87308c2069af103452bdb00dab90683a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/611.103",
+     "sha256": "b01c4aad17a0b1f5c97e6656066076d03c90c9ae4801cbe01fd84f579bb40c38"
+    }
+   ]
+  },
+  {
+   "slug": "641-111",
+   "short": "SHR 641.111",
+   "title": "Verordnung über die direkten Steuern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 130,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.111/versions/1964",
+     "sha256": "99566ce4b46286c106eed2b6bca7a10ce4d5cb942a47b31489fe50b0e29a33fa"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 130,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.111/versions/1965",
+     "sha256": "7a9dae226a7f22cfc2e4c738a2c99208087f865efd3c1c5333cced5041936205"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 129,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.111/versions/1966",
+     "sha256": "aae712c18f518959781924d8360a7d1350bfebcd0a929ae948de73d5996f3838"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 129,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.111",
+     "sha256": "fe36d8602e8fc455339f5adcf5d0035b0b7acaed9fac9d1ea7d72fc169cb0e4a"
+    }
+   ]
+  },
+  {
+   "slug": "641-301",
+   "short": "SHR 641.301",
+   "title": "Verordnung über die Bewertung der Grundstücke",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.301",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/641.301",
+     "sha256": "a1a46169499c42a4b6271b0be4622b5c99feca3c64ddfcfc9dfe51c043d4897e"
+    }
+   ]
+  },
+  {
+   "slug": "642-111",
+   "short": "SHR 642.111",
+   "title": "Verordnung zum Bundesgesetz über die direkte Bundessteuer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/642.111",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/642.111",
+     "sha256": "d393750e6d33d39dfbd16ced4d59eb0147e3eff2af01aed181f2a9b8c03c66c6"
+    }
+   ]
+  },
+  {
+   "slug": "642-211",
+   "short": "SHR 642.211",
+   "title": "Verordnung über den Vollzug des Bundesgesetzes über die Verrechnungsteuer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/642.211",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/642.211",
+     "sha256": "da52144b737d23d9905d0f7494929d795952712f46919c1217447a838b9ea5cd"
+    }
+   ]
+  },
+  {
+   "slug": "643-111",
+   "short": "SHR 643.111",
+   "title": "Verordnung zum Gesetz über die Erbschafts- und Schenkungssteuer",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/643.111",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/643.111",
+     "sha256": "59c59ea225fe21da2071d527353c2384162c186a5872885140f0099d8637789a"
+    }
+   ]
+  },
+  {
+   "slug": "645-101",
+   "short": "SHR 645.101",
+   "title": "Verordnung über die Strassenverkehrssteuern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/645.101",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/645.101",
+     "sha256": "cfea7b256276c2cae16333946f0835f709140aacfaa2dc9e49aac1386e208471"
+    }
+   ]
+  },
+  {
+   "slug": "646-101",
+   "short": "SHR 646.101",
+   "title": "Verordnung zum Gesetz über die Besteuerung von Wasserfahrzeugen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/646.101",
+   "versions": [
+    {
+     "from": "1986-02-21",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/646.101",
+     "sha256": "f576a6251ba0c0763b7a00c63db8bc87d1732263280dae7cc3c0a90bc946138b"
+    }
+   ]
+  },
+  {
+   "slug": "672-111",
+   "short": "SHR 672.111",
+   "title": "Verordnung über die Anrechnung ausländischer Quellensteuern",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/672.111",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/672.111",
+     "sha256": "99c94425685122f06932fdd903f9df9ffd44d8d90de31c0c4f54d89a103fb835"
+    }
+   ]
+  },
+  {
+   "slug": "700-101-bauv",
+   "short": "BauV",
+   "title": "Verordnung zum Baugesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.101",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.101/versions/1639",
+     "sha256": "8e5a16cd13811196e5babd468776800b9a469b3df567d746519e1383dc8d580b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.101/versions/2042",
+     "sha256": "09f6cf160dd039f6c36203e1c8f8971ee02b56ad271ec1656dbfd5fdf940e281"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.101",
+     "sha256": "a21dc916f7cd9b092786e10bcd43790639c80c51a7e88e838558e054ab1a79cc"
+    }
+   ]
+  },
+  {
+   "slug": "700-105",
+   "short": "SHR 700.105",
+   "title": "Verordnung betreffend Unfallverhütung bei Bauten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.105",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.105",
+     "sha256": "2bcefd06b01f9854e6b6e6f7818fa4c7b94c07d8688b9921491b63a7617edc91"
+    }
+   ]
+  },
+  {
+   "slug": "700-108-baubewilligungsgebuhrenverordnung",
+   "short": "Baubewilligungsgebührenverordnung",
+   "title": "Verordnung über die Gebühren im Baubewilligungsverfahren",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.108",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.108",
+     "sha256": "2baf927f73a1f5edb304cb07fa429e13c04cd93a10a769134dca6efc0d34a023"
+    }
+   ]
+  },
+  {
+   "slug": "700-201-mav",
+   "short": "MAV",
+   "title": "Mehrwertausgleichsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.201",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 33,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/700.201",
+     "sha256": "e298e1d185c2ef3aa35fa43a5acc03ad7bc5b4e0f80e2d3ac7b8bb5d70f128b8"
+    }
+   ]
+  },
+  {
+   "slug": "704-101",
+   "short": "SHR 704.101",
+   "title": "Verordnung betreffend den Vollzug des Bundesgesetzes über Fuss- und Wanderwege",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/704.101",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/704.101",
+     "sha256": "52b1bb5c09c597f0725539fa179715f07ded7d73c54b2a1d52b23bc06d4d8210"
+    }
+   ]
+  },
+  {
+   "slug": "711-101",
+   "short": "SHR 711.101",
+   "title": "Verordnung über die Zuständigkeit zur Beurteilung von Schadenersatzansprüchen gemäss Art. 15 des eidgenössischen Enteignungsgesetzes",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/711.101",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/711.101",
+     "sha256": "2c0cc48d4b08c886023a4398ff3483284f7d11002a7343244ae12a55107b8d89"
+    }
+   ]
+  },
+  {
+   "slug": "721-103",
+   "short": "SHR 721.103",
+   "title": "Verordnung zum Wasserwirtschaftsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/721.103",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/721.103",
+     "sha256": "97e5734620aad38cd1e32461ee6ee9f2a35a744e9418e8f5bd0b5a24b5c1c03b"
+    }
+   ]
+  },
+  {
+   "slug": "725-101-strassenverordnung",
+   "short": "Strassenverordnung",
+   "title": "Verordnung betreffend den Vollzug des Strassengesetzes",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/725.101",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 34,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/725.101/versions/1641",
+     "sha256": "518368608c1d9e307c75fcb0f99cb2e606f0823dc64264f1a5ab544e92133043"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 34,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/725.101",
+     "sha256": "e805874faf0ffab5c9f56a94420b017f586bbdcd9acebf2bdd041db1f37df10e"
+    }
+   ]
+  },
+  {
+   "slug": "730-001-envv",
+   "short": "ENVV",
+   "title": "Vollziehungsverordnung zum Bundesbeschluss für eine sparsame und rationelle Energienutzung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.001",
+   "versions": [
+    {
+     "from": "1992-03-20",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/730.001",
+     "sha256": "c4aee3b9b91e2bec9e505bd94fa2e9a95f3d42d74ac0da763da4235fe33657a7"
+    }
+   ]
+  },
+  {
+   "slug": "730-101-energieverordnung-enerv",
+   "short": "Energieverordnung, EnerV",
+   "title": "Energieverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.101",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 61,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/730.101/versions/2025",
+     "sha256": "012ec2a16b839b14bf3ad96e9298e481a2733439885536dda056f89552686be7"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 70,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/730.101",
+     "sha256": "db0626fea58f181eeae08ca962bbc3e4a724128986865bac451fc7eb1604c566"
+    },
+    {
+     "from": "2026-12-01",
+     "units": 69,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/730.101/versions/2132",
+     "sha256": "c3ca5e17e9aa0b406ee5620a7dde5b975b286bf4aec218f86f31f288a6564bcc"
+    }
+   ]
+  },
+  {
+   "slug": "741-011-kantonale-strassenverkehrsverordnung",
+   "short": "Kantonale Strassenverkehrsverordnung",
+   "title": "Verordnung zum Bundesgesetz über den Strassenverkehr",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/741.011",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/741.011/versions/1782",
+     "sha256": "bdaa222931fb76ecc36236096180e489086d63a5a50aed7b760da615606ab110"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/741.011",
+     "sha256": "c626a0cfae3ea8f403097d820d14d4119235ee6555dd76ee8b6d16803b7dab5a"
+    }
+   ]
+  },
+  {
+   "slug": "741-012",
+   "short": "SHR 741.012",
+   "title": "Verordnung über die Gebühren im Strassenverkehr",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/741.012",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/741.012",
+     "sha256": "99113d00ee3009084ca7032f92c490ee0b172daf8f2247b1e0ddf615fa75f95c"
+    }
+   ]
+  },
+  {
+   "slug": "743-101",
+   "short": "SHR 743.101",
+   "title": "Verordnung zum Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/743.101",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/743.101/versions/965",
+     "sha256": "e32d9a9a3646efb9b0adc86056ea52a48dcde0df460db33642b6d505326cfa39"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/743.101",
+     "sha256": "2d5a136283609c55a5be480e3abb822dd8f6c278c20dacadc57039882f62013c"
+    }
+   ]
+  },
+  {
+   "slug": "744-115",
+   "short": "SHR 744.115",
+   "title": "Verordnung über das Bewilligungsverfahren nach der Verordnung über die Personenbeförderung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/744.115",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/744.115",
+     "sha256": "7832ef28657eb75ae58d3c1a633cb19ad62358f028240728a5346af18b8d0dfc"
+    }
+   ]
+  },
+  {
+   "slug": "747-201-schifffahrtsverordnung",
+   "short": "Schifffahrtsverordnung",
+   "title": "Verordnung über den Vollzug des Schifffahrtsrechts im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/747.201",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/747.201",
+     "sha256": "467c88d12a59bd768ba6eba86eecf53afd71b43d84eed1379d6b2b85932171dd"
+    }
+   ]
+  },
+  {
+   "slug": "748-011",
+   "short": "SHR 748.011",
+   "title": "Verordnung zum Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt und zur Verordnung des Bundesrates vom 14. November 1973 über die Luftfahrt",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/748.011",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/748.011",
+     "sha256": "19f7c20f928d43a4333f596b3a28d75c13b4d3a2e7f39a71f829129ae1e9be0e"
+    }
+   ]
+  },
+  {
+   "slug": "810-101",
+   "short": "SHR 810.101",
+   "title": "Verordnung zum straflosen Schwangerschaftsabbruch",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/810.101",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/810.101",
+     "sha256": "6cc7952e16648dedf2b0030e33b40b06b4da683031b86144fb619173bd36007d"
+    }
+   ]
+  },
+  {
+   "slug": "810-102-gesv",
+   "short": "GesV",
+   "title": "Verordnung zum Gesundheitsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/810.102",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 54,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/810.102",
+     "sha256": "8f982e1400c3c8aed093de9fce900df84f54a8a80ec057c1369a0babf5f35dcc"
+    }
+   ]
+  },
+  {
+   "slug": "811-111-veg-fap",
+   "short": "VEG FAP",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/811.111",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/811.111/versions/1955",
+     "sha256": "c531264f2bdd0b3bc54c2d11785b773a944eecd73dcd3efa760dae17b0c4425e"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 28,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/811.111",
+     "sha256": "ac7bad8d3cf2cf8245f9967bceeef44d294faa21d1bbd92bfc6be373f3094034"
+    }
+   ]
+  },
+  {
+   "slug": "812-201-heilmittelverordnung-hmv",
+   "short": "Heilmittelverordnung, HMV",
+   "title": "Verordnung über den Verkehr mit Heilmitteln",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/812.201",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/812.201/versions/1369",
+     "sha256": "a3b3a99e60af1e1ca8ce87edfcf8cd993db8868178e33f7e12af9656d4164ce5"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/812.201",
+     "sha256": "ce89353708dd0765b9ffeb0b3178850455bdab22bdb08a84dffd860a6c94c705"
+    }
+   ]
+  },
+  {
+   "slug": "813-101-spitalverordnung",
+   "short": "Spitalverordnung",
+   "title": "Verordnung zum Spitalgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.101",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.101",
+     "sha256": "a4cac275e268a85297f25736270ec715cdfd7b01575c6d379132eaf89c7725b5"
+    }
+   ]
+  },
+  {
+   "slug": "813-501-abpv",
+   "short": "AbPV",
+   "title": "Verordnung zum Altersbetreuungs- und Pflegegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.501",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.501/versions/1789",
+     "sha256": "0f961a3a2c45343d3511dc3d459abdb486f5ac28e9c28d5c339c436f47980bd8"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.501/versions/1937",
+     "sha256": "1f9e52099c535e59b4e8947be934c7cf42d98c4810b4eb12072b23f1d1a557e7"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.501/versions/2007",
+     "sha256": "8370683a5b9e7c65a3428ea1858f85f466056c363f9404c68ded534996e09efe"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/813.501",
+     "sha256": "ac6289bb917dba2500fc9bd16f7b7de2f0a954036c63037dee6a3f49df0aa8e5"
+    }
+   ]
+  },
+  {
+   "slug": "814-101-kantonale-umweltschutzverordnung-usgv",
+   "short": "Kantonale Umweltschutzverordnung, USGV",
+   "title": "Verordnung zum Einführungsgesetz zum Umweltschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.101",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 76,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.101",
+     "sha256": "ec2b5466532269370848037ae5995e4d2b7bd50815702f80e006f03cadd41adc"
+    }
+   ]
+  },
+  {
+   "slug": "814-102",
+   "short": "SHR 814.102",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.102",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.102",
+     "sha256": "119692bc8d3db2dd4f1605cdaba1c48a65cfe778f734435ced76615b0d02e1c6"
+    }
+   ]
+  },
+  {
+   "slug": "814-201-kantonale-gewasserschutzverordnung-gschvv",
+   "short": "Kantonale Gewässerschutzverordnung, GSchVV",
+   "title": "Vollziehungsverordnung zum Einführungsgesetz zum Gewässerschutzgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.201",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.201",
+     "sha256": "9ce18b8fee2a4904fed80cf5f1c3ac5f1ae89edf128780dcaafefc58681a4b0b"
+    }
+   ]
+  },
+  {
+   "slug": "814-801",
+   "short": "SHR 814.801",
+   "title": "Kantonale Chemikalienverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/814.801",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/814.801",
+     "sha256": "b088fa37030242c4c1607a989a2dc70eaf7e43cc7307ee6ebf403dca6dd4b0a8"
+    }
+   ]
+  },
+  {
+   "slug": "817-101-kantonale-lebensmittelverordnung-lmv",
+   "short": "Kantonale Lebensmittelverordnung, LMV",
+   "title": "Verordnung zum Einführungsgesetz zum Lebensmittelgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.101",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/817.101",
+     "sha256": "af6e5afd44f5096a52f25f68d5be7184776ee32dbe6831630afb6e663a8453e0"
+    }
+   ]
+  },
+  {
+   "slug": "817-102",
+   "short": "SHR 817.102",
+   "title": "Verordnung über die Gebühren für die Fleischkontrolle und über die Entschädigung der Fleischkontrollorgane",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.102",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/817.102",
+     "sha256": "ed20f428fb30563fcf454ea06b714e598d2ebfbc1a315eb3c83d6099afd016f1"
+    }
+   ]
+  },
+  {
+   "slug": "817-402",
+   "short": "SHR 817.402",
+   "title": "Kantonale Weinverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/817.402",
+   "versions": [
+    {
+     "from": "2019-09-15",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/817.402/versions/1866",
+     "sha256": "463e929217978259e94cc46dcf08b4fdc74f8b28ef49d4ce1ea796fb9c3769cc"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/817.402",
+     "sha256": "24be3353a37209b04e0ad0fb51c37319d6c64e7f75b7580165064bf75b0466f4"
+    }
+   ]
+  },
+  {
+   "slug": "818-101-kantonale-epidemienverordnung-epv",
+   "short": "Kantonale Epidemienverordnung, EPV",
+   "title": "Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/818.101",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/818.101",
+     "sha256": "376a499e1fcb63fa93c560bf3709d885e5dde331d879825f1596b13a31543845"
+    }
+   ]
+  },
+  {
+   "slug": "818-301",
+   "short": "SHR 818.301",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/818.301",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/818.301/versions/1905",
+     "sha256": "e17876b2b84e868977cfae71fc5b2a55e9cec60309e3c5a0c52808e87d5ac516"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/818.301",
+     "sha256": "b911f5974ad579cca264620bed54afdd1e89543d482a8ad94b28ee4e437d1d0a"
+    }
+   ]
+  },
+  {
+   "slug": "818-601",
+   "short": "SHR 818.601",
+   "title": "Verordnung über die Leichenschau und die Bestattung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/818.601",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/818.601/versions/1699",
+     "sha256": "516a91e4260f7e9689efa9ebe0a1792383fb87e45862b9d93fb94441f78e69e4"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/818.601",
+     "sha256": "ca0e552ab40cfa7cd7a36ae85570dce2bbbb8c96f8f8c55094725dc683a078f0"
+    }
+   ]
+  },
+  {
+   "slug": "821-401",
+   "short": "SHR 821.401",
+   "title": "Verordnung betreffend das kantonale Einigungsamt",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/821.401",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/821.401",
+     "sha256": "e6e5604daa236b81c974d06db5a65bf97c9c70f943aef2451af1eb6f064ba4c2"
+    }
+   ]
+  },
+  {
+   "slug": "822-101",
+   "short": "SHR 822.101",
+   "title": "Verordnung zum Arbeitsgesetz und zum Bundesgesetz über die Unfallversicherung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/822.101",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/822.101",
+     "sha256": "09e70a91ae7c6cdecca2b5ddb495e62f330fbcc955e1f406ae89f23493544829"
+    }
+   ]
+  },
+  {
+   "slug": "822-301",
+   "short": "SHR 822.301",
+   "title": "Verordnung zum Bundesgesetz über die Heimarbeit",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/822.301",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/822.301",
+     "sha256": "b88c90cf6e5073a0b3dfa791d6b3d077377a9c10ac69257cd841379fd086860f"
+    }
+   ]
+  },
+  {
+   "slug": "823-201",
+   "short": "SHR 823.201",
+   "title": "Vollziehungsverordnung zu den Bundesgesetzen über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen sowie über Massnahmen zur Bekämpfung der Schwarzarbeit",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/823.201",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/823.201",
+     "sha256": "693a0a120765cf48548b50adfb0450b9a0aec0174f70998b62c3ce3563773531"
+    }
+   ]
+  },
+  {
+   "slug": "831-101",
+   "short": "SHR 831.101",
+   "title": "Verordnung über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.101",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.101/versions/1019",
+     "sha256": "80d4aae3d9da7e3713a058eeb231192a032032d893b5d9383f7de44c14c973fb"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.101",
+     "sha256": "9ca4547821a77956d67aa706ceccf7afa475c667b21384cdafddca63cd4b0128"
+    }
+   ]
+  },
+  {
+   "slug": "831-301",
+   "short": "SHR 831.301",
+   "title": "Verordnung über Ergänzungsleistungen zur AHV und IV",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.301",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.301/versions/1024",
+     "sha256": "c3ac75cb35dfa3360dcfbdb4a3aa30933c8fb406c5052a39eba0c78f20b2c0b6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.301/versions/1922",
+     "sha256": "1874c7a6700ff0d9aa0a79a149a1c3b54ce0fd3a61673d27357e4f29561badb8"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/831.301",
+     "sha256": "dee936034d45759bdf8ed23a3c4e80cd08add183d90b3e9fdd5c2eef1c2f2391"
+    }
+   ]
+  },
+  {
+   "slug": "832-111",
+   "short": "SHR 832.111",
+   "title": "Verordnung über den Vollzug des Krankenversicherungsgesetzes",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.111/versions/2031",
+     "sha256": "6ded214caea8febf131f62d9818d19233fb2d63036c13a03e9c193e6512b7b0f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 38,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.111/versions/2032",
+     "sha256": "89d78aa98f7d95e28f8f028dee72b4d1010c67d3abc7eef74fc00d42be9aa229"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.111/versions/2035",
+     "sha256": "5f9782f6355bb4619da83cd412f98fec1b03da6924c156b8277d0334e5176b08"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/832.111",
+     "sha256": "b93e39c993e2197839c84884d4881e9d9439be7f8fbaa618554fdbb27b90e4ed"
+    }
+   ]
+  },
+  {
+   "slug": "836-101-fsv",
+   "short": "FSV",
+   "title": "Verordnung zum Gesetz über Familien- und Sozialzulagen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/836.101",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/836.101/versions/1032",
+     "sha256": "fff53a1cde3d5f446deb35d098d876c5c0ed3ba61b91bc66ca6402e1397148b1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/836.101",
+     "sha256": "1b25e5b5f2ea1e4bd4ef64c5bfcb2599209f37b31973266b7fda41b184e4e419"
+    }
+   ]
+  },
+  {
+   "slug": "837-101",
+   "short": "SHR 837.101",
+   "title": "Verordnung zum Arbeitslosenhilfegesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.101",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.101/versions/1831",
+     "sha256": "9d850e211e30b00d76dad59368b384093a2c058bbc2010937dea096af43202b2"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.101",
+     "sha256": "c892b20c5b140d3d6e7b91def99b19657c3b4d93d3148d5dfaa7f34a571e1b23"
+    }
+   ]
+  },
+  {
+   "slug": "837-201",
+   "short": "SHR 837.201",
+   "title": "Arbeitsvermittlungsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.201",
+   "versions": [
+    {
+     "from": "2004-06-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/837.201",
+     "sha256": "3fed943237f0c965dc17d422745224927e99b2880cc33579229b14c5bc1f5966"
+    }
+   ]
+  },
+  {
+   "slug": "850-111-shev",
+   "short": "SHEV",
+   "title": "Verordnung über die öffentliche Sozialhilfe und soziale Einrichtungen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/850.111",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 83,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/850.111",
+     "sha256": "bbcdd69785ebf251c23f34e7623718562cd19fdf754552d23ed201dcfa523021"
+    }
+   ]
+  },
+  {
+   "slug": "857-501",
+   "short": "SHR 857.501",
+   "title": "Verordnung über die Schwangerschaftsberatungsstellen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/857.501",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/857.501",
+     "sha256": "a2892ebb84b5fbada55f6a9408535a43677cdd3bf7508ec8a0fb2e84a2224988"
+    }
+   ]
+  },
+  {
+   "slug": "860-101-betreuungsgutschriftenverordnung",
+   "short": "Betreuungsgutschriftenverordnung",
+   "title": "Verordnung betreffend die Ausrichtung von Betreuungsgutschriften zur Förderung der familienergänzenden Kinderbetreuung im Vorschulalter",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/860.101",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/860.101",
+     "sha256": "6248737ed9e4c927c9cc5732e765800187f56c8518bc116fd65952e514d22951"
+    }
+   ]
+  },
+  {
+   "slug": "900-101",
+   "short": "SHR 900.101",
+   "title": "Verordnung zum Wirtschaftsförderungsgesetz",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.101",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.101",
+     "sha256": "d9bf387f7ca4e887c58e99f02c19237a62d1459943dc3c68ba18f96f8f989101"
+    }
+   ]
+  },
+  {
+   "slug": "900-301",
+   "short": "SHR 900.301",
+   "title": "Verordnung zum Gesetz zur Förderung der Regional- und Standortentwicklung im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.301",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/900.301",
+     "sha256": "2b086e352544e97b0110fea8a900f3d3cc6cdc1d398966fddbe5f1aaa1f750c3"
+    }
+   ]
+  },
+  {
+   "slug": "910-101",
+   "short": "SHR 910.101",
+   "title": "Landwirtschaftsverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/910.101",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 85,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/910.101/versions/1654",
+     "sha256": "9cc6f1a558d148cc23fed017658a1926cf94e488d6b585d478e98896183e60ca"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 85,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/910.101",
+     "sha256": "4c32c9090bde76239657a39e74f7fe520553b03aff06b9863d3ce87f2afe2c4a"
+    }
+   ]
+  },
+  {
+   "slug": "913-101",
+   "short": "SHR 913.101",
+   "title": "Verordnung über Beitragsleistungen an Hofdüngeranlagen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/913.101",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/913.101",
+     "sha256": "94069bfdc741895b420ee6bd1bc5a2daac30e9b6d78a013916f871a5ddec1873"
+    }
+   ]
+  },
+  {
+   "slug": "916-431-kantonale-tierseuchenverordnung",
+   "short": "Kantonale Tierseuchenverordnung",
+   "title": "Verordnung zum Bundesgesetz über die Bekämpfung von Tierseuchen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/916.431",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/916.431",
+     "sha256": "75912aa487ff2306c824cdc963dad9cc2124183d974100e1c8a0f2d8d33aa7ab"
+    }
+   ]
+  },
+  {
+   "slug": "916-432",
+   "short": "SHR 916.432",
+   "title": "Verordnung über die Entsorgung von tierischen Nebenprodukten aus dem Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/916.432",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/916.432",
+     "sha256": "aac67c000166222e66e1cef037a4b6a4dbcd486ee6fb51e11315730efd7dfe82"
+    }
+   ]
+  },
+  {
+   "slug": "916-441",
+   "short": "SHR 916.441",
+   "title": "Verordnung über die Entschädigung der Beauftragten im Bereich des Veterinärwesens",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/916.441",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/916.441/versions/1320",
+     "sha256": "63e73818dabfca5bbab09d9238a864aad52c5d6ea12ae77c1180d8e2bee8b102"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/916.441",
+     "sha256": "70625987f5bcfa7d86e27857d5046d1c6eb7ca2cf146a9f1a909dfa2a98b14e0"
+    }
+   ]
+  },
+  {
+   "slug": "921-101-kwav",
+   "short": "KWaV",
+   "title": "Kantonale Waldverordnung",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/921.101",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/921.101",
+     "sha256": "34ef50b42af4787170cff424d6b3929615acf26608385c72ba11c6f8caa3684d"
+    }
+   ]
+  },
+  {
+   "slug": "922-101",
+   "short": "SHR 922.101",
+   "title": "Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/922.101",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/922.101",
+     "sha256": "6298a48a9f66aabfa21600aace38ab1b5b4839cc131a71aeb12a42296e8aed3a"
+    }
+   ]
+  },
+  {
+   "slug": "923-101",
+   "short": "SHR 923.101",
+   "title": "Verordnung über die Fischerei",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/923.101",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 55,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/923.101/versions/1805",
+     "sha256": "c2b9212ea4217dbc67ce073fc7545b7d3bd4571dfb6a3614016bd352067f702d"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 54,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/923.101/versions/2081",
+     "sha256": "46f7162e6315bdbbc4b5ed2617d92027d193bbbcde468a6cdb0902892ad2706b"
+    },
+    {
+     "from": "2026-10-23",
+     "units": 54,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/923.101",
+     "sha256": "6ba13694c805bee24a4a1cb8657700db08e9603dc53d628b6e806e481c3bb87f"
+    }
+   ]
+  },
+  {
+   "slug": "935-101-gastgewerbeverordnung",
+   "short": "Gastgewerbeverordnung",
+   "title": "Verordnung über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.101",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.101",
+     "sha256": "73a1bee8cff6f39b8d85912d566f3bcad769b1bb1300de863379c91f716bcee4"
+    }
+   ]
+  },
+  {
+   "slug": "935-501-verordnung-eg-bgs",
+   "short": "Verordnung EG BGS",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.501",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.501",
+     "sha256": "bc1fe03167dd312e0333aa0d803afcb12a10035fe157cd6a8c3bd235f8ebb461"
+    }
+   ]
+  },
+  {
+   "slug": "935-521-lotteriegewinnfonds-verordnung-lgv",
+   "short": "Lotteriegewinnfonds-Verordnung, LGV",
+   "title": "Verordnung über die Verwendung der Mittel aus dem Lotteriegewinnfonds",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.521",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.521",
+     "sha256": "bd701b1b6cb2607c7b50a82fb4277ab28c57dc395f6face433922d52ad54757e"
+    }
+   ]
+  },
+  {
+   "slug": "935-901",
+   "short": "SHR 935.901",
+   "title": "Vollzugsverordnung zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/935.901",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/935.901",
+     "sha256": "5cdaf8a371b7eb095ee97dc6a8d3f8105626c512a0c6a89c8217c4a9b517a65c"
+    }
+   ]
+  },
+  {
+   "slug": "941-292",
+   "short": "SHR 941.292",
+   "title": "Verordnung zum Bundesgesetz über das Messwesen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/941.292",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/941.292",
+     "sha256": "5c99759187bcb31871ff088c2881cee25466b99adfd9312916a73300be85c0aa"
+    }
+   ]
+  },
+  {
+   "slug": "941-401-sprengstoffverordnung",
+   "short": "Sprengstoffverordnung",
+   "title": "Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/941.401",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/941.401",
+     "sha256": "52a20fbb26a11724e745a6f6a383fb9691b11b2d78eb081399f34df7913979a0"
+    }
+   ]
+  },
+  {
+   "slug": "952-001-pfandleihverordnung",
+   "short": "Pfandleihverordnung",
+   "title": "Verordnung über das Pfandleihgewerbe",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/952.001",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/952.001",
+     "sha256": "1ecd408290c6305c6043d2c023d75df040706171e239d39eb84d38929342debe"
+    }
+   ]
+  },
+  {
+   "slug": "960-111-gebaudeversicherungsverordnung-gebvo",
+   "short": "Gebäudeversicherungsverordnung, GebVO",
+   "title": "Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhausen",
+   "url": "https://rechtsbuch.sh.ch/app/de/texts_of_law/960.111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.sh.ch/api/de/texts_of_law/960.111",
+     "sha256": "ae5b56a201d5c920dcbe8898d1db910a01ef0b0c653694bcc50611f30ef0332a"
+    }
+   ]
+  }
+ ]
+}

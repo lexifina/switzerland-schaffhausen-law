@@ -1,0 +1,11 @@
+{
+  "path": "ch-sh",
+  "code": "CH-SH",
+  "name": "Schaffhausen",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-schaffhausen-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (282 acts, 407 versions) from the SHR",
+  "language": "de",
+  "sources": 1
+}
