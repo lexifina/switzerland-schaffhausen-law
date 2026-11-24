@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T12:25:56Z",
+ "generated": "2026-11-24T15:05:23Z",
  "latest": {
   "lexwork-schaffhausen|switzerland/schaffhausen/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 41,
@@ -15,22 +15,22 @@
     "repo": 282,
     "source_in_scope": 424
    },
-   "check_id": "ch-lexwork-schaffhausen-20261124T121950Z",
+   "check_id": "ch-lexwork-schaffhausen-20261124T150051Z",
    "commits": null,
    "corpus": "switzerland/schaffhausen/acts",
-   "error": "ValueError: no published commit for 101-000/art-009.md from 2027-01-01",
-   "finished": "2026-11-24T12:25:55Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 00903f8c0d1a36664634d5da7733ba379f1f973b timestamp 1795523156 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T15:04:06Z",
    "flags": [],
    "gap": 143,
-   "note": "rechtsbuch.sh.ch: index of 432 acts (432 in force); held 282; 142 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 41 held acts compared with the collection this check (every one within 7 days); 142 candidate acts read",
+   "note": "rechtsbuch.sh.ch: index of 432 acts (432 in force); held 282; 142 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 41 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 340,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 186,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -182,7 +182,7 @@
    },
    "snapshot": "432 entries, 432 in force (rechtsbuch.sh.ch)",
    "source": "lexwork-schaffhausen",
-   "started": "2026-11-24T12:19:50Z",
+   "started": "2026-11-24T15:00:51Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
