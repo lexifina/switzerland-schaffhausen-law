@@ -1,6 +1,6 @@
 # Altersbetreuungs- und Pflegegesetz
 
-AbPG · 2 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://rechtsbuch.sh.ch/app/de/texts_of_law/813.500>
+AbPG · 2 versions, from 2013-01-01 (latest in force: 2026-11-01) · <https://rechtsbuch.sh.ch/app/de/texts_of_law/813.500>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,5 +29,4 @@ AbPG · 2 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://re
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-01 |

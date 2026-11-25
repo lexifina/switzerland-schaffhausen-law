@@ -1,6 +1,6 @@
 # Vollziehungsverordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige
 
-Ausweisverordnung · 2 versions, from 2012-08-01 (latest in force: 2012-08-01) · <https://rechtsbuch.sh.ch/app/de/texts_of_law/143.112>
+Ausweisverordnung · 2 versions, from 2012-08-01 (latest in force: 2026-11-02) · <https://rechtsbuch.sh.ch/app/de/texts_of_law/143.112>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,10 +10,8 @@ Ausweisverordnung · 2 versions, from 2012-08-01 (latest in force: 2012-08-01) �
 | § 4 | [art-004.md](art-004.md) | 0 |  |
 | § 5 | [art-005.md](art-005.md) | 0 |  |
 | § 6 | [art-006.md](art-006.md) | 0 |  |
-| § 7 | [art-007.md](art-007.md) | 1 | 2026-11-02 |
-| § 8 | [art-008.md](art-008.md) | 1 | 2026-11-02 |
-| § 9 | [art-009.md](art-009.md) | 1 | 2026-11-02 |
 | § 10 | [art-010.md](art-010.md) | 0 |  |
 | § 11 | [art-011.md](art-011.md) | 1 | 2026-11-02 |
 | § 12 | [art-012.md](art-012.md) | 0 |  |
+| § 7–9 | [art-079.md](art-079.md) | 1 | 2026-11-02 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-02 |

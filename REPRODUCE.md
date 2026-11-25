@@ -1,6 +1,6 @@
 # How this repository was made (Schaffhausen)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -296,20 +296,164 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `941-401-sprengstoffverordnung` | Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe | 1 | 2001-01-01 to 2001-01-01 |
 | `952-001-pfandleihverordnung` | Verordnung über das Pfandleihgewerbe | 1 | 2013-02-01 to 2013-02-01 |
 | `960-111-gebaudeversicherungsverordnung-gebvo` | Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Schaffhausen | 1 | 2019-01-01 to 2019-01-01 |
+| `111-010` | Staatsvertrag zwischen den Kantonen Zürich und Schaffhausen betreffend Festsetzung der Kantonsgrenze vom Urwerf (rechtsseitig) beziehungsweise der Ziegler'schen Tonwarenfabrik (linksseitig) bis Langwiesen | 1 | 1901-10-21 to 1901-10-21 |
+| `112-111` | Beschluss des Regierungsrates über die Orts- und Bezirksnamen im Kanton Schaffhausen | 1 | 2013-01-01 to 2013-01-01 |
+| `130-010` | Dekret betreffend die öffentlichen kirchlichen Korporationen | 1 | 1889-11-18 to 1889-11-18 |
+| `130-110` | Vertrag zwischen den Kantonen Schaffhausen und Thurgau betreffend die evangelisch-reformierte Kirchgemeinde Burg bei Stein am Rhein | 1 | 1919-03-31 to 1919-03-31 |
+| `132-320` | Übereinkunft zwischen dem Heiligen Stuhl und den Regierungen der Kantone Luzern, Bern, Solothurn und Zug über die Reorganisation und neue Umschreibung des Bistums Basel (Übersetzung) | 1 | 1828-03-26 to 1828-03-26 |
+| `132-321` | Zusatzvereinbarung zwischen dem Schweizerischen Bundesrat und dem Heiligen Stuhl über die Organisation des Bistums Basel (Übersetzung des französischen Originaltextes) | 1 | 1978-07-19 to 1978-07-19 |
+| `132-330-bistumskonkordat` | Beschluss über den Beitritt zur Übereinkunft vom 26. März 1828 für die Organisation des Bistums Basel | 1 | 1978-07-19 to 1978-07-19 |
+| `142-310` | Beschluss betreffend den Kauf der Liegenschaft «Friedeck» in Buch (SH) | 1 | 1995-11-27 to 1995-11-27 |
+| `161-110` | Dekret über die Einteilung des Kantons Schaffhausen in Wahlkreise für die Wahl des Kantonsrates und die Zahl der in diesen Wahlkreisen zu wählenden Mitglieder | 1 | 2024-01-01 to 2024-01-01 |
+| `171-110` | Geschäftsordnung des Kantonsrates Schaffhausen | 3 | 2022-05-01 to 2026-01-01 |
+| `171-111` | Beschluss des Kantonsrats Schaffhausen über das Sitzungsgeld für die Mitglieder des Kantonsrats, des Büros und der Kommissionen | 1 | 2021-01-01 to 2021-01-01 |
+| `172-102` | Geschäftsordnung für den Regierungsrat des Kantons Schaffhausen | 1 | 2004-09-01 to 2004-09-01 |
+| `172-600` | Gesetz über den Beitritt zur revidierten Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 | 1 | 2023-01-01 to 2023-01-01 |
+| `172-610-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2023-01-01 to 2023-01-01 |
+| `172-701` | Vereinbarung zwischen dem Kanton Schaffhausen und der Stadt Schaffhausen über die Auflösung der Vereinbarung über die E-Government- und Informatikstrategie sowie den gemeinsamen Informatikbetrieb vom 9. / 16. November 2010 und über die künftige Zusammenarbeit im Informatikbereich | 1 | 2024-01-01 to 2024-01-01 |
+| `180-110` | Dekret über die Besoldung der Richterinnen und Richter | 3 | 2024-01-01 to 2026-01-01 |
+| `181-110` | Dekret über das Dienstverhältnis und die berufliche Vorsorge des Regierungsrates des Kantons Schaffhausen | 1 | 2016-07-01 to 2016-07-01 |
+| `190-101-karlsruher-ubereinkommen` | Übereinkommen zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen | 1 | 2002-09-09 to 2002-09-09 |
+| `190-102` | Beschluss des Regierungsrates über die Erstreckung der Anwendung des Karlsruher Übereinkommens auf den Kanton Schaffhausen | 1 | 2003-03-04 to 2003-03-04 |
+| `190-103` | Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet | 1 | 1998-09-03 to 1998-09-03 |
+| `195-001` | Vereinbarung über die Konferenz der Kantonsregierungen | 1 | 2006-03-24 to 2006-03-24 |
+| `195-020-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `211-114` | Vertrag zwischen dem Kanton Schaffhausen und der Einwohnergemeinde Schaffhausen betreffend die Führung des Zivilstandsamtes für den Kanton Schaffhausen | 1 | 2003-08-19 to 2003-08-19 |
+| `211-438` | Beschluss des Regierungsrates über die Anmerkung öffentlich-rechtlicher Eigentumsbeschränkungen im Grundbuch | 1 | 1955-10-06 to 1955-10-06 |
+| `211-440` | Dekret über die amtliche Vermessung | 1 | 2014-01-01 to 2014-01-01 |
+| `211-443` | Tarife für die Nachführungsarbeiten und die Daten- und Planabgabe des Amtes für Geoinformation | 1 | 2014-01-01 to 2014-01-01 |
+| `221-216-nav-hw-sh` | Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmende | 1 | 2021-07-01 to 2021-07-01 |
+| `221-217-nav-lw` | Normalarbeitsvertrag für Arbeitnehmende in der Landwirtschaft | 1 | 2012-01-01 to 2012-01-01 |
+| `279-101` | Beschluss des Regierungsrates betreffend Bezeichnung der zuständigen Amtsstelle für die Bescheinigung von Schiedssprüchen gemäss Art. 9 Abs. 2 des schweizerisch-deutschen Abkommens vom 2. November 1929 | 1 | 1930-11-05 to 1930-11-05 |
+| `341-202` | Hausordnung für das kantonale Gefängnis | 1 | 2011-01-01 to 2011-01-01 |
+| `343-110` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2007-01-01 to 2007-01-01 |
+| `343-120` | Beschluss über den Beitritt zum Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2007-01-01 to 2007-01-01 |
+| `343-130` | Vereinbarung über das Rehabilitationszentrum für Drogenabhängige Lutzenberg (Drogenheim) | 1 | 1982-07-01 to 1982-07-01 |
+| `354-110` | Beschluss über den Personalbestand der Schaffhauser Polizei | 2 | 2023-07-01 to 2025-01-01 |
+| `354-113` | Verwaltungsvereinbarung zwischen dem Kanton Schaffhausen und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement bzw. die Oberzolldirektion über die Zusammenarbeit zwischen der Schaffhauser Polizei und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung | 1 | 2008-06-01 to 2008-06-01 |
+| `354-114` | Vereinbarung über die Errichtung und den Betrieb einer Ostschweizer Polizeischule in Amriswil | 1 | 2006-01-01 to 2006-01-01 |
+| `354-211` | Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Stadtrat Schaffhausen über die Zusammenarbeit zwischen der Schaffhauser Polizei und der Verwaltungspolizei Schaffhausen (Zusammenarbeitsvereinbarung) | 1 | 2001-01-01 to 2001-01-01 |
+| `354-212` | Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Gemeinderat von Neuhausen am Rheinfall über die Zusammenarbeit zwischen der Schaffhauser Polizei und der Verwaltungspolizei Neuhausen am Rheinfall (Zusammenarbeitsvereinbarung) | 1 | 2001-01-01 to 2001-01-01 |
+| `354-213` | Vereinbarung zwischen dem Regierungsrat des Kantons Schaffhausen und dem Stadtrat von Stein am Rhein über die Zusammenarbeit zwischen der Schaffhauser Polizei und der Stadtpolizei Stein am Rhein (Zusammenarbeitsvereinbarung) | 1 | 2002-07-01 to 2002-07-01 |
+| `354-310` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1976-10-25 to 1976-10-25 |
+| `354-311` | Beschluss des Regierungsrates zur interkantonalen Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 2000-01-01 to 2000-01-01 |
+| `354-312-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 1 | 2006-11-09 to 2006-11-09 |
+| `354-420` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2014-01-07 to 2014-01-07 |
+| `354-430-viclas-konkordat` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2012-11-01 to 2012-11-01 |
+| `410-110` | Schuldekret | 1 | 2020-08-01 to 2020-08-01 |
+| `410-114` | Verfügung über die Festlegung der Schulferien | 1 | 2012-08-01 to 2012-08-01 |
+| `410-120` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule | 1 | 2009-08-01 to 2009-08-01 |
+| `410-210` | Konkordat über die Schulkoordination | 1 | 1972-12-04 to 1972-12-04 |
+| `410-220` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2022-12-01 to 2022-12-01 |
+| `410-221-nareg-vo` | Verordnung zum Register über die Gesundheitsfachpersonen NAREG | 1 | 2022-02-01 to 2022-02-01 |
+| `410-231-regionales-schulabkommen` | Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II | 1 | 2001-08-01 to 2001-08-01 |
+| `410-232` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 1 | 2004-08-01 to 2004-08-01 |
+| `410-233` | Beschluss über den Beitritt des Kantons Schaffhausen zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte vom 20. Februar 2003 | 1 | 2003-12-16 to 2003-12-16 |
+| `410-240` | Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik | 1 | 2011-01-01 to 2011-01-01 |
+| `410-260` | Interkantonale Vereinbarung über die Hochschule für Heilpädagogik Zürich | 1 | 2001-02-07 to 2001-02-07 |
+| `410-270-interkantonale-spitalschulvereinbarung-isv` | Interkantonale Vereinbarung für schulische Angebote in Spitälern | 1 | 2026-01-01 to 2026-01-01 |
+| `410-271` | Beschluss über den Beitritt des Kantons Schaffhausen zur Interkantonalen Vereinbarung für schulische Angebote in Spitälern (Interkantonale Spitalschulvereinbarung, ISV) vom 28. Oktober 2022 | 1 | 2026-06-12 to 2026-06-12 |
+| `410-301` | Geschäftsordnung des Erziehungsrates des Kantons Schaffhausen | 1 | 1985-09-23 to 1985-09-23 |
+| `410-520` | Beschluss betreffend die Einmietung der Seminarabteilungen und des Didaktischen Zentrums in der ehemaligen Werkschule +GF+ | 1 | 1995-03-12 to 1995-03-12 |
+| `410-530` | Beschluss des Kantonsrates Schaffhausen betreffend Kauf und Umbau des Schützenhauses Birch (Wohnhaus und Wirtschaft) und des gastgewerblichen Ausbildungszentrums Birch sowie Eintritt in den Baurechtsvertrag mit der Einwohnergemeinde Schaffhausen | 1 | 2008-02-14 to 2008-02-14 |
+| `410-613` | Taxordnung für die Schul- und Impfärzte des Kantons Schaffhausen | 1 | 2004-08-01 to 2004-08-01 |
+| `410-620` | Dekret über die Ausrichtung von Kantonsbeiträgen an die Behandlungskosten der Schulzahnklinik | 1 | 2014-01-01 to 2014-01-01 |
+| `411-210` | Dekret über die Schaffhauser Sonderschulen | 1 | 2016-07-01 to 2016-07-01 |
+| `411-220` | Beschluss des Kantonsrates betreffend die Überführung der Trägerschaft der öffentlich-rechtlichen Sonderschulen in eine selbstständige, öffentlich-rechtliche Anstalt des Kantons Schaffhausen | 1 | 2005-01-01 to 2005-01-01 |
+| `412-104-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 1 | 2007-08-28 to 2007-08-28 |
+| `412-108-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `412-110` | Beschluss betreffend die Übernahme der Trägerschaft der Gewerblich-Industriellen Berufsschule Schaffhausen (GIBS) durch den Kanton Schaffhausen | 1 | 1985-01-01 to 1985-01-01 |
+| `412-120` | Beschluss betreffend die Eingliederung der Berufsschule +GF+ in die Gewerblich-Industrielle Berufsschule Schaffhausen | 1 | 1988-01-01 to 1988-01-01 |
+| `412-190` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld (IFM) | 1 | 1991-11-13 to 1991-11-13 |
+| `413-001-mar` | Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen | 1 | 2007-08-01 to 2007-08-01 |
+| `413-510` | Dekret betreffend die Gewährleistung der berufsbegleitenden oder teilweise berufsbegleitenden Weiterbildung mit Maturitätsabschluss | 1 | 1994-01-01 to 1994-01-01 |
+| `413-511` | Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene | 1 | 2018-01-01 to 2018-01-01 |
+| `414-110-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2022-01-01 to 2022-01-01 |
+| `414-120-fhv` | Interkantonale Fachhochschulvereinbarung | 1 | 2005-09-01 to 2005-09-01 |
+| `414-130-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `415-110` | Beschluss betreffend Verpflichtungskredit für das Sportinfrastrukturprojekt «Neubau Hallenbad KSS» Schaffhausen | 1 | 2023-11-19 to 2023-11-19 |
+| `416-010-stipendiendekret` | Dekret über die Erteilung von Stipendien und Studiendarlehen | 1 | 2018-02-28 to 2018-02-28 |
+| `416-030` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `431-102` | Verfügung des Volkswirtschaftsdepartementes über den Katalog der kantonalen Merkmale im Einwohnerregister | 1 | 2013-10-01 to 2013-10-01 |
+| `500-510` | Dekret über den kantonalen Winkelriedfonds | 1 | 2018-04-01 to 2018-04-01 |
+| `611-101` | Vereinbarung betreffend die Zusammenführung der Finanzkontrolle des Kantons Schaffhausen und der Finanzkontrolle der Stadt Schaffhausen | 1 | 2015-09-01 to 2015-09-01 |
+| `611-102` | Reglement über die Finanzkontrolle von Kanton und Stadt Schaffhausen | 1 | 2002-07-01 to 2002-07-01 |
+| `621-110` | Finanzausgleichsdekret | 2 | 2008-01-01 to 2025-01-01 |
+| `641-110` | Dekret betreffend die Organisation des Steuerwesens | 1 | 2024-01-01 to 2024-01-01 |
+| `641-112` | Verfügung des Finanzdepartementes des Kantons Schaffhausen über Ausgleichs-, Verzugs- und Vergütungszinsen für Kantons- und Gemeindesteuern | 1 | 2024-04-01 to 2024-04-01 |
+| `641-113` | Verfügung betreffend den zeitlich befristeten Verzicht auf die Erhebung eines Verzugszinses bei den Kantons-, Gemeinde- und Kirchensteuern | 1 | 2020-03-27 to 2020-03-27 |
+| `641-120` | Dekret über die Festsetzung des Eigenmietwertes | 1 | 2004-09-01 to 2004-09-01 |
+| `641-200` | Beschluss über die Sanierung der alten Pflegetrakte des Kantonsspitals | 1 | 1999-12-06 to 1999-12-06 |
+| `641-210` | Beschluss über einen Kredit für Ersatz- und Umbauten des kantonalen Psychiatriezentrums | 1 | 1999-04-18 to 1999-04-18 |
+| `671-011` | Konkordat zwischen den Kantonen der schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `680-110` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `700-102` | Beschluss des Regierungsrates betreffend Delegation der Baubewilligungskompetenz gemäss Art. 57 Abs. 2 BauG an die Stadt Schaffhausen | 1 | 2019-01-01 to 2019-01-01 |
+| `700-110-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2010-11-26 to 2010-11-26 |
+| `721-113` | Staatsvertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Wassergewinnungsanlage durch die Einwohnergemeinden Buchberg und Rüdlingen sowie die Politischen Gemeinden Bülach, Eglisau, Hüntwangen, Rafz, Wasterkingen und Wil. | 1 | 2001-09-18 to 2001-09-18 |
+| `725-102` | Rahmenvertrag zwischen dem Kanton Schaffhausen und der Stadt Schaffhausen über das Kompetenzzentrum «Tiefbau Schaffhausen» | 1 | 2018-01-01 to 2018-01-01 |
+| `731-110` | Beschluss über die Genehmigung der Gründungsstatuten des Elektrizitätswerkes des Kantons Schaffhausen | 1 | 2000-12-11 to 2000-12-11 |
+| `731-120` | Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, St. Gallen, Thurgau, Schaffhausen, Schwyz, Appenzell A.-Rh. und Zug betreffend Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke AG | 1 | 1914-07-12 to 1914-07-12 |
+| `731-130` | Beschluss betreffend die Genehmigung des Vertrages über Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke AG und des Vertrages über den Ankauf der Kraftwerke Beznau-Löntsch | 1 | 1914-07-12 to 1914-07-12 |
+| `731-210` | Vereinbarung zwischen der grossherzoglich badischen Regierung, vertreten durch das grossherzogliche Ministerium des Innern, einerseits, und dem Kanton Schaffhausen, vertreten durch den Regierungsrat, anderseits, die Erstellung und den Betrieb von elektrischen Starkstromleitungen betreffend | 1 | 1909-06-04 to 1909-06-04 |
+| `734-001` | Beschluss des Regierungsrates betreffend das Bundesgesetz vom 24. Juni 1902 über die elektrischen Schwach- und Starkstromanlagen | 1 | 2000-01-01 to 2000-01-01 |
+| `740-110` | Beschluss über die Bewilligung eines Rahmenkredites für den Bau der S-Bahn Schaffhausen | 1 | 2011-11-01 to 2011-11-01 |
+| `741-013` | Vereinbarung zwischen den Kantonen Zürich und Schaffhausen über die Ausübung der Polizeidienste auf der Nationalstrasse 4 (N4), Schaffhausen-Winterthur, Abschnitt Flurlingen | 1 | 2001-01-01 to 2001-01-01 |
+| `743-110` | Beschluss über den Beitrag an den Ortsverkehr im Kanton Schaffhausen | 2 | 2016-01-01 to 2026-01-01 |
+| `743-120` | Beschluss betreffend anteilsmässiger Vorfinanzierung des Bundesbeitrags an die neue Durchmesserlinie im Hauptbahnhof Zürich (Darlehen an die SBB) | 1 | 2012-04-10 to 2012-04-10 |
+| `747-301` | Übereinkunft betreffend die Verbaakung der Wasserstrassen von Konstanz bis Schaffhausen | 1 | 1878-07-01 to 1878-07-01 |
+| `812-113` | Verwaltungsvereinbarung betreffend Übernahme der ethisch-medizinischen Begutachtungen humanmedizinischer Forschungsprojekte zwischen dem Kanton Zürich, vertreten durch die Gesundheitsdirektion und dem Kanton Schaffhausen, vertreten durch den Regierungsrat | 1 | 2015-04-01 to 2015-04-01 |
+| `812-620` | Beschluss über die Neuregelung der Zuständigkeiten in der Betreuung Abhängiger und in der Suchtberatung | 1 | 2008-09-22 to 2008-09-22 |
+| `813-110` | Ostschweizer Spitalvereinbarung | 1 | 2012-01-01 to 2012-01-01 |
+| `813-120` | Beschluss des Kantonsrates betreffend die Übertragung des Areals Kantonsspital an die Spitäler Schaffhausen im Baurecht | 1 | 2016-01-01 to 2016-01-01 |
+| `813-121` | Beschluss des Regierungsrates betreffend den Tarif für die ambulante Nierensteinzertrümmerung im Kantonsspital Schaffhausen | 1 | 1989-05-01 to 1989-05-01 |
+| `813-130` | Beschluss über die Einrichtung und Führung einer Kinderkrippe im Kantonsspital Schaffhausen | 1 | 1974-04-22 to 1974-04-22 |
+| `813-140-ivhsm` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `813-160-weiterbildungsfinanzierungvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `814-210` | Staatsvertrag zwischen dem Kanton Schaffhausen und dem Land Baden-Württemberg über die Beseitigung der Abwässer aus dem Bibertal und dem Hegau | 1 | 1977-10-03 to 1977-10-03 |
+| `814-220` | Vertrag zwischen den Regierungen der Kantone Schaffhausen und Zürich über den Bau und Betrieb einer gemeinsamen Kläranlage sowie einer Kehricht- und Klärschlammbeseitigungsanlage durch die Einwohnergemeinden Schaffhausen und Neuhausen am Rheinfall und die politischen Gemeinden Feuerthalen und Flurlingen | 1 | 1967-05-22 to 1967-05-22 |
+| `814-230` | Vertrag zwischen den Regierungen der Kantone Schaffhausen und Thurgau über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage durch die Gemeinden Stein am Rhein (Kt. Schaffhausen), Eschenz, Kaltenbach, Mammern und Wagenhausen (Kt. Thurgau) | 1 | 1969-08-12 to 1969-08-12 |
+| `817-002-iklv` | Vereinbarung betreffend das Interkantonale Labor | 1 | 2023-01-01 to 2023-01-01 |
+| `817-003` | Gebührentarif für das Interkantonale Labor | 1 | 2023-01-01 to 2023-01-01 |
+| `817-403` | Reblagenverzeichnis | 1 | 2022-02-25 to 2022-02-25 |
+| `831-111` | Vereinbarung zwischen dem Kanton Schaffhausen und der Einwohnergemeinde Schaffhausen betreffend die Delegation der AHV-Zweigstelle an den Kanton | 1 | 1993-01-01 to 1993-01-01 |
+| `831-305` | Beschluss des Regierungsrates über die Verwendung des kantonalen Anteils an den der Alters- und Hinterlassenenversicherung aus den Überschüssen der Lohn- und Verdienstersatzordnung zugewiesenen Mitteln | 1 | 1948-01-01 to 1948-01-01 |
+| `831-410` | Vereinbarung zwischen dem Kanton Schaffhausen und der BVG- und Stiftungsaufsicht des Kantons Zürich betreffend die Aufsicht über Einrichtungen der beruflichen Vorsorge | 1 | 2012-01-01 to 2012-01-01 |
+| `836-102` | Beschluss über den Beitrag der Selbständigerwerbenden an die kantonale Familienausgleichskasse | 1 | 2024-01-01 to 2024-01-01 |
+| `836-105` | Beschluss über den Arbeitgeberbeitrag an die kantonale Familienausgleichskasse | 1 | 2023-01-01 to 2023-01-01 |
+| `836-106` | Beschluss über die Beiträge an die Familienausgleichskasse für Selbstständigerwerbende und Nichterwerbstätige | 1 | 2003-01-01 to 2003-01-01 |
+| `836-110` | Beschluss über die Erhöhung der Kinder- und Ausbildungszulagen | 1 | 2020-01-01 to 2020-01-01 |
+| `837-102` | Beschluss über den Ansatz der Arbeitgeber- und Arbeitnehmerbeiträge an den kantonalen Sozialfonds | 1 | 2023-01-01 to 2023-01-01 |
+| `837-103` | Vertrag zwischen dem Kanton Schaffhausen und der Gemeinde Büsingen (D) betreffend die Anwendbarkeit der Leistungen des Arbeitslosenhilfegesetzes (AHG) auf Arbeitslose mit Wohnsitz in Büsingen gemäss Art. 25 AHG | 1 | 2018-01-01 to 2018-01-01 |
+| `837-301` | Vertrag zwischen dem Kanton Schaffhausen und der Einwohnergemeinde Schaffhausen betreffend die Delegation des Arbeitsamtes der Stadt Schaffhausen an den Kanton | 1 | 2012-01-01 to 2012-01-01 |
+| `837-302` | Vertrag zwischen dem Kanton Schaffhausen und der Einwohnergemeinde Neuhausen am Rheinfall betreffend die Delegation des Arbeitsamtes der Gemeinde Neuhausen am Rheinfall an den Kanton | 1 | 2012-01-01 to 2012-01-01 |
+| `842-110` | Beschluss über die Förderung des Baues von Alters-, Invaliden- und Familienwohnungen | 1 | 1972-08-20 to 1972-08-20 |
+| `843-110` | Beschluss über die Förderung der Erneuerung bestehender Wohnungen | 1 | 1976-12-05 to 1976-12-05 |
+| `850-110` | Beschluss über die Genehmigung der Änderungen beim Grundbedarf für den Lebensunterhalt gemäss Art. 25 Abs. 3 des Gesetzes über die öffentliche Sozialhilfe und soziale Einrichtungen (SHEG) | 4 | 2020-01-01 to 2025-01-01 |
+| `850-130-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 1 | 2020-06-01 to 2020-06-01 |
+| `914-110` | Dekret über Investitionskredite und Betriebshilfe in der Landwirtschaft | 1 | 2019-12-31 to 2019-12-31 |
+| `916-352` | Beschluss des Regierungsrates über die bakteriologische Untersuchung der Konsummilch | 1 | 2010-07-01 to 2010-07-01 |
+| `923-102` | Übereinkunft über die Fischerei in den zürcherisch-schaffhausischen Grenzabschnitten des Rheins | 1 | 1999-03-03 to 1999-03-03 |
+| `935-502` | Vereinbarung zwischen den Kantonen Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus, Graubünden, Schaffhausen, St.Gallen und Thurgau sowie der Eidgenössischen Spielbankenkommission über die Zusammenarbeit bei der Verfolgung von Widerhandlungen gegen die eidgenössische Spielbankengesetzgebung | 1 | 2002-11-18 to 2002-11-18 |
+| `935-520-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `935-540-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `960-112` | Beschluss der Verwaltungskommission der Gebäudeversicherung betreffend die Gebäudeversicherungsprämien | 1 | 2006-01-01 to 2006-01-01 |
+| `970-110` | Beschluss über einen «Schaffhauser Preis für Entwicklungszusammenarbeit» | 1 | 2001-07-02 to 2001-07-02 |
 
-The build made 397 commits:
+The build made 552 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 282 | first version of an act |
-| 115 | one law on its in-force day |
+| 242 | baseline texts where the record starts |
+| 310 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 10 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1047 laws in the record.
-- 587 tags.
+- 10 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 18 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1256 laws in the record.
+- 852 tags.
 
 ## Dates
 
@@ -321,13 +465,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `75f47e041f062e7240bd02cc99f1c14494388b44902874255db23f5fa9a487d0` (5904638 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `a5ab1da38d9477919d0ff8633ffe787bb7da2b245a95a630bb2c005cb0df5e65` (7355619 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-407 versions of 282 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -341,7 +485,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
