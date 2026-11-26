@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Schaffhausen: systematic collection (rechtsbuch.sh.ch) · `switzerland/schaffhausen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 07:42 UTC**.
-- Acts held here: 282; current at the source: 282; changed at the source since the version held here: 142; no longer at the source: 0.
-- Compared with the source in this read: 183 of the 282 acts held here; the others were not compared in this read (see the check's note).
+- The official source last read and every act held here checked against it: **2026-11-26 06:39 UTC**.
+- Acts held here: 424; current at the source: 424; changed at the source since the version held here: 0; no longer at the source: 0.
+- Compared with the source in this read: 63 of the 424 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 3 (in force later: 3); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
