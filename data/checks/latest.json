@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:20:00Z",
+ "generated": "2026-11-27T07:13:53Z",
  "latest": {
   "lexwork-schaffhausen|switzerland/schaffhausen/acts": {
    "attempt": 1,
@@ -23,18 +23,18 @@
     "repo": 424,
     "source_in_scope": 424
    },
-   "check_id": "ch-lexwork-schaffhausen-20261126T063754Z",
+   "check_id": "ch-lexwork-schaffhausen-20261127T063905Z",
    "commits": null,
    "corpus": "switzerland/schaffhausen/acts",
    "error": null,
-   "finished": "2026-11-26T06:39:19Z",
+   "finished": "2026-11-27T06:41:19Z",
    "flags": [
     {
-     "detail": "2 of 82 texts differ from the source",
+     "detail": "2 of 87 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 3,
+   "gap": 1,
    "note": "rechtsbuch.sh.ch: index of 432 acts (432 in force); held 424; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 63 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 71,
+   "requests": 129,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "432 entries, 432 in force (rechtsbuch.sh.ch)",
    "source": "lexwork-schaffhausen",
-   "started": "2026-11-26T06:37:54Z",
+   "started": "2026-11-27T06:39:05Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -76,7 +76,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 63,
-    "versions_checked": 82,
+    "versions_checked": 87,
     "versions_differ": 2
    }
   }

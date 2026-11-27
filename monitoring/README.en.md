@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Schaffhausen only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 06:39 UTC, Schaffhausen: systematic collection (rechtsbuch.sh.ch): 71 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason. Flags: `verify-differ`.
+**Last check:** 2026-11-27 06:41 UTC, Schaffhausen: systematic collection (rechtsbuch.sh.ch): 129 addresses read; 0 added, 0 changed, 0 removed; no change; 1 not published, 0 of them with no reason. Flags: `verify-differ`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Schaffhausen: systematic collection (rechtsbuch.sh.ch)](https://rechtsbuch.sh.ch/) | `<act>/` | daily | 2026-11-26 06:39 UTC | no change | watched |
+| [Schaffhausen: systematic collection (rechtsbuch.sh.ch)](https://rechtsbuch.sh.ch/) | `<act>/` | daily | 2026-11-27 06:41 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 06:39](checks/2026-11.md#ch-lexwork-schaffhausen-20261127t063905z) | lexwork-schaffhausen | 129 | 0 | 0 | 0 | 1 (0) | no change `verify-differ` | — |
 | [2026-11-26 06:37](checks/2026-11.md#ch-lexwork-schaffhausen-20261126t063754z) | lexwork-schaffhausen | 71 | 0 | 0 | 0 | 3 (0) | no change `verify-differ` | — |
 | [2026-11-25 07:34](checks/2026-11.md#ch-lexwork-schaffhausen-20261125t073438z) | lexwork-schaffhausen | 250 | 142 | 0 | 0 | 3 (0) | changes found `verify-differ` | [156](https://github.com/lexifina/switzerland-schaffhausen-law/compare/b03698d86c5e...068ce39274a3) |
 | [2026-11-24 15:00](checks/2026-11.md#ch-lexwork-schaffhausen-20261124t150051z) | lexwork-schaffhausen | 186 | 142 | 0 | 0 | 143 (0) | the check failed | — |
