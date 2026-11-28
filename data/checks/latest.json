@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:13:53Z",
+ "generated": "2026-11-28T08:36:16Z",
  "latest": {
   "lexwork-schaffhausen|switzerland/schaffhausen/acts": {
    "attempt": 1,
@@ -23,18 +23,18 @@
     "repo": 424,
     "source_in_scope": 424
    },
-   "check_id": "ch-lexwork-schaffhausen-20261127T063905Z",
+   "check_id": "ch-lexwork-schaffhausen-20261128T062956Z",
    "commits": null,
    "corpus": "switzerland/schaffhausen/acts",
    "error": null,
-   "finished": "2026-11-27T06:41:19Z",
+   "finished": "2026-11-28T06:32:16Z",
    "flags": [
     {
-     "detail": "2 of 87 texts differ from the source",
+     "detail": "4 of 84 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 1,
+   "gap": 2,
    "note": "rechtsbuch.sh.ch: index of 432 acts (432 in force); held 424; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 63 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 129,
+   "requests": 133,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "432 entries, 432 in force (rechtsbuch.sh.ch)",
    "source": "lexwork-schaffhausen",
-   "started": "2026-11-27T06:39:05Z",
+   "started": "2026-11-28T06:29:56Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -67,6 +67,8 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "641.100 (641-100): 2025-01-01",
+     "700.101 (700-101-bauv): 2026-01-01",
      "171.110 (171-110): 2025-01-01",
      "180.110 (180-110): 2025-01-01"
     ],
@@ -76,8 +78,8 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 63,
-    "versions_checked": 87,
-    "versions_differ": 2
+    "versions_checked": 84,
+    "versions_differ": 4
    }
   }
  },
